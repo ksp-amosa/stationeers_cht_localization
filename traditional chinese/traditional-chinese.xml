@@ -200,67 +200,67 @@
     </Record>
     <Record>
       <Key>Open</Key>
-      <Value>Open</Value>
+      <Value>打開</Value>
     </Record>
     <Record>
       <Key>Close</Key>
-      <Value>Close</Value>
+      <Value>關閉</Value>
     </Record>
     <Record>
       <Key>Opened</Key>
-      <Value>Opened</Value>
+      <Value>已開啟</Value>
     </Record>
     <Record>
       <Key>Closed</Key>
-      <Value>Closed</Value>
+      <Value>已關閉</Value>
     </Record>
     <Record>
       <Key>Off</Key>
-      <Value>Off</Value>
+      <Value>關閉</Value>
     </Record>
     <Record>
       <Key>On</Key>
-      <Value>On</Value>
+      <Value>啟動</Value>
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>Powered</Value>
+      <Value>已驅動</Value>
     </Record>
     <Record>
       <Key>Unpowered</Key>
-      <Value>Unpowered</Value>
+      <Value>為驅動</Value>
     </Record>
     <Record>
       <Key>False</Key>
-      <Value>False</Value>
+      <Value>假</Value>
     </Record>
     <Record>
       <Key>True</Key>
-      <Value>True</Value>
+      <Value>真</Value>
     </Record>
     <Record>
       <Key>Construct</Key>
-      <Value>Construct</Value>
+      <Value>建造</Value>
     </Record>
     <Record>
       <Key>Deconstruct</Key>
-      <Value>Deconstruct</Value>
+      <Value>拆除</Value>
     </Record>
     <Record>
       <Key>Disconnect</Key>
-      <Value>Disconnect</Value>
+      <Value>中斷</Value>
     </Record>
     <Record>
       <Key>Connect</Key>
-      <Value>Connect</Value>
+      <Value>連結</Value>
     </Record>
     <Record>
       <Key>Load</Key>
-      <Value>Load</Value>
+      <Value>載入</Value>
     </Record>
     <Record>
       <Key>Unload</Key>
-      <Value>Unload</Value>
+      <Value>未載入</Value>
     </Record>
     <Record>
       <Key>GetIn</Key>
@@ -268,77 +268,77 @@
     </Record>
     <Record>
       <Key>Error</Key>
-      <Value>Error</Value>
+      <Value>錯誤</Value>
     </Record>
     <Record>
       <Key>Lock</Key>
-      <Value>Lock</Value>
+      <Value>上鎖</Value>
     </Record>
     <Record>
       <Key>Unlock</Key>
-      <Value>Unlock</Value>
+      <Value>解鎖</Value>
     </Record>
     <Record>
       <Key>Rename</Key>
-      <Value>Rename</Value>
+      <Value>重新命名</Value>
     </Record>
   </Actions>
   <Things>
     <Record>
       <Key>ApplianceMicrowave</Key>
-      <Value>Microwave</Value>
+      <Value>微波爐</Value>
     </Record>
     <Record>
       <Key>ApplianceReagentProcessor</Key>
-      <Value>Reagent Processor</Value>
+      <Value>試劑處理器</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleArmL</Key>
-      <Value>Body Part Astronaut Female Arm L</Value>
+      <Value>女性太空人左手</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleArmR</Key>
-      <Value>Body Part Astronaut Female Arm R</Value>
+      <Value>女性太空人右手</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleHead</Key>
-      <Value>Body Part Astronaut Female Head</Value>
+      <Value>女性太空人頭部</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleLegL</Key>
-      <Value>Body Part Astronaut Female Leg L</Value>
+      <Value>女性太空人左腿</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleLegR</Key>
-      <Value>Body Part Astronaut Female Leg R</Value>
+      <Value>女性太空人右腿</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleTorso</Key>
-      <Value>Body Part Astronaut Female Torso</Value>
+      <Value>女性太空人身體</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleArmL</Key>
-      <Value>Body Part Astronaut Male Arm L</Value>
+      <Value>男性太空人左手</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleArmR</Key>
-      <Value>Body Part Astronaut Male Arm R</Value>
+      <Value>男性太空人右手</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleHead</Key>
-      <Value>Body Part Astronaut Male Head</Value>
+      <Value>男性太空人頭部</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleLegL</Key>
-      <Value>Body Part Astronaut Male Leg L</Value>
+      <Value>男性太空人左腿</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleLegR</Key>
-      <Value>Body Part Astronaut Male Leg R</Value>
+      <Value>男性太空人右腿</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautTorso</Key>
-      <Value>Body Part Astronaut Torso</Value>
+      <Value>男性太空人身體</Value>
     </Record>
     <Record>
       <Key>BodyPartChickBody</Key>
@@ -510,6 +510,7 @@
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyser</Key>
+<<<<<<< HEAD
       <Value>晶片(壓力分析儀)</Value>
     </Record>
     <Record>
@@ -535,6 +536,33 @@
     <Record>
       <Key>CircuitboardCameraDisplay</Key>
       <Value>電路板(Camera Display)</Value>
+=======
+      <Value>晶片(原子分析)</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeMedicalAnalyser</Key>
+      <Value>晶片(身體分析)</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeNetworkAnalyser</Key>
+      <Value>晶片(電路分析)</Value>
+    </Record>
+    <Record>
+      <Key>Character</Key>
+      <Value>角色</Value>
+    </Record>
+    <Record>
+      <Key>CircuitboardAirControl</Key>
+      <Value>電路板(空氣控制)</Value>
+    </Record>
+    <Record>
+      <Key>CircuitboardAirlockControl</Key>
+      <Value>電路板(氣閘門控制)</Value>
+    </Record>
+    <Record>
+      <Key>CircuitboardCameraDisplay</Key>
+      <Value>Circuitboard (CameraDisplay)</Value>
+>>>>>>> a053dfe4dbbd01f3d2fb8e3a1b40d8c9809e3bcb
     </Record>
     <Record>
       <Key>CircuitboardDoorControl</Key>
@@ -3332,51 +3360,51 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
   <Colors>
     <Record>
       <Key>ColorBlue</Key>
-      <Value>Blue</Value>
+      <Value>藍色</Value>
     </Record>
     <Record>
       <Key>ColorGray</Key>
-      <Value>Gray</Value>
+      <Value>灰色</Value>
     </Record>
     <Record>
       <Key>ColorGreen</Key>
-      <Value>Green</Value>
+      <Value>綠色</Value>
     </Record>
     <Record>
       <Key>ColorOrange</Key>
-      <Value>Orange</Value>
+      <Value>橙色</Value>
     </Record>
     <Record>
       <Key>ColorRed</Key>
-      <Value>Red</Value>
+      <Value>紅色</Value>
     </Record>
     <Record>
       <Key>ColorYellow</Key>
-      <Value>Yellow</Value>
+      <Value>黃色</Value>
     </Record>
     <Record>
       <Key>ColorWhite</Key>
-      <Value>White</Value>
+      <Value>白色</Value>
     </Record>
     <Record>
       <Key>ColorBlack</Key>
-      <Value>Black</Value>
+      <Value>黑色</Value>
     </Record>
     <Record>
       <Key>ColorBrown</Key>
-      <Value>Brown</Value>
+      <Value>棕色</Value>
     </Record>
     <Record>
       <Key>ColorKhaki</Key>
-      <Value>Khaki</Value>
+      <Value>卡其色</Value>
     </Record>
     <Record>
       <Key>ColorPink</Key>
-      <Value>Pink</Value>
+      <Value>粉紅色</Value>
     </Record>
     <Record>
       <Key>ColorPurple</Key>
-      <Value>Purple</Value>
+      <Value>紫色</Value>
     </Record>
   </Colors>
   <Keys />
