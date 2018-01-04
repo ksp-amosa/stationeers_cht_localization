@@ -162,15 +162,15 @@
     </Record>
     <Record>
       <Key>TutorialTitleCycleAirlock</Key>
-      <Value>氣閥門循環</Value>
+      <Value>氣閘門循環</Value>
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
-      <Value>您可以使用 {THING:StructureConsole} 來循環開啟氣閥門 ，或者 使用位於 {THING:StructureAirlock} 門邊的按鈕來循環開啟氣閥門. 這將會將氣閥門內的壓力減壓至您可以走出到太空.&#10;&#10;裝在 {THING:StructureConsole} 裡面的 {THING:CircuitboardAirlockControl}  是一個可以控制 {THING:StructureActiveVent} 和其它裝置來完成氣閥門設定的電路板.</Value>
+      <Value>您可以使用 {THING:StructureConsole} 來循環開啟氣閘門 ，或者 使用位於 {THING:StructureAirlock} 門邊的按鈕來循環開啟氣閘門. 這將會將氣閘門內的壓力減壓至您可以走出到太空.&#10;&#10;裝在 {THING:StructureConsole} 裡面的 {THING:CircuitboardAirlockControl}  是一個可以控制 {THING:StructureActiveVent} 和其它裝置來完成氣閘門設定的電路板.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskCycleAirlock1</Key>
-      <Value>氣閥門循環</Value>
+      <Value>氣閘門循環</Value>
     </Record>
     <Record>
       <Key>TutorialTitleRepairCable</Key>
