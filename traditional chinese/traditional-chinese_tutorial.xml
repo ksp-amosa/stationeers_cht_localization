@@ -22,107 +22,107 @@
     </Record>
     <Record>
       <Key>TutorialDescPickupHelmet</Key>
-      <Value>找到 {THING:ItemSpaceHelmet} 並且將它放置到 {SLOT:LeftHand} 或 {SLOT:RightHand} 的空間格，當物品呈現綠色可互動狀態時，您可以使用 {COLORRED:Left Mouse Button} 點選它。</Value>
+      <Value>找到 {THING:ItemSpaceHelmet} 並且將它裝備到 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位，當物品呈現綠色可互動狀態時，您可以使用 {COLORRED:Left Mouse Button} 點選它</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearHelmet</Key>
-      <Value>持續按住 {KEY:HelmetSlot} 直到您的 {THING:ItemSpaceHelmet} 移動到您的 {SLOT:Helmet} 物件格。</Value>
+      <Value>持續按住 {KEY:HelmetSlot} 直到您的 {THING:ItemSpaceHelmet} 移動到您的 {SLOT:Helmet} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialDescPickupSuit</Key>
-      <Value>Find the {THING:ItemEvaSuit} and put it in your {SLOT:LeftHand} or {SLOT:RightHand} slot by clicking the {COLORRED:Left Mouse Button} over the green interactable you see when looking at it.</Value>
+      <Value>找到 {THING:ItemEvaSuit} 並且將它裝備到 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位，當物品呈現綠色可互動狀態時，您可以使用 {COLORRED:Left Mouse Button} 點選它</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearSuit</Key>
-      <Value>Press and hold the {KEY:SuitSlot} key to equip the {THING:ItemEvaSuit} to your {SLOT:Suit} slot.</Value>
+      <Value>持續按住 {KEY:SuitSlot} 直到您的 {THING:ItemEvaSuit} 裝備至您的 {SLOT:Suit} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialDescPickupJetpack</Key>
-      <Value>Find the {THING:ItemSpacepack} and put it in your {SLOT:LeftHand} or {SLOT:RightHand} slot by clicking the {COLORRED:Left Mouse Button} over the green interactable you see when looking at it.</Value>
+      <Value>找到 {THING:ItemSpacepack} 並且將它裝備到 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位，當物品呈現綠色可互動狀態時，您可以使用 {COLORRED:Left Mouse Button} 點選它</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearJetpack</Key>
-      <Value>Press and hold the {KEY:BackSlot} key to equip the {THING:ItemSpacepack} to your {SLOT:Back} slot.</Value>
+      <Value>持續按住 {KEY:BackSlot} 直到您的 {THING:ItemSpacepack} 裝備至您的 {SLOT:Back} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialTitlePowerSuit</Key>
-      <Value>Powering the spacesuit</Value>
+      <Value>啟動太空衣</Value>
     </Record>
     <Record>
       <Key>TutorialDescPowerSuit</Key>
-      <Value>Find a {THING:ItemBatteryCellLarge} and pick it up into your {SLOT:LeftHand} or {SLOT:RightHand} slot by looking at it and clicking the {COLORRED:Left Mouse Button}.</Value>
+      <Value>找到 {THING:ItemBatteryCellLarge} 撿起並且將它裝備到 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位，您可以使用 {COLORRED:Left Mouse Button} 點選它</Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit1</Key>
-      <Value>Pickup a {THING:ItemBatteryCellLarge}</Value>
+      <Value>撿起 {THING:ItemBatteryCellLarge}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit2</Key>
-      <Value>Open the {THING:ItemEvaSuit} slot window</Value>
+      <Value>開啟 {THING:ItemEvaSuit} 的欄位格</Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit3</Key>
-      <Value>Select the {SLOT:LifeSupport} slot in the {THING:ItemEvaSuit}</Value>
+      <Value>選擇 {THING:ItemEvaSuit} 中的 {SLOT:LifeSupport} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit4</Key>
-      <Value>Equip the {THING:ItemEvaSuit} with a {THING:ItemBatteryCellLarge}</Value>
+      <Value>穿上已安裝 {THING:ItemBatteryCellLarge} 的 {THING:ItemEvaSuit}</Value>
     </Record>
     <Record>
       <Key>TutorialDescLifesupport1</Key>
-      <Value>You can interact with the {SLOT:Suit} slot by pressing and releasing the {KEY:SuitSlot} key. This will cycle through Interactions and Slot Inventory, if available. Do this until you see the slot inventory.</Value>
+      <Value>您可以重複使用 {KEY:SuitSlot} 鍵來開啟並切換 {SLOT:Suit} 的互動介面， 這個動作將會在 欄位格 與 功能選項 中切換。現在將您的介面切換至 欄位格.</Value>
     </Record>
     <Record>
       <Key>TutorialDescLifesupport2</Key>
-      <Value>{COLORRED:You need to 穿上 the {THING:ItemEvaSuit} to continue. Please put it back on.}</Value>
+      <Value>{COLORRED:您必須穿上 {THING:ItemEvaSuit} 才能繼續，請穿回}</Value>
     </Record>
     <Record>
       <Key>TutorialDescLifesupport3</Key>
-      <Value>You can select slots inside the {THING:ItemEvaSuit} using the {COLORRED:Mouse Wheel}. Select the internal {SLOT:LifeSupport} slot to continue.</Value>
+      <Value>現在可以在 {THING:ItemEvaSuit} 使用 {COLORRED:Mouse Wheel} 來選擇欄位格。現在請選擇 {SLOT:LifeSupport} 欄位以繼續</Value>
     </Record>
     <Record>
       <Key>TutorialDescLifesupport4</Key>
-      <Value>With the {THING:ItemBatteryCellLarge} active in your {SLOT:LeftHand} or {SLOT:RightHand} slot, press the {KEY:InventorySelect} key to swap the {THING:ItemBatteryCellLarge} into the {SLOT:LifeSupport} slot. If needed you can press the {KEY:SwapHands} key to swap what is your active hand.</Value>
+      <Value>您可以使用 {KEY:SwapHands} 來切換 {SLOT:LeftHand} 或 {SLOT:RightHand} 的欄位格為當前手持物品, 現在將手持物品切換至 {THING:ItemBatteryCellLarge} ，接著使用 {KEY:InventorySelect} 鍵 安裝至 {SLOT:LifeSupport} 的欄位上</Value>
     </Record>
     <Record>
       <Key>TutorialTitleSuitFilter</Key>
-      <Value>Equipping a Filter</Value>
+      <Value>裝備濾心</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter1</Key>
-      <Value>Find a {THING:ItemGasFilterCarbonDioxide} and pick it up into your {SLOT:LeftHand} or {SLOT:RightHand} slot by looking at it and clicking the {COLORRED:Left Mouse Button}.</Value>
+      <Value>找到 {THING:ItemGasFilterCarbonDioxide} ，並點擊 {COLORRED:Left Mouse Button} 撿起至 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位格</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFilter1</Key>
-      <Value>Pickup a {THING:ItemGasFilterCarbonDioxide}</Value>
+      <Value>撿起 {THING:ItemGasFilterCarbonDioxide}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFilter2</Key>
-      <Value>Open the {THING:ItemEvaSuit} slot window</Value>
+      <Value>開啟 {THING:ItemEvaSuit} 的欄位格</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFilter3</Key>
-      <Value>Select the {SLOT:Filter} slot in the {THING:ItemEvaSuit}</Value>
+      <Value>選擇 {THING:ItemEvaSuit} 中的 {SLOT:Filter} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFilter4</Key>
-      <Value>Equip the {THING:ItemEvaSuit} with a {THING:ItemGasFilterCarbonDioxide}</Value>
+      <Value>穿上已安裝 {THING:ItemGasFilterCarbonDioxide} 的 {THING:ItemEvaSuit}</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter2</Key>
-      <Value>You can interact with the {SLOT:Suit} slot by pressing and releasing the {KEY:SuitSlot} key. This will cycle through Interactions and Slot Inventory, if available. Do this until you see the slot inventory.</Value>
+      <Value>您可以重複使用 {KEY:SuitSlot} 鍵來開啟並切換 {SLOT:Suit} 的互動介面，這個動作將會在 欄位格 與 功能選項 中切換。現在將您的介面切換至 欄位格.</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter3</Key>
-      <Value>You can select slots inside the {THING:ItemEvaSuit} using the {COLORRED:Mouse Wheel}. Select any of the internal {SLOT:Filter} slots to continue.</Value>
+      <Value>您可以使用 {COLORRED:Mouse Wheel} 來選擇 {THING:ItemEvaSuit} 中的欄位格. 選擇任何一個內置的 {SLOT:Filter} 欄位已繼續</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter4</Key>
-      <Value>With the {THING:ItemGasFilterCarbonDioxide} active in your {SLOT:LeftHand} or {SLOT:RightHand} slot, press the {KEY:InventorySelect} key to swap the battery into the slot. If needed you can press the {KEY:SwapHands} key to swap what is your active hand.</Value>
+      <Value>現在將手持物品切換至 {THING:ItemGasFilterCarbonDioxide} ，接著使用 {KEY:InventorySelect} 鍵 安裝至 {SLOT:Filter} 的欄位上，您可以使用 {KEY:SwapHands} 來切換 {SLOT:LeftHand} 或 {SLOT:RightHand} 的欄位格為當前手持物品</Value>
     </Record>
     <Record>
       <Key>TutorialTitleGetTools</Key>
-      <Value>Getting Construction Equipment</Value>
+      <Value>取得建築裝備</Value>
     </Record>
     <Record>
       <Key>TutorialDescGetTools1</Key>
@@ -134,19 +134,19 @@
     </Record>
 	<Record>
       <Key>TutorialTaskGetTools1</Key>
-      <Value>Drop the {THING:ItemTablet}</Value>
+      <Value>放下 {THING:ItemTablet}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskGetTools2</Key>
-      <Value>穿上 the {THING:ItemToolBelt} in the {SLOT:Belt} slot</Value>
+      <Value>穿上 {THING:ItemToolBelt} 至您的 {SLOT:Belt} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialTaskGetTools3</Key>
-      <Value>Pickup the {THING:ItemSteelSheets} in the {SLOT:LeftHand} or {SLOT:RightHand} slot</Value>
+      <Value>撿起 {THING:ItemSteelSheets} 至您的 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialTitleGoInAirlock</Key>
-      <Value>Going into space</Value>
+      <Value>前往太空</Value>
     </Record>
     <Record>
       <Key>TutorialDescGoInAirlock1</Key>
@@ -154,15 +154,15 @@
     </Record>
     <Record>
       <Key>TutorialTaskGoInAirlock1</Key>
-      <Value>Close your {THING:ItemSpaceHelmet} visor</Value>
+      <Value>關上您的 {THING:ItemSpaceHelmet} 面罩</Value>
     </Record>
     <Record>
       <Key>TutorialTaskGoInAirlock2</Key>
-      <Value>Go through the {THING:StructureAirlock} door into the yellow room</Value>
+      <Value>經過 {THING:StructureAirlock} 門並前往黃色的房間</Value>
     </Record>
     <Record>
       <Key>TutorialTitleCycleAirlock</Key>
-      <Value>Cycle the airlock</Value>
+      <Value>氣閥門循環</Value>
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
@@ -170,11 +170,11 @@
     </Record>
     <Record>
       <Key>TutorialTaskCycleAirlock1</Key>
-      <Value>Cycle the Airlock</Value>
+      <Value>氣閥門循環</Value>
     </Record>
     <Record>
       <Key>TutorialTitleRepairCable</Key>
-      <Value>Repair Broken Cable</Value>
+      <Value>修復損毀的纜線</Value>
     </Record>
     <Record>
       <Key>TutorialDescRepairCable1</Key>
@@ -182,19 +182,19 @@
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable1</Key>
-      <Value>Equip your {THING:ItemWireCutters}</Value>
+      <Value>裝備您的 {THING:ItemWireCutters}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable2</Key>
-      <Value>Remove the {THING:StructureCableJunctionBurnt}</Value>
+      <Value>移除 {THING:StructureCableJunctionBurnt}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable3</Key>
-      <Value>Equip your {THING:ItemCableCoil}</Value>
+      <Value>裝備您的 {THING:ItemCableCoil}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable4</Key>
-      <Value>Replace with a {THING:StructureCableJunction} from the {THING:ItemCableCoil}</Value>
+      <Value>將{THING:ItemCableCoil} 取代程 {THING:StructureCableJunction}</Value>
     </Record>
     <Record>
       <Key>TutorialDescRepairCable2</Key>
@@ -210,7 +210,7 @@
     </Record>
 	<Record>
       <Key>TutorialTitleFinishFrame</Key>
-      <Value>Finish Welding Frame</Value>
+      <Value>完成框架焊接</Value>
     </Record>
     <Record>
       <Key>TutorialDescFinishFrame</Key>
@@ -218,55 +218,55 @@
     </Record>
     <Record>
       <Key>TutorialTaskFinishFrame1</Key>
-      <Value>Weld the {THING:StructureFrame} to complete tutorial</Value>
+      <Value>焊接 {THING:StructureFrame} 以完成教程</Value>
     </Record>
 	<Record>
       <Key>TutorialTitleTablet</Key>
-      <Value>Interacting with Items in Hands</Value>
+      <Value>切換手中的物品</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet1</Key>
-      <Value>Pickup a {THING:ItemTablet} and {THING:ItemBatteryCellLarge} into your {SLOT:LeftHand} or {SLOT:RightHand} slots by looking at it and clicking the {COLORYELLOW:Left Mouse Button}. You can switch your active hand by pressing the {KEY:SwapHands} key. This will allow you to put one item in each hands. Do this to continue.</Value>
+      <Value>您可以使用 {COLORRED:Left Mouse Button} 點擊撿起 {THING:ItemTablet} 和 {THING:ItemBatteryCellLarge} 至您的 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位. 可以使用 {KEY:SwapHands} 鍵來切換 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位. 這將可以讓您把手上的物品安裝至另一隻手上的裝備</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet2</Key>
-      <Value>You can interact with your active hand slot by pressing and releasing the {KEY:ActiveHandSlot} key. This will cycle through Interactions and Slot Inventory, if available for the item currently in your active hand. You can change your currently active hand with the {KEY:SwapHands} key. Select the {THING:ItemTablet} as your active hand and open its slot interior to continue.</Value>
+      <Value>您現在可以重複使用 {KEY:ActiveHandSlot} 鍵以重複切換目前手持裝備的 欄位格 與 互動選項的內容, 您可以使用 {KEY:SwapHands} 鍵來切換當前手持物品. 現在請選擇 {THING:ItemTablet} 為您的當前手持物品 並且打開內部欄位格以繼續</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet3</Key>
-      <Value>You can select slots inside the {THING:ItemTablet} using the {COLORRED:Mouse Wheel}, just the same as before. Select the internal {SLOT:Battery} slot to continue.</Value>
+      <Value>與之前教程一樣的，您可以使用 {COLORRED:Mouse Wheel} 選擇 {THING:ItemTablet} 的欄位格. 現在請選擇內部 {SLOT:Battery} 欄位以繼續</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet4</Key>
-      <Value>Now swap your active hand with the {KEY:SwapHands} key until the {THING:ItemBatteryCellLarge} is in the active hand. You should have the internal inventory of the {THING:ItemTablet} open in one hand, and the {THING:ItemBatteryCellLarge} selected as the active hand in the other. Then press the {KEY:InventorySelect} key to equip into the selected {SLOT:Battery} slot.</Value>
+      <Value>現在使用 {KEY:SwapHands} 鍵來切換您當前手持物品至 {THING:ItemBatteryCellLarge} . 而現在您另一隻手的 {THING:ItemTablet} 欄位格應該會是打開的狀態, 並且 {THING:ItemBatteryCellLarge} 為當前您的手持物品時候. 按下 {KEY:InventorySelect} 鍵 裝備至所選擇的 {SLOT:Battery} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialTaskTablet1</Key>
-      <Value>Pickup a {THING:ItemTablet}</Value>
+      <Value>撿起 {THING:ItemTablet}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskTablet2</Key>
-      <Value>Pickup a {THING:ItemBatteryCellLarge}</Value>
+      <Value>撿起 {THING:ItemBatteryCellLarge}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskTablet3</Key>
-      <Value>Open the {THING:ItemTablet} slot window in hands</Value>
+      <Value>開啟手中的 {THING:ItemTablet} 的欄位格</Value>
     </Record>
     <Record>
       <Key>TutorialTaskTablet4</Key>
-      <Value>Select the {SLOT:Battery} slot in the {THING:ItemTablet}</Value>
+      <Value>選擇 {THING:ItemTablet} 中的 {SLOT:Battery} 欄位 </Value>
     </Record>
     <Record>
       <Key>TutorialTaskTablet5</Key>
-      <Value>Equip the {THING:ItemTablet} with a {THING:ItemBatteryCellLarge}</Value>
+      <Value>裝備已安裝 {THING:ItemBatteryCellLarge} 的 {THING:ItemTablet}</Value>
     </Record>
 	<Record>
       <Key>TutorialTitleUseReader</Key>
-      <Value>Using the {THING:CartridgeElectronicReader}</Value>
+      <Value>使用 {THING:CartridgeElectronicReader}</Value>
     </Record>
 	<Record>
       <Key>TutorialDescUseReader1</Key>
-      <Value>The {THING:ItemTablet} can have different cartridges for different functions. Turn the {THING:ItemTablet} on using the {KEY:ToggleHandPower} key, or the interactions in your hands with the {KEY:ActiveHandSlot} key.</Value>
+      <Value>{THING:ItemTablet} 有各種不同功能的晶片可以安裝. 現在將 {THING:ItemTablet} 打開，使用 {KEY:ToggleHandPower} 鍵可以快速開啟電源, 或者切換至當前手持物品，並重複點擊 {KEY:ActiveHandSlot} 鍵切換至功能介面後 也可以開啟裝置電源</Value>
     </Record>
 	<Record>
       <Key>TutorialDescUseReader2</Key>
@@ -274,16 +274,16 @@
     </Record>
 	<Record>
       <Key>TutorialTaskUseReader1</Key>
-      <Value>Turn on the {THING:ItemTablet}</Value>
+      <Value>啟動 {THING:ItemTablet}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskUseReader2</Key>
-      <Value>Find {COLORYELLOW:Recipe #VAR1#} to make a {THING:ItemMuffin}</Value>
+      <Value>找到 {COLORYELLOW:Recipe #VAR1#} 以製作 {THING:ItemMuffin}</Value>
     </Record>
 	
 	<Record>
       <Key>TutorialTitleBakeMuffin</Key>
-      <Value>Bake a {THING:ItemMuffin}</Value>
+      <Value>烘培一份 {THING:ItemMuffin}</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin1</Key>
@@ -315,47 +315,47 @@
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin1</Key>
-      <Value>Pickup the {THING:ApplianceMicrowave}</Value>
+      <Value>撿起 {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin2</Key>
-      <Value>Drop on the {THING:StructureBench}</Value>
+      <Value>放置到 {THING:StructureBench}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin3</Key>
-      <Value>Wrench {THING:ApplianceMicrowave} into place</Value>
+      <Value>安裝 {THING:ApplianceMicrowave} 到位置上</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin11</Key>
-      <Value>Get {THING:ItemWrench} from {THING:ItemSpacepack}</Value>
+      <Value>從{THING:ItemSpacepack} 取得 {THING:ItemWrench}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin4</Key>
-      <Value>Put {COLORYELLOW:50g} of {THING:ItemFlour} into the {THING:ApplianceMicrowave}</Value>
+      <Value>放入 {COLORYELLOW:50g} 的 {THING:ItemFlour} 進 {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin5</Key>
-      <Value>Put {COLORYELLOW:one} {THING:ItemEgg} into the {THING:ApplianceMicrowave}</Value>
+      <Value>放入 {COLORYELLOW:one} {THING:ItemEgg} 進 {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin6</Key>
-      <Value>Put {COLORYELLOW:10ml} of {THING:ItemMilk} into the {THING:ApplianceMicrowave}</Value>
+      <Value>放入 {COLORYELLOW:10ml} 的 {THING:ItemMilk} 進 {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin7</Key>
-      <Value>Open the {THING:ApplianceMicrowave}</Value>
+      <Value>打開 {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin8</Key>
-      <Value>Make a {THING:ItemMuffin}</Value>
+      <Value>製作一個 {THING:ItemMuffin}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin9</Key>
-      <Value>Close {THING:ApplianceMicrowave} door</Value>
+      <Value>關上 {THING:ApplianceMicrowave} 的門</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin10</Key>
-      <Value>Turn {THING:ApplianceMicrowave} on</Value>
+      <Value>啟動 {THING:ApplianceMicrowave}</Value>
     </Record>
   </Interface>
 </Language>
