@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>English</Name>
-  <Code>EN</Code>
+  <Name>繁體中文</Name>
+  <Code>TW</Code>
   <Font>font_english</Font>
   <Interface>
     <Record>
@@ -126,11 +126,11 @@
     </Record>
     <Record>
       <Key>TutorialDescGetTools1</Key>
-      <Value>Now we need to head outside the station to do some repairs. Drop the {THING:ItemTablet} using the {KEY:Drop} key so we can pick other things up.</Value>
+      <Value>現在我們需要前往太空站外部修理一些壞掉的東西. 使用 {KEY:Drop} 鍵來放下手上的 {THING:ItemTablet} ，使雙手無裝備才能撿起其它物品</Value>
     </Record>
 	<Record>
       <Key>TutorialDescGetTools2</Key>
-      <Value>Collect the {THING:ItemToolBelt} and assign it to the {SLOT:Belt} slot by holding the {KEY:ToolBeltSlot} key. We will continue once the {THING:ItemToolBelt} is equipped and you have the {THING:ItemSteelSheets} in your hands.</Value>
+      <Value>撿起 {THING:ItemToolBelt} 並且按住 {KEY:ToolBeltSlot} 鍵 以安裝至 {SLOT:Belt} 欄位. 等您裝備好 {THING:ItemToolBelt} 以及撿起房間內的 {THING:ItemSteelSheets} 時候，我們將會繼續這個教程.</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskGetTools1</Key>
@@ -150,7 +150,7 @@
     </Record>
     <Record>
       <Key>TutorialDescGoInAirlock1</Key>
-      <Value>Head through the {THING:StructureAirlock} door and ensure your {THING:ItemEvaSuit} and {THING:ItemSpaceHelmet} are ready. Press the {KEY:HelmetSlot} key until you see the interactions menu, scroll to the close option, and press {KEY:InventorySelect} to toggle the state.</Value>
+      <Value>前往 {THING:StructureAirlock} ，確認您的 {THING:ItemEvaSuit} 和 {THING:ItemSpaceHelmet} 都已經正確運作. 按下兩次 {KEY:HelmetSlot} 鑑將可以看到互動選單, 捲動至 關閉 選項, 按下 {KEY:InventorySelect} 來切換目前面罩的狀態.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskGoInAirlock1</Key>
@@ -166,7 +166,7 @@
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
-      <Value>You can cycle the Airlock using the {THING:StructureConsole} or the keypad interactable on either of the {THING:StructureAirlock} doors. This will depressurize the airlock so you can go into space.&#10;&#10;A {THING:CircuitboardAirlockControl} in the {THING:StructureConsole} is controlling the {THING:StructureActiveVent}s and other devices to cycle the airlock.</Value>
+      <Value>您可以使用 {THING:StructureConsole} 來循環開啟氣閥門 ，或者 使用位於 {THING:StructureAirlock} 門邊的按鈕來循環開啟氣閥門. 這將會將氣閥門內的壓力減壓至您可以走出到太空.&#10;&#10;裝在 {THING:StructureConsole} 裡面的 {THING:CircuitboardAirlockControl}  是一個可以控制 {THING:StructureActiveVent} 和其它裝置來完成氣閥門設定的電路板.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskCycleAirlock1</Key>
@@ -178,7 +178,7 @@
     </Record>
     <Record>
       <Key>TutorialDescRepairCable1</Key>
-      <Value>There is a broken {THING:StructureCableJunction}, find it and remove by using a {THING:ItemWireCutters} from your {THING:ItemToolBelt}. Press {KEY:ToolBeltSlot} to open your {SLOT:Belt} slot. Press {KEY:InventorySelect} to swap the highlighted interior slot item to your hands.</Value>
+      <Value>有一條損壞的 {THING:StructureCableJunction},把它找出來，使用您 {THING:ItemToolBelt} 中的 {THING:ItemWireCutters} 移除. 按下 {KEY:ToolBeltSlot} 以打開 {SLOT:Belt} 欄位. 按下 {KEY:InventorySelect} 將會取出目前所選擇的工具至您的手上.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable1</Key>
@@ -198,15 +198,15 @@
     </Record>
     <Record>
       <Key>TutorialDescRepairCable2</Key>
-      <Value>Look at the {THING:StructureCableJunctionBurnt} while the {THING:ItemWireCutters} are in your active hand. You will see a {COLORYELLOW:yellow} box around it. Press and hold {COLORRED:Left Mouse Button} to remove the {THING:StructureCableJunctionBurnt}.</Value>
+      <Value>拿著 {THING:ItemWireCutters} 在手上，並且面向 {THING:StructureCableJunctionBurnt}. 會看到一個 {COLORYELLOW:yellow} 選擇區塊. 按住 {COLORRED:Left Mouse Button} 來移除 {THING:StructureCableJunctionBurnt}.</Value>
     </Record>
     <Record>
       <Key>TutorialDescRepairCable3</Key>
-      <Value>Now we need to place a {THING:StructureCableJunction}. Move the {THING:ItemCableCoil} from your {THING:ItemToolBelt} to your {SLOT:LeftHand} or {SLOT:RightHand} slot. Remember the {KEY:InventorySelect} interacts with interior slots and actions, and the {KEY:ToolBeltSlot} key will open and close your {SLOT:Belt} slot.</Value>
+      <Value>現在我們需要裝上 {THING:StructureCableJunction}. 從您的 {THING:ItemToolBelt} 中取出 {THING:ItemCableCoil} 並且裝備至您的 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位. 記住， 使用 {KEY:InventorySelect} 鍵是將裝備放入、取出或確定等動作, 而 {KEY:ToolBeltSlot} 將會開關您的 {SLOT:Belt} 欄位格.</Value>
     </Record>
     <Record>
       <Key>TutorialDescRepairCable4</Key>
-      <Value>With the {THING:ItemCableCoil} in your active hand, press {COLORRED:Right Mouse Button} to bring up the construction cursor.&#10;&#10;Use the {COLORRED:Mouse Wheel} to change placement type, selecting the {THING:StructureCableJunction} variant.&#10;&#10;Press {KEY:RotateLeft} to rotate left, {KEY:RotateRight} to rotate right, {KEY:RotateUp} to rotate up, {KEY:RotateDown} to rotate down, {KEY:RotateRollLeft} to roll left, or {KEY:RotateRollRight} to roll right.</Value>
+      <Value>確認手上目前裝備著 {THING:ItemCableCoil} , 按下 {COLORRED:Right Mouse Button} 將會帶出建造模式.&#10;&#10;使用 {COLORRED:Mouse Wheel} 切換各種不同的安裝形式, 選擇到 {THING:StructureCableJunction} .&#10;&#10;按下 {KEY:RotateLeft} 向左選轉, {KEY:RotateRight} 向右旋轉, {KEY:RotateUp} 往上旋轉, {KEY:RotateDown} 往下旋轉, {KEY:RotateRollLeft} 往左側翻, 或者 {KEY:RotateRollRight} 向右側翻.</Value>
     </Record>
 	<Record>
       <Key>TutorialTitleFinishFrame</Key>
@@ -214,7 +214,7 @@
     </Record>
     <Record>
       <Key>TutorialDescFinishFrame</Key>
-      <Value>Some tools require two things to operate. To weld the {THING:StructureFrame} you will need a {THING:ItemWeldingTorch} in your active hand, and {THING:ItemSteelSheets} in the other hand. A quick key, {KEY:ToggleHandPower}, will automatically toggle the power on and off for any item in your active hand, or you can do it through the interactions menu.</Value>
+      <Value>有些工具需要雙手持指定物品才能操作. 要焊接 {THING:StructureFrame} 的話，您需要 {THING:ItemWeldingTorch} 在您的當前手上, 而 {THING:ItemSteelSheets} 需要在另一隻手上， 按下 {KEY:ToggleHandPower}, 將會自動開關當前手上的設備或工具,當然您也可以使用該物品的互動選單來開關設備.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskFinishFrame1</Key>
@@ -230,7 +230,7 @@
     </Record>
     <Record>
       <Key>TutorialDescTablet2</Key>
-      <Value>您現在可以重複使用 {KEY:ActiveHandSlot} 鍵以重複切換目前手持裝備的 欄位格 與 互動選項的內容, 您可以使用 {KEY:SwapHands} 鍵來切換當前手持物品. 現在請選擇 {THING:ItemTablet} 為您的當前手持物品 並且打開內部欄位格以繼續</Value>
+      <Value>您現在可以重複使用 {KEY:ActiveHandSlot} 鍵以切換目前手持裝備的 欄位格 與 互動選項的內容, 您可以使用 {KEY:SwapHands} 鍵來切換當前手持物品. 現在請選擇 {THING:ItemTablet} 為您的當前手持物品 並且打開內部欄位格以繼續</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet3</Key>
@@ -270,7 +270,7 @@
     </Record>
 	<Record>
       <Key>TutorialDescUseReader2</Key>
-      <Value>The {THING:ItemTablet} has a {THING:CartridgeElectronicReader} inserted. This tells you the recipes you need to make for all things in the game, and what they can be made in. Find {COLORYELLOW:Recipe #VAR1#} that allows you to make a {THING:ItemMuffin} by using the {COLORRED:Mouse Wheel} to scroll through the options.&#10;&#10;Using different cartridges allows you to access many different functions, such as the {THING:CartridgeNetworkAnalyser} which allows you to debug cable networks, or the {THING:CartridgeAtmosAnalyser} which provides atmospheric information.</Value>
+      <Value>{THING:ItemTablet} 目前安裝了 {THING:CartridgeElectronicReader}. 您可以從上面找到遊戲中全部製作物的配方, 以及製作物品所使用的設備為何. 使用 {COLORRED:Mouse Wheel} 以找到 {COLORYELLOW:Recipe #VAR1#} 製作 {THING:ItemMuffin} 的配方.&#10;&#10;有各種不同功能的晶片可以讓您使用，像是 {THING:CartridgeNetworkAnalyser} 可以讓您針對線路除錯，或者 {THING:CartridgeAtmosAnalyser} 可以提供詳細的氣壓資訊.</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskUseReader1</Key>
@@ -287,31 +287,31 @@
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin1</Key>
-      <Value>Some devices in the game are mounted on {THING:StructureBench}s; they are called Appliances. Pickup the {THING:ApplianceMicrowave} and walk in front of the {THING:StructureBench}.</Value>
+      <Value>遊戲中有些設備必須被安裝到 {THING:StructureBench}s; 我們把它稱為家電. 撿起 {THING:ApplianceMicrowave} 然後走到 {THING:StructureBench} 前面.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin2</Key>
-      <Value>Press the {KEY:Drop} key to drop the {THING:ApplianceMicrowave} on top of the {THING:StructureBench}. Keep doing this until the {THING:ApplianceMicrowave} is sitting on top of the {THING:StructureBench}.</Value>
+      <Value>按下 {KEY:Drop} 鍵 把 {THING:ApplianceMicrowave} 放到 {THING:StructureBench} 的上方. 盡量保持 {THING:ApplianceMicrowave} 平穩不動的放在 {THING:StructureBench} 上面.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin3</Key>
-      <Value>Look at the {THING:ApplianceMicrowave}. Look at the side, rather than the door, so that you are targeting the item directly and not trying to open it. When you see a {COLORYELLOW:yellow box} hold down the {COLORRED:Left Mouse Button} to wrench it onto the {THING:StructureBench}.</Value>
+      <Value>接著面向 {THING:ApplianceMicrowave}. 調整視線位置，直到出現 {COLORYELLOW:yellow box} 的時候，按住 {COLORRED:Left Mouse Button}  將設備正確安裝到 {THING:StructureBench}.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin4</Key>
-      <Value>Look at the door on the {THING:ApplianceMicrowave}. Press the {COLORRED:Left Mouse Button} to open the door and allow you to put reagents inside.</Value>
+      <Value>面向 {THING:ApplianceMicrowave} 的門前方. 按下 {COLORRED:Left Mouse Button} 可以打開門，讓您可以放入要製作的材料.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin5</Key>
-      <Value>Pickup the required ingredients in your task list and look inside the {THING:ApplianceMicrowave} with it in your active hand. Hold {COLORRED:Left Mouse Button} to add more of the reagent until you have added enough. Do not add more than is needed for the recipe. You will need to do this twice for some recipes.</Value>
+      <Value>撿起在桌邊 列表上所需要的配方材料，接著面對 {THING:ApplianceMicrowave} 並將材料切換至您當前的手上. 按住 {COLORRED:Left Mouse Button} 填入足夠滿足配方的材料數量. 不要加入超過配方所需要的材料數量，等下將會有其它配方需要這些材料</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin6</Key>
-      <Value>Now turn the {THING:ApplianceMicrowave} on by pressing the button on the right of the device. The device will now bake your recipe. If you have the recipe right, then you will have made a {THING:ItemMuffin}. If not, you will have nothing.</Value>
+      <Value>現在將點擊 {THING:ApplianceMicrowave} 右方的按鈕以啟動電源 . 這個設備將會開始製作您的配方. 如果您的配方正確無誤, 您將會成功製作出 {THING:ItemMuffin}. 如果沒有，將不會有任何產品出現.</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin7</Key>
-      <Value>Open your {THING:ItemSpacepack} by pressing the {KEY:BackSlot} key. Cycle to the slot with the {THING:ItemWrench} using the {COLORRED:Mouse Wheel} and press the {KEY:InventorySelect} key to swap it into your hand.</Value>
+      <Value>使用 {KEY:BackSlot} 鍵來打開 {THING:ItemSpacepack} . 使用 {COLORRED:Mouse Wheel} 來選到 {THING:ItemWrench} 的欄位上，並且 按下 {KEY:InventorySelect} 鍵 來轉移至您的手上.</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin1</Key>
