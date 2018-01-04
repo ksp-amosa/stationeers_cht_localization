@@ -6,27 +6,27 @@
   <Interface>
     <Record>
       <Key>TutorialTitleWearSpacesuit</Key>
-      <Value>Wearing the Spacesuit</Value>
+      <Value>穿上太空衣</Value>
     </Record>
     <Record>
       <Key>TutorialTaskWearHelmet</Key>
-      <Value>Wear {THING:ItemSpaceHelmet}</Value>
+      <Value>戴上 {THING:ItemSpaceHelmet}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskWearSuit</Key>
-      <Value>Wear {THING:ItemEvaSuit}</Value>
+      <Value>穿上 {THING:ItemEvaSuit}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskWearJetpack</Key>
-      <Value>Wear {THING:ItemSpacepack}</Value>
+      <Value>穿上 {THING:ItemSpacepack}</Value>
     </Record>
     <Record>
       <Key>TutorialDescPickupHelmet</Key>
-      <Value>Find the {THING:ItemSpaceHelmet} and put it in your {SLOT:LeftHand} or {SLOT:RightHand} slot by clicking the {COLORRED:Left Mouse Button} over the green interactable you see when looking at it.</Value>
+      <Value>找到 {THING:ItemSpaceHelmet} 並且將它放置到 {SLOT:LeftHand} 或 {SLOT:RightHand} 的空間格，當物品呈現綠色可互動狀態時，您可以使用 {COLORRED:Left Mouse Button} 點選它。</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearHelmet</Key>
-      <Value>Press and hold {KEY:HelmetSlot} until your {THING:ItemSpaceHelmet} moves to your {SLOT:Helmet} slot.</Value>
+      <Value>持續按住 {KEY:HelmetSlot} 直到您的 {THING:ItemSpaceHelmet} 移動到您的 {SLOT:Helmet} 物件格。</Value>
     </Record>
     <Record>
       <Key>TutorialDescPickupSuit</Key>
@@ -74,7 +74,7 @@
     </Record>
     <Record>
       <Key>TutorialDescLifesupport2</Key>
-      <Value>{COLORRED:You need to wear the {THING:ItemEvaSuit} to continue. Please put it back on.}</Value>
+      <Value>{COLORRED:You need to 穿上 the {THING:ItemEvaSuit} to continue. Please put it back on.}</Value>
     </Record>
     <Record>
       <Key>TutorialDescLifesupport3</Key>
@@ -138,7 +138,7 @@
     </Record>
     <Record>
       <Key>TutorialTaskGetTools2</Key>
-      <Value>Wear the {THING:ItemToolBelt} in the {SLOT:Belt} slot</Value>
+      <Value>穿上 the {THING:ItemToolBelt} in the {SLOT:Belt} slot</Value>
     </Record>
     <Record>
       <Key>TutorialTaskGetTools3</Key>
