@@ -16,103 +16,103 @@
     </RecordReagent>
     <RecordReagent>
       <Key>Egg</Key>
-      <Value>Egg</Value>
+      <Value>蛋(Egg)</Value>
       <Unit />
     </RecordReagent>
     <RecordReagent>
       <Key>Iron</Key>
-      <Value>Iron</Value>
-      <Unit>g</Unit>
+      <Value>鐵(Iron)</Value>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Gold</Key>
-      <Value>Gold</Value>
-      <Unit>g</Unit>
+      <Value>金(Gold)</Value>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Carbon</Key>
-      <Value>Carbon</Value>
-      <Unit>g</Unit>
+      <Value>碳(Carbon)</Value>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Uranium</Key>
-      <Value>Uranium</Value>
-      <Unit>g</Unit>
+      <Value>鈾(Uranium)</Value>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Copper</Key>
-      <Value>Copper</Value>
-      <Unit>g</Unit>
+      <Value>銅(Copper)</Value>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Steel</Key>
-      <Value>Steel</Value>
-      <Unit>g</Unit>
+      <Value>鋼(Steel)</Value>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Hydrocarbon</Key>
       <Value>Hydrocarbon</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Silver</Key>
       <Value>Silver</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Nickel</Key>
       <Value>Nickel</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Lead</Key>
       <Value>Lead</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Electrum</Key>
       <Value>Electrum</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Invar</Key>
       <Value>Invar</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Constantan</Key>
       <Value>Constantan</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Solder</Key>
       <Value>Solder</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Plastic</Key>
       <Value>Plastic</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Silicon</Key>
       <Value>Silicon</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>SalicylicAcid</Key>
       <Value>Salicylic Acid</Value>
-      <Unit>g</Unit>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Alcohol</Key>
       <Value>Alcohol</Value>
-      <Unit>ml</Unit>
+      <Unit>毫升</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Oil</Key>
       <Value>Oil</Value>
-      <Unit>ml</Unit>
+      <Unit>毫升</Unit>
     </RecordReagent>
   </Reagents>
   <Gases>
