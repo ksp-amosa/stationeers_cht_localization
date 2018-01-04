@@ -134,11 +134,11 @@
     </Record>
 	<Record>
       <Key>TutorialTaskGetTools1</Key>
-      <Value>Drop the {THING:ItemTablet}</Value>
+      <Value>放下 {THING:ItemTablet}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskGetTools2</Key>
-      <Value>穿上 the {THING:ItemToolBelt} in the {SLOT:Belt} slot</Value>
+      <Value>穿上 {THING:ItemToolBelt} 至您的 {SLOT:Belt} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialTaskGetTools3</Key>
@@ -146,7 +146,7 @@
     </Record>
     <Record>
       <Key>TutorialTitleGoInAirlock</Key>
-      <Value>Going into space</Value>
+      <Value>前往太空</Value>
     </Record>
     <Record>
       <Key>TutorialDescGoInAirlock1</Key>
@@ -154,15 +154,15 @@
     </Record>
     <Record>
       <Key>TutorialTaskGoInAirlock1</Key>
-      <Value>Close your {THING:ItemSpaceHelmet} visor</Value>
+      <Value>關上您的 {THING:ItemSpaceHelmet} 面罩</Value>
     </Record>
     <Record>
       <Key>TutorialTaskGoInAirlock2</Key>
-      <Value>Go through the {THING:StructureAirlock} door into the yellow room</Value>
+      <Value>經過 {THING:StructureAirlock} 門並前往黃色的房間</Value>
     </Record>
     <Record>
       <Key>TutorialTitleCycleAirlock</Key>
-      <Value>Cycle the airlock</Value>
+      <Value>氣閥門循環</Value>
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
@@ -170,11 +170,11 @@
     </Record>
     <Record>
       <Key>TutorialTaskCycleAirlock1</Key>
-      <Value>Cycle the Airlock</Value>
+      <Value>氣閥門循環</Value>
     </Record>
     <Record>
       <Key>TutorialTitleRepairCable</Key>
-      <Value>Repair Broken Cable</Value>
+      <Value>修復損毀的纜線</Value>
     </Record>
     <Record>
       <Key>TutorialDescRepairCable1</Key>
@@ -182,15 +182,15 @@
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable1</Key>
-      <Value>Equip your {THING:ItemWireCutters}</Value>
+      <Value>裝備您的 {THING:ItemWireCutters}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable2</Key>
-      <Value>Remove the {THING:StructureCableJunctionBurnt}</Value>
+      <Value>移除 {THING:StructureCableJunctionBurnt}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable3</Key>
-      <Value>Equip your {THING:ItemCableCoil}</Value>
+      <Value>裝備您的 {THING:ItemCableCoil}</Value>
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable4</Key>
@@ -274,16 +274,16 @@
     </Record>
 	<Record>
       <Key>TutorialTaskUseReader1</Key>
-      <Value>Turn on the {THING:ItemTablet}</Value>
+      <Value>啟動 {THING:ItemTablet}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskUseReader2</Key>
-      <Value>Find {COLORYELLOW:Recipe #VAR1#} to make a {THING:ItemMuffin}</Value>
+      <Value>找到 {COLORYELLOW:Recipe #VAR1#} 以製作 {THING:ItemMuffin}</Value>
     </Record>
 	
 	<Record>
       <Key>TutorialTitleBakeMuffin</Key>
-      <Value>Bake a {THING:ItemMuffin}</Value>
+      <Value>烘培一份 {THING:ItemMuffin}</Value>
     </Record>
 	<Record>
       <Key>TutorialDescBakeMuffin1</Key>
@@ -315,47 +315,47 @@
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin1</Key>
-      <Value>Pickup the {THING:ApplianceMicrowave}</Value>
+      <Value>撿起 {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin2</Key>
-      <Value>Drop on the {THING:StructureBench}</Value>
+      <Value>放置到 {THING:StructureBench}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin3</Key>
-      <Value>Wrench {THING:ApplianceMicrowave} into place</Value>
+      <Value>安裝 {THING:ApplianceMicrowave} 到位置上</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin11</Key>
-      <Value>Get {THING:ItemWrench} from {THING:ItemSpacepack}</Value>
+      <Value>從{THING:ItemSpacepack} 取得 {THING:ItemWrench}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin4</Key>
-      <Value>Put {COLORYELLOW:50g} of {THING:ItemFlour} into the {THING:ApplianceMicrowave}</Value>
+      <Value>放入 {COLORYELLOW:50g} 的 {THING:ItemFlour} 進 {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin5</Key>
-      <Value>Put {COLORYELLOW:one} {THING:ItemEgg} into the {THING:ApplianceMicrowave}</Value>
+      <Value>放入 {COLORYELLOW:one} {THING:ItemEgg} 進 {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin6</Key>
-      <Value>Put {COLORYELLOW:10ml} of {THING:ItemMilk} into the {THING:ApplianceMicrowave}</Value>
+      <Value>放入 {COLORYELLOW:10ml} 的 {THING:ItemMilk} 進 {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin7</Key>
-      <Value>Open the {THING:ApplianceMicrowave}</Value>
+      <Value>打開 {THING:ApplianceMicrowave}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin8</Key>
-      <Value>Make a {THING:ItemMuffin}</Value>
+      <Value>製作一個 {THING:ItemMuffin}</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin9</Key>
-      <Value>Close {THING:ApplianceMicrowave} door</Value>
+      <Value>關上 {THING:ApplianceMicrowave} 的門</Value>
     </Record>
 	<Record>
       <Key>TutorialTaskBakeMuffin10</Key>
-      <Value>Turn {THING:ApplianceMicrowave} on</Value>
+      <Value>啟動 {THING:ApplianceMicrowave}</Value>
     </Record>
   </Interface>
 </Language>
