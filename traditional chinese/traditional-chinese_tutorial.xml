@@ -142,7 +142,7 @@
     </Record>
     <Record>
       <Key>TutorialTaskGetTools3</Key>
-      <Value>Pickup the {THING:ItemSteelSheets} in the {SLOT:LeftHand} or {SLOT:RightHand} slot</Value>
+      <Value>撿起 {THING:ItemSteelSheets} 至您的 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialTitleGoInAirlock</Key>
@@ -194,7 +194,7 @@
     </Record>
     <Record>
       <Key>TutorialTaskRepairCable4</Key>
-      <Value>Replace with a {THING:StructureCableJunction} from the {THING:ItemCableCoil}</Value>
+      <Value>將{THING:ItemCableCoil} 取代程 {THING:StructureCableJunction}</Value>
     </Record>
     <Record>
       <Key>TutorialDescRepairCable2</Key>
@@ -210,7 +210,7 @@
     </Record>
 	<Record>
       <Key>TutorialTitleFinishFrame</Key>
-      <Value>Finish Welding Frame</Value>
+      <Value>完成框架焊接</Value>
     </Record>
     <Record>
       <Key>TutorialDescFinishFrame</Key>
@@ -218,7 +218,7 @@
     </Record>
     <Record>
       <Key>TutorialTaskFinishFrame1</Key>
-      <Value>Weld the {THING:StructureFrame} to complete tutorial</Value>
+      <Value>焊接 {THING:StructureFrame} 以完成教程</Value>
     </Record>
 	<Record>
       <Key>TutorialTitleTablet</Key>
