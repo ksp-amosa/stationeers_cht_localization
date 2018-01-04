@@ -2224,115 +2224,115 @@
   <Slots>
     <Record>
       <Key>Output</Key>
-      <Value>Output</Value>
+      <Value>輸出</Value>
     </Record>
     <Record>
       <Key>Input</Key>
-      <Value>Input</Value>
+      <Value>輸入</Value>
     </Record>
     <Record>
       <Key>LeftHand</Key>
-      <Value>Left Hand</Value>
+      <Value>左手</Value>
     </Record>
     <Record>
       <Key>RightHand</Key>
-      <Value>Right Hand</Value>
+      <Value>右手</Value>
     </Record>
     <Record>
       <Key>Helmet</Key>
-      <Value>Helmet</Value>
+      <Value>頭盔</Value>
     </Record>
     <Record>
       <Key>Suit</Key>
-      <Value>Suit</Value>
+      <Value>太空衣</Value>
     </Record>
     <Record>
       <Key>Back</Key>
-      <Value>Back</Value>
+      <Value>返回</Value>
     </Record>
     <Record>
       <Key>Brain</Key>
-      <Value>Brain</Value>
+      <Value>大腦</Value>
     </Record>
     <Record>
       <Key>Uniform</Key>
-      <Value>Uniform</Value>
+      <Value>制服</Value>
     </Record>
     <Record>
       <Key>Lungs</Key>
-      <Value>Lungs</Value>
+      <Value>肺部</Value>
     </Record>
     <Record>
       <Key>Belt</Key>
-      <Value>Belt</Value>
+      <Value>腰帶</Value>
     </Record>
     <Record>
       <Key>Battery</Key>
-      <Value>Battery</Value>
+      <Value>電池</Value>
     </Record>
     <Record>
       <Key>GasCanister</Key>
-      <Value>Gas Canister</Value>
+      <Value>氣體空壓瓶(GasCanister)</Value>
     </Record>
     <Record>
       <Key>GasFilter</Key>
-      <Value>Gas Filter</Value>
+      <Value>氣體濾心</Value>
     </Record>
     <Record>
       <Key>AirTank</Key>
-      <Value>Air Tank</Value>
+      <Value>空氣罐(AirTank)</Value>
     </Record>
     <Record>
       <Key>WasteTank</Key>
-      <Value>Waste Tank</Value>
+      <Value>廢棄罐(WasteTank)</Value>
     </Record>
     <Record>
       <Key>LifeSupport</Key>
-      <Value>Life Support</Value>
+      <Value>維生裝置</Value>
     </Record>
     <Record>
       <Key>Filter</Key>
-      <Value>Filter</Value>
+      <Value>濾心</Value>
     </Record>
     <Record>
       <Key>Tool</Key>
-      <Value>Tool</Value>
+      <Value>工具</Value>
     </Record>
     <Record>
       <Key>Ore</Key>
-      <Value>Ore</Value>
+      <Value>礦物</Value>
     </Record>
     <Record>
       <Key>Propellent</Key>
-      <Value>Propellent</Value>
+      <Value>噴射背包燃料(Propellent)</Value>
     </Record>
     <Record>
       <Key>Cartridge</Key>
-      <Value>Cartridge</Value>
+      <Value>晶片</Value>
     </Record>
     <Record>
       <Key>CaptainsSeat</Key>
-      <Value>Captain's Seat</Value>
+      <Value>艦長座位</Value>
     </Record>
     <Record>
       <Key>PassengerSeatLeft</Key>
-      <Value>Passenger Seat Left</Value>
+      <Value>左乘客座位</Value>
     </Record>
     <Record>
       <Key>PassengerSeatRight</Key>
-      <Value>Passenger Seat Right</Value>
+      <Value>右乘客座位</Value>
     </Record>
     <Record>
       <Key>DataDisk</Key>
-      <Value>Data Disk</Value>
+      <Value>磁碟片</Value>
     </Record>
     <Record>
       <Key>Appliance1</Key>
-      <Value>Appliance 1</Value>
+      <Value>裝置 1</Value>
     </Record>
     <Record>
       <Key>Appliance2</Key>
-      <Value>Appliance 2</Value>
+      <Value>裝置 2</Value>
     </Record>
     <Record>
       <Key>Import</Key>
@@ -2344,15 +2344,15 @@
     </Record>
     <Record>
       <Key>Seat</Key>
-      <Value>Seat</Value>
+      <Value>座位(Seat)</Value>
     </Record>
     <Record>
       <Key>TransportSlot</Key>
-      <Value>Transport Slot</Value>
+      <Value>傳輸插槽(Transport Slot)</Value>
     </Record>
     <Record>
       <Key>Motherboard</Key>
-      <Value>Motherboard</Value>
+      <Value>主機板(Motherboard)</Value>
     </Record>
     <Record>
       <Key>Entity</Key>
@@ -2360,15 +2360,15 @@
     </Record>
     <Record>
       <Key>Occupant</Key>
-      <Value>Occupant</Value>
+      <Value>佔領者(Occupant)</Value>
     </Record>
     <Record>
       <Key>PortableSlot</Key>
-      <Value>Portable Slot</Value>
+      <Value>平板電腦插槽(Portable Slot)</Value>
     </Record>
     <Record>
       <Key>Bed</Key>
-      <Value>Bed</Value>
+      <Value>床</Value>
     </Record>
     <Record>
       <Key>Processing</Key>
@@ -2376,7 +2376,7 @@
     </Record>
     <Record>
       <Key>Torpedo</Key>
-      <Value>Torpedo</Value>
+      <Value>魚雷</Value>
     </Record>
     <Record>
       <Key>LoadingRail</Key>
@@ -2386,135 +2386,135 @@
   <Interactables>
     <Record>
       <Key>Activate</Key>
-      <Value>Activate</Value>
+      <Value>啟用(Activate)</Value>
     </Record>
     <Record>
       <Key>Open</Key>
-      <Value>Open</Value>
+      <Value>開啟(Open)</Value>
     </Record>
     <Record>
       <Key>OnOff</Key>
-      <Value>On Off</Value>
+      <Value>開 關</Value>
     </Record>
     <Record>
       <Key>Lock</Key>
-      <Value>Lock</Value>
+      <Value>鎖定</Value>
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>Powered</Value>
+      <Value>供電(Powered)</Value>
     </Record>
     <Record>
       <Key>Error</Key>
-      <Value>Error</Value>
+      <Value>錯誤</Value>
     </Record>
     <Record>
       <Key>Slot1</Key>
-      <Value>Slot1</Value>
+      <Value>插槽1</Value>
     </Record>
     <Record>
       <Key>Slot2</Key>
-      <Value>Slot2</Value>
+      <Value>插槽2</Value>
     </Record>
     <Record>
       <Key>GrabLeftHand</Key>
-      <Value>Grab Left Hand</Value>
+      <Value>抓住左手</Value>
     </Record>
     <Record>
       <Key>GrabRightHand</Key>
-      <Value>Grab Right Hand</Value>
+      <Value>抓住右手</Value>
     </Record>
     <Record>
       <Key>GrabLeftFoot</Key>
-      <Value>Grab Left Foot</Value>
+      <Value>抓住左腳</Value>
     </Record>
     <Record>
       <Key>GrabRightFoot</Key>
-      <Value>Grab Right Foot</Value>
+      <Value>抓住右腳</Value>
     </Record>
     <Record>
       <Key>Drag</Key>
-      <Value>Drag</Value>
+      <Value>拖曳(Drag)</Value>
     </Record>
     <Record>
       <Key>Mode</Key>
-      <Value>Mode</Value>
+      <Value>模式</Value>
     </Record>
     <Record>
       <Key>Button1</Key>
-      <Value>Button1</Value>
+      <Value>欄位1</Value>
     </Record>
     <Record>
       <Key>Slot3</Key>
-      <Value>Slot3</Value>
+      <Value>欄位3</Value>
     </Record>
     <Record>
       <Key>Slot4</Key>
-      <Value>Slot4</Value>
+      <Value>欄位4</Value>
     </Record>
     <Record>
       <Key>Slot5</Key>
-      <Value>Slot5</Value>
+      <Value>欄位5</Value>
     </Record>
     <Record>
       <Key>Slot6</Key>
-      <Value>Slot6</Value>
+      <Value>欄位6</Value>
     </Record>
     <Record>
       <Key>Slot7</Key>
-      <Value>Slot7</Value>
+      <Value>欄位7</Value>
     </Record>
     <Record>
       <Key>Slot8</Key>
-      <Value>Slot8</Value>
+      <Value>欄位8</Value>
     </Record>
     <Record>
       <Key>Slot9</Key>
-      <Value>Slot9</Value>
+      <Value>欄位9</Value>
     </Record>
     <Record>
       <Key>Slot10</Key>
-      <Value>Slot10</Value>
+      <Value>欄位10</Value>
     </Record>
     <Record>
       <Key>Button2</Key>
-      <Value>Button2</Value>
+      <Value>按鍵2</Value>
     </Record>
     <Record>
       <Key>SplitOne</Key>
-      <Value>Split One</Value>
+      <Value>拆成一個(Split One)</Value>
     </Record>
     <Record>
       <Key>SplitHalf</Key>
-      <Value>Split Half</Value>
+      <Value>拆成一半(Split Half)</Value>
     </Record>
     <Record>
       <Key>NextPage</Key>
-      <Value>Next Page</Value>
+      <Value>下一頁</Value>
     </Record>
     <Record>
       <Key>PreviousPage</Key>
-      <Value>Previous Page</Value>
+      <Value>上一頁</Value>
     </Record>
     <Record>
       <Key>Use</Key>
-      <Value>Use</Value>
+      <Value>使用</Value>
     </Record>
     <Record>
       <Key>Export</Key>
-      <Value>Export</Value>
+      <Value>出口Export</Value>
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>Import</Value>
+      <Value>入口Import</Value>
     </Record>
     <Record>
       <Key>PressureUp</Key>
-      <Value>Pressure Up</Value>
+      <Value>壓力上升(Pressure Up)</Value>
     </Record>
     <Record>
       <Key>PressureDown</Key>
-      <Value>Pressure Down</Value>
+      <Value>壓力下降(Pressure Down)</Value>
     </Record>
     <Record>
       <Key />
@@ -2526,127 +2526,127 @@
     </Record>
     <Record>
       <Key>Battery</Key>
-      <Value>Battery</Value>
+      <Value>電池</Value>
     </Record>
     <Record>
       <Key>Cartridge</Key>
-      <Value>Cartridge</Value>
+      <Value>晶片</Value>
     </Record>
     <Record>
       <Key>CaptainsChair</Key>
-      <Value>Captain's Chair</Value>
+      <Value>艦長椅子</Value>
     </Record>
     <Record>
       <Key>PassengersChair</Key>
-      <Value>Passenger's Chair</Value>
+      <Value>乘客椅子(Passenger's Chair)</Value>
     </Record>
     <Record>
       <Key>Button3</Key>
-      <Value>Button3</Value>
+      <Value>按鍵3</Value>
     </Record>
     <Record>
       <Key>Slot11</Key>
-      <Value>Slot11</Value>
+      <Value>欄位11</Value>
     </Record>
     <Record>
       <Key>Slot12</Key>
-      <Value>Slot12</Value>
+      <Value>欄位12</Value>
     </Record>
     <Record>
       <Key>Slot13</Key>
-      <Value>Slot13</Value>
+      <Value>欄位13</Value>
     </Record>
     <Record>
       <Key>Slot14</Key>
-      <Value>Slot14</Value>
+      <Value>欄位14</Value>
     </Record>
     <Record>
       <Key>Slot15</Key>
-      <Value>Slot15</Value>
+      <Value>欄位15</Value>
     </Record>
     <Record>
       <Key>Slot16</Key>
-      <Value>Slot16</Value>
+      <Value>欄位16</Value>
     </Record>
     <Record>
       <Key>Slot17</Key>
-      <Value>Slot17</Value>
+      <Value>欄位17</Value>
     </Record>
     <Record>
       <Key>Slot18</Key>
-      <Value>Slot18</Value>
+      <Value>欄位18</Value>
     </Record>
     <Record>
       <Key>Slot19</Key>
-      <Value>Slot19</Value>
+      <Value>欄位19</Value>
     </Record>
     <Record>
       <Key>Slot20</Key>
-      <Value>Slot20</Value>
+      <Value>欄位20</Value>
     </Record>
     <Record>
       <Key>Slot21</Key>
-      <Value>Slot21</Value>
+      <Value>欄位21</Value>
     </Record>
     <Record>
       <Key>Slot22</Key>
-      <Value>Slot22</Value>
+      <Value>欄位22</Value>
     </Record>
     <Record>
       <Key>Slot23</Key>
-      <Value>Slot23</Value>
+      <Value>欄位23</Value>
     </Record>
     <Record>
       <Key>Slot24</Key>
-      <Value>Slot24</Value>
+      <Value>欄位24</Value>
     </Record>
     <Record>
       <Key>Slot25</Key>
-      <Value>Slot25</Value>
+      <Value>欄位25</Value>
     </Record>
     <Record>
       <Key>Slot26</Key>
-      <Value>Slot26</Value>
+      <Value>欄位26</Value>
     </Record>
     <Record>
       <Key>Slot27</Key>
-      <Value>Slot27</Value>
+      <Value>欄位27</Value>
     </Record>
     <Record>
       <Key>Slot28</Key>
-      <Value>Slot28</Value>
+      <Value>欄位28</Value>
     </Record>
     <Record>
       <Key>Slot29</Key>
-      <Value>Slot29</Value>
+      <Value>欄位29</Value>
     </Record>
     <Record>
       <Key>Slot30</Key>
-      <Value>Slot30</Value>
+      <Value>欄位30</Value>
     </Record>
     <Record>
       <Key>TiltUpwards</Key>
-      <Value>Tilt Upwards</Value>
+      <Value>向上傾斜(Tilt Upwards)</Value>
     </Record>
     <Record>
       <Key>Rotate</Key>
-      <Value>Rotate</Value>
+      <Value>旋轉(Rotate)</Value>
     </Record>
     <Record>
       <Key>RotateLeft</Key>
-      <Value>Rotate Left</Value>
+      <Value>左旋(Rotate Left)</Value>
     </Record>
     <Record>
       <Key>RotateRight</Key>
-      <Value>Rotate Right</Value>
+      <Value>右旋(Rotate Right)</Value>
     </Record>
     <Record>
       <Key>TiltDownwards</Key>
-      <Value>Tilt Downwards</Value>
+      <Value>向下傾斜(Tilt Downwards)</Value>
     </Record>
     <Record>
       <Key>Export2</Key>
-      <Value>Export2</Value>
+      <Value>出口2</Value>
     </Record>
     <Record>
       <Key>Launch</Key>
@@ -2654,277 +2654,277 @@
     </Record>
     <Record>
       <Key>PreviousPlan</Key>
-      <Value>Previous Plan</Value>
+      <Value>先前計畫(Previous Plan)</Value>
     </Record>
     <Record>
       <Key>NextPlan</Key>
-      <Value>Next Plan</Value>
+      <Value>下一個計劃(Next Plan)</Value>
     </Record>
     <Record>
       <Key>CreatePlan</Key>
-      <Value>Create Plan</Value>
+      <Value>創建(Create Plan)</Value>
     </Record>
     <Record>
       <Key>Button4</Key>
-      <Value>Button4</Value>
+      <Value>按鍵4</Value>
     </Record>
     <Record>
       <Key>Output</Key>
-      <Value>Output</Value>
+      <Value>輸出</Value>
     </Record>
     <Record>
       <Key>Hatch</Key>
-      <Value>Hatch</Value>
+      <Value>艙口(Hatch)</Value>
     </Record>
     <Record>
       <Key>Grow</Key>
-      <Value>Grow</Value>
+      <Value>種植(Grow)</Value>
     </Record>
     <Record>
       <Key>LayEgg</Key>
-      <Value>Lay Egg</Value>
+      <Value>下蛋(Lay Egg)</Value>
     </Record>
     <Record>
       <Key>Eat</Key>
-      <Value>Eat</Value>
+      <Value>吃(Eat)</Value>
     </Record>
     <Record>
       <Key>Input</Key>
-      <Value>Input</Value>
+      <Value>輸入</Value>
     </Record>
     <Record>
       <Key>Setting</Key>
-      <Value>Setting</Value>
+      <Value>設定</Value>
     </Record>
     <Record>
       <Key>Increase</Key>
-      <Value>Increase</Value>
+      <Value>增加</Value>
     </Record>
     <Record>
       <Key>Decrease</Key>
-      <Value>Decrease</Value>
+      <Value>減少</Value>
     </Record>
     <Record>
       <Key>Color</Key>
-      <Value>Color</Value>
+      <Value>顏色</Value>
     </Record>
   </Interactables>
   <Interface>
     <Record>
       <Key>MainMenuContinue</Key>
-      <Value>Continue</Value>
+      <Value>繼續(Continue)</Value>
     </Record>
     <Record>
       <Key>MainMenuNewWorld</Key>
-      <Value>New World</Value>
+      <Value>全新世界(New World)</Value>
     </Record>
     <Record>
       <Key>MainMenuLoadWorld</Key>
-      <Value>Load World</Value>
+      <Value>讀取世界(Load World)</Value>
     </Record>
     <Record>
       <Key>MainMenuJoinWorld</Key>
-      <Value>Join World</Value>
+      <Value>加入世界(Join World)</Value>
     </Record>
     <Record>
       <Key>MainMenuWorkshop</Key>
-      <Value>Workshop</Value>
+      <Value>工作坊(Workshop)</Value>
     </Record>
     <Record>
       <Key>MainMenuSettings</Key>
-      <Value>Settings</Value>
+      <Value>設置</Value>
     </Record>
     <Record>
       <Key>MainMenuTutorial</Key>
-      <Value>Tutorial</Value>
+      <Value>新手教學(Tutorial)</Value>
     </Record>
     <Record>
       <Key>MainMenuCredits</Key>
-      <Value>Credits</Value>
+      <Value>積分(Credits)</Value>
     </Record>
     <Record>
       <Key>MainMenuExit</Key>
-      <Value>Exit To Desktop</Value>
+      <Value>離開至桌面(Exit To Desktop)</Value>
     </Record>
     <Record>
       <Key>LoadMenuTitle</Key>
-      <Value>Load World</Value>
+      <Value>讀取世界(Load World)</Value>
     </Record>
     <Record>
       <Key>LoadMenuFileListTitle</Key>
-      <Value>Saved Worlds</Value>
+      <Value>儲存世界(Saved Worlds)</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextDate</Key>
-      <Value>Saved:</Value>
+      <Value>儲存(Saved):</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextPlaytime</Key>
-      <Value>Playtime:</Value>
+      <Value>遊戲時間:(Playtime:)</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextPlayers</Key>
-      <Value>Players:</Value>
+      <Value>玩家:(Players:)</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextAsteroids</Key>
-      <Value>Asteroids:</Value>
+      <Value>小行星:(Asteroids:)</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextVersion</Key>
-      <Value>Version:</Value>
+      <Value>版本:(Version:)</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonDelete</Key>
-      <Value>Delete</Value>
+      <Value>刪除(Delete)</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonPublish</Key>
-      <Value>Publish</Value>
+      <Value>發佈(Publish)</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonDebugLoad</Key>
-      <Value>Debug Load</Value>
+      <Value>除錯讀取(Debug Load)</Value>
     </Record>
     <Record>
       <Key>LoadWorldButtonLoad</Key>
-      <Value>Load World</Value>
+      <Value>讀取世界(Load World)</Value>
     </Record>
     <Record>
       <Key>JoinMenuTitle</Key>
-      <Value>Join World</Value>
+      <Value>加入世界(Join World)</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonRefresh</Key>
-      <Value>Refresh List</Value>
+      <Value>刷新列表(Refresh List)</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonJoin</Key>
-      <Value>Join World</Value>
+      <Value>加入世界(Join World)</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListName</Key>
-      <Value>Server Name</Value>
+      <Value>伺服器名稱(Server Name)</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListVersion</Key>
-      <Value>Version</Value>
+      <Value>版本(Version)</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListRefreshing</Key>
-      <Value>Refreshing Server List</Value>
+      <Value>刷新伺服器列表(Refreshing Server List)</Value>
     </Record>
     <Record>
       <Key>JoinMenuInputAddressTitle</Key>
-      <Value>Address</Value>
+      <Value>位置(Address)</Value>
     </Record>
     <Record>
       <Key>NewWorldTitle</Key>
-      <Value>New World</Value>
+      <Value>全新世界(New World)</Value>
     </Record>
     <Record>
       <Key>NewWorldButtonBack</Key>
-      <Value>Back</Value>
+      <Value>返回(Back)</Value>
     </Record>
     <Record>
       <Key>NewWorldButtonCreate</Key>
-      <Value>Create World</Value>
+      <Value>創建世界(Create World)</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaTitle</Key>
-      <Value>Starting Area</Value>
+      <Value>起始區域(Starting Area)</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaSpace</Key>
-      <Value>Space</Value>
+      <Value>太空(Space)</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaMars</Key>
-      <Value>Mars</Value>
+      <Value>火星(Mars)</Value>
     </Record>
     <Record>
       <Key>NewWorldEnableAwayMissions</Key>
-      <Value>Enable Away Missions</Value>
+      <Value>啟用任務(Enable Away Missions)</Value>
     </Record>
     <Record>
       <Key>InventorySlotBelt</Key>
-      <Value>Belt</Value>
+      <Value>腰帶(Belt)</Value>
     </Record>
     <Record>
       <Key>InventorySlotUniform</Key>
-      <Value>Uniform</Value>
+      <Value>制服(Uniform)</Value>
     </Record>
     <Record>
       <Key>InventorySlotBackpack</Key>
-      <Value>Back</Value>
+      <Value>返回(Back)</Value>
     </Record>
     <Record>
       <Key>InventorySlotSuit</Key>
-      <Value>Suit</Value>
+      <Value>太空衣(Suit)</Value>
     </Record>
     <Record>
       <Key>InventorySlotHelmet</Key>
-      <Value>Helmet</Value>
+      <Value>頭盔(Helmet)</Value>
     </Record>
     <Record>
       <Key>InventorySlotHandLeft</Key>
-      <Value>Left Hand</Value>
+      <Value>左手(Left Hand)</Value>
     </Record>
     <Record>
       <Key>InventorySlotHandRight</Key>
-      <Value>Right Hand</Value>
+      <Value>右手(Right Hand)</Value>
     </Record>
     <Record>
       <Key>StatusWindowExternal</Key>
-      <Value>External</Value>
+      <Value>外部(External)</Value>
     </Record>
     <Record>
       <Key>StatusWindowDamage</Key>
-      <Value>Damage</Value>
+      <Value>損傷(Damage)</Value>
     </Record>
     <Record>
       <Key>StatusWindowInternal</Key>
-      <Value>Internal</Value>
+      <Value>內部(Internal)</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonReturn</Key>
-      <Value>Return To Game</Value>
+      <Value>返回遊戲(Return To Game)</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSave</Key>
-      <Value>Save World</Value>
+      <Value>儲存世界(Save World)</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonChangeCharacter</Key>
-      <Value>Change Appearance</Value>
+      <Value>更改外觀(Change Appearance)</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSettings</Key>
-      <Value>Settings</Value>
+      <Value>設置(Settings)</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonLeave</Key>
-      <Value>Leave Session</Value>
+      <Value>離開連線(Leave Session)</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonExitDesktop</Key>
-      <Value>Exit To Desktop</Value>
+      <Value>離開至桌面(Exit To Desktop)</Value>
     </Record>
     <Record>
       <Key>SaveMenuTitle</Key>
-      <Value>Save World</Value>
+      <Value>儲存世界(Save World)</Value>
     </Record>
     <Record>
       <Key>SaveMenuListTitle</Key>
-      <Value>Saved Worlds</Value>
+      <Value>儲存世界(Saved Worlds)</Value>
     </Record>
     <Record>
       <Key>ButtonBack</Key>
-      <Value>Back</Value>
+      <Value>返回(Back)</Value>
     </Record>
     <Record>
       <Key>ButtonDelete</Key>
-      <Value>Delete</Value>
+      <Value>刪除(Delete)</Value>
     </Record>
     <Record>
       <Key>WorkshopUploadProgress</Key>
