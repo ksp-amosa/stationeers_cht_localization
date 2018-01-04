@@ -200,67 +200,67 @@
     </Record>
     <Record>
       <Key>Open</Key>
-      <Value>打開</Value>
+      <Value>打開(Open)</Value>
     </Record>
     <Record>
       <Key>Close</Key>
-      <Value>關閉</Value>
+      <Value>關閉(Close)</Value>
     </Record>
     <Record>
       <Key>Opened</Key>
-      <Value>已開啟</Value>
+      <Value>已開啟(Opened)</Value>
     </Record>
     <Record>
       <Key>Closed</Key>
-      <Value>已關閉</Value>
+      <Value>已關閉(Closed)</Value>
     </Record>
     <Record>
       <Key>Off</Key>
-      <Value>關閉</Value>
+      <Value>關閉(Off)</Value>
     </Record>
     <Record>
       <Key>On</Key>
-      <Value>啟動</Value>
+      <Value>啟動(On)</Value>
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>已驅動</Value>
+      <Value>已驅動(Powered)</Value>
     </Record>
     <Record>
       <Key>Unpowered</Key>
-      <Value>為驅動</Value>
+      <Value>未驅動(Unpowered)</Value>
     </Record>
     <Record>
       <Key>False</Key>
-      <Value>假</Value>
+      <Value>假(False)</Value>
     </Record>
     <Record>
       <Key>True</Key>
-      <Value>真</Value>
+      <Value>真(True)</Value>
     </Record>
     <Record>
       <Key>Construct</Key>
-      <Value>建造</Value>
+      <Value>建造(Construct)</Value>
     </Record>
     <Record>
       <Key>Deconstruct</Key>
-      <Value>拆除</Value>
+      <Value>拆除(Deconstruct)</Value>
     </Record>
     <Record>
       <Key>Disconnect</Key>
-      <Value>中斷</Value>
+      <Value>中斷(Disconnect)</Value>
     </Record>
     <Record>
       <Key>Connect</Key>
-      <Value>連結</Value>
+      <Value>連結(Connect)</Value>
     </Record>
     <Record>
       <Key>Load</Key>
-      <Value>載入</Value>
+      <Value>載入(Load)</Value>
     </Record>
     <Record>
       <Key>Unload</Key>
-      <Value>未載入</Value>
+      <Value>未載入(Unload)</Value>
     </Record>
     <Record>
       <Key>GetIn</Key>
@@ -268,29 +268,29 @@
     </Record>
     <Record>
       <Key>Error</Key>
-      <Value>錯誤</Value>
+      <Value>錯誤(Error)</Value>
     </Record>
     <Record>
       <Key>Lock</Key>
-      <Value>上鎖</Value>
+      <Value>上鎖(Lock)</Value>
     </Record>
     <Record>
       <Key>Unlock</Key>
-      <Value>解鎖</Value>
+      <Value>解鎖(Unlock)</Value>
     </Record>
     <Record>
       <Key>Rename</Key>
-      <Value>重新命名</Value>
+      <Value>重新命名(Unlock)</Value>
     </Record>
   </Actions>
   <Things>
     <Record>
       <Key>ApplianceMicrowave</Key>
-      <Value>微波爐</Value>
+      <Value>微波爐(Microwave)</Value>
     </Record>
     <Record>
       <Key>ApplianceReagentProcessor</Key>
-      <Value>試劑處理器</Value>
+      <Value>試劑處理器(ReagentProcessor)</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleArmL</Key>
