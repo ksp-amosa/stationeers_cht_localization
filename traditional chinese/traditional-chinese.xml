@@ -510,47 +510,47 @@
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyser</Key>
-      <Value>Cartridge (Atmos Analyser)</Value>
+      <Value>晶片(壓力分析儀)</Value>
     </Record>
     <Record>
       <Key>CartridgeMedicalAnalyser</Key>
-      <Value>Cartridge (Medical Analyser)</Value>
+      <Value>晶片(醫療分析儀)</Value>
     </Record>
     <Record>
       <Key>CartridgeNetworkAnalyser</Key>
-      <Value>Cartridge (Network Analyser)</Value>
+      <Value>晶片(電路分析儀)</Value>
     </Record>
     <Record>
       <Key>Character</Key>
-      <Value>Character</Value>
+      <Value>人物(Character)</Value>
     </Record>
     <Record>
       <Key>CircuitboardAirControl</Key>
-      <Value>Circuitboard (Air Control)</Value>
+      <Value>電路板(Air Control)</Value>
     </Record>
     <Record>
       <Key>CircuitboardAirlockControl</Key>
-      <Value>Circuitboard (Airlock Control)</Value>
+      <Value>電路板(氣閥控制)</Value>
     </Record>
     <Record>
       <Key>CircuitboardCameraDisplay</Key>
-      <Value>Circuitboard (Camera Display)</Value>
+      <Value>電路板(Camera Display)</Value>
     </Record>
     <Record>
       <Key>CircuitboardDoorControl</Key>
-      <Value>Circuitboard (Door Control)</Value>
+      <Value>電路板(門禁控制)</Value>
     </Record>
     <Record>
       <Key>CircuitboardGasDisplay</Key>
-      <Value>Circuitboard (Gas Display)</Value>
+      <Value>電路板(氣體顯示)</Value>
     </Record>
     <Record>
       <Key>CircuitboardModeControl</Key>
-      <Value>Circuitboard (Mode Control)</Value>
+      <Value>電路板(模式控制)</Value>
     </Record>
     <Record>
       <Key>CircuitboardPowerControl</Key>
-      <Value>Circuitboard (Power Control)</Value>
+      <Value>電路板(電力控制)</Value>
     </Record>
     <Record>
       <Key>CircuitboardShipDisplay</Key>
@@ -558,43 +558,43 @@
     </Record>
     <Record>
       <Key>CircuitboardSolarControl</Key>
-      <Value>Circuitboard (Solar Control)</Value>
+      <Value>電路板(太陽能控制)</Value>
     </Record>
     <Record>
       <Key>DynamicAirConditioner</Key>
-      <Value>Portable Air Conditioner</Value>
+      <Value>便攜式空調</Value>
     </Record>
     <Record>
       <Key>DynamicCrate</Key>
-      <Value>Dynamic Crate</Value>
+      <Value>DynamicCrate</Value>
     </Record>
     <Record>
       <Key>DynamicCrateBuildingSupplies</Key>
-      <Value>Crate (Building Supplies)</Value>
+      <Value>儲物箱(建築用品)</Value>
     </Record>
     <Record>
       <Key>DynamicCrateCableSupplies</Key>
-      <Value>Crate (Cabling Supplies)</Value>
+      <Value>儲物箱(佈線用品)</Value>
     </Record>
     <Record>
       <Key>DynamicCrateConveyorSupplies</Key>
-      <Value>Crate (Conveyor Supplies)</Value>
+      <Value>儲物箱(Conveyor Supplies)</Value>
     </Record>
     <Record>
       <Key>DynamicCratePipeSupplies</Key>
-      <Value>Crate (Pipe Supplies)</Value>
+      <Value>儲物箱(管線用品)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterAir</Key>
-      <Value>Portable Tank (Air)</Value>
+      <Value>便攜式儲氣罐(空氣)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
-      <Value>Portable Tank (CO2)</Value>
+      <Value>便攜式儲氣罐(二氧化碳)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterEmpty</Key>
-      <Value>Portable Tank</Value>
+      <Value>便攜式儲氣罐(Portable Tank)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterFuel</Key>
