@@ -150,7 +150,7 @@
     </Record>
     <Record>
       <Key>TutorialDescGoInAirlock1</Key>
-      <Value>前往 {THING:StructureAirlock} ，確認您的 {THING:ItemEvaSuit} 和 {THING:ItemSpaceHelmet} 都已經正確運作. 按下兩次 {KEY:HelmetSlot} 鑑將可以看到互動選單, 捲動至 關閉 選項, 按下 {KEY:InventorySelect} 來切換目前面罩的狀態.</Value>
+      <Value>前往 {THING:StructureAirlock} ，確認您的 {THING:ItemEvaSuit} 和 {THING:ItemSpaceHelmet} 都已經正確運作. 按下兩次 {KEY:HelmetSlot} 鍵 將可以看到互動選單, 捲動至 關閉 選項, 按下 {KEY:InventorySelect} 來切換目前面罩的狀態.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskGoInAirlock1</Key>
