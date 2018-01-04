@@ -51,152 +51,152 @@
     </RecordReagent>
     <RecordReagent>
       <Key>Hydrocarbon</Key>
-      <Value>Hydrocarbon</Value>
+      <Value>烴(Hydrocarbon)</Value>
       <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Silver</Key>
-      <Value>Silver</Value>
+      <Value>銀(Silver)</Value>
       <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Nickel</Key>
-      <Value>Nickel</Value>
+      <Value>鎳(Nickel)</Value>
       <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Lead</Key>
-      <Value>Lead</Value>
+      <Value>鉛(Lead)</Value>
       <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Electrum</Key>
-      <Value>Electrum</Value>
+      <Value>琥珀金(Electrum)</Value>
       <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Invar</Key>
-      <Value>Invar</Value>
+      <Value>因瓦合金(Invar)</Value>
       <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Constantan</Key>
-      <Value>Constantan</Value>
+      <Value>康銅(Constantan)</Value>
       <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Solder</Key>
-      <Value>Solder</Value>
+      <Value>焊料(Solder)</Value>
       <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Plastic</Key>
-      <Value>Plastic</Value>
+      <Value>塑膠(Plastic)</Value>
       <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Silicon</Key>
-      <Value>Silicon</Value>
+      <Value>矽(Silicon)</Value>
       <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>SalicylicAcid</Key>
-      <Value>Salicylic Acid</Value>
+      <Value>水楊酸(Salicylic Acid)</Value>
       <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Alcohol</Key>
-      <Value>Alcohol</Value>
+      <Value>酒精(Alcohol)</Value>
       <Unit>毫升</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Oil</Key>
-      <Value>Oil</Value>
+      <Value>油(Oil)</Value>
       <Unit>毫升</Unit>
     </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
       <Key>Oxygen</Key>
-      <Value>Oxygen</Value>
+      <Value>氧氣(Oxygen)</Value>
     </Record>
     <Record>
       <Key>CarbonDioxide</Key>
-      <Value>Carbon Dioxide</Value>
+      <Value>二氧化碳(Carbon Dioxide)</Value>
     </Record>
     <Record>
       <Key>Nitrogen</Key>
-      <Value>Nitrogen</Value>
+      <Value>氮(Nitrogen)</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Volatiles</Value>
+      <Value>揮發物(Volatiles)</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
-      <Value>Pollutant</Value>
+      <Value>汙染物(Pollutant)</Value>
     </Record>
     <Record>
       <Key>Water</Key>
-      <Value>Water</Value>
+      <Value>水(Water)</Value>
     </Record>
   </Gases>
   <Actions>
     <Record>
       <Key>Paint</Key>
-      <Value>Paint</Value>
+      <Value>粉刷(Paint)</Value>
     </Record>
     <Record>
       <Key>Mine</Key>
-      <Value>Mine</Value>
+      <Value>採集(Mine)</Value>
     </Record>
     <Record>
       <Key>Swap</Key>
-      <Value>Swap</Value>
+      <Value>交換(Swap)</Value>
     </Record>
     <Record>
       <Key>Clear</Key>
-      <Value>Clear</Value>
+      <Value>清空(Clear)</Value>
     </Record>
     <Record>
       <Key>Collect</Key>
-      <Value>Collect</Value>
+      <Value>蒐集(Collect)</Value>
     </Record>
     <Record>
       <Key>Add</Key>
-      <Value>Add</Value>
+      <Value>加入(Add)</Value>
     </Record>
     <Record>
       <Key>Insert</Key>
-      <Value>Insert</Value>
+      <Value>放入(Insert)</Value>
     </Record>
     <Record>
       <Key>Remove</Key>
-      <Value>Remove</Value>
+      <Value>移除(Remove)</Value>
     </Record>
     <Record>
       <Key>Pickup</Key>
-      <Value>Pickup</Value>
+      <Value>撿起(Pickup)</Value>
     </Record>
     <Record>
       <Key>Take</Key>
-      <Value>Take</Value>
+      <Value>拿(Take)</Value>
     </Record>
     <Record>
       <Key>Build</Key>
-      <Value>Build</Value>
+      <Value>建造(Build)</Value>
     </Record>
     <Record>
       <Key>Consume</Key>
-      <Value>Consume</Value>
+      <Value>耗費(Consume)</Value>
     </Record>
     <Record>
       <Key>Plant</Key>
-      <Value>Plant</Value>
+      <Value>種植(Plant)</Value>
     </Record>
     <Record>
       <Key>Harvest</Key>
-      <Value>Harvest</Value>
+      <Value>收成(Harvest)</Value>
     </Record>
     <Record>
       <Key>Open</Key>
