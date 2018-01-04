@@ -1034,7 +1034,7 @@
     </Record>
     <Record>
       <Key>ItemLabeller</Key>
-      <Value>標籤機</Value>
+      <Value>標籤機(Labeller)</Value>
     </Record>
     <Record>
       <Key>ItemLightSword</Key>
@@ -1082,59 +1082,59 @@
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction</Key>
-      <Value>管線(十字通道)</Value>
+      <Value>管線(十字)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction3</Key>
-      <Value>管線(3線通道)</Value>
+      <Value>管線(三向)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction5</Key>
-      <Value>管線(五線通道)</Value>
+      <Value>管線(五向)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction6</Key>
-      <Value>管線(六線通道)</Value>
+      <Value>管線(六向)</Value>
     </Record>
     <Record>
       <Key>ItemPipeDigitalValve</Key>
-      <Value>管線 數位氣閘</Value>
+      <Value>數位氣閘(DigitalValve)</Value>
     </Record>
     <Record>
       <Key>ItemPipeGasMixer</Key>
-      <Value>管線 氣體混和器</Value>
+      <Value>氣體混和器(GasMixer)</Value>
     </Record>
     <Record>
       <Key>ItemPipeLabel</Key>
-      <Value>管線 標籤</Value>
+      <Value>管線標籤</Value>
     </Record>
     <Record>
       <Key>ItemPipeMeter</Key>
-      <Value>管線 壓力計</Value>
+      <Value>管道壓力計(PipeMeter)</Value>
     </Record>
     <Record>
       <Key>ItemPipeRadiator</Key>
-      <Value>管線 散熱器</Value>
+      <Value>管道散熱器(PipeRadiator)</Value>
     </Record>
     <Record>
       <Key>ItemPipeStraight</Key>
-      <Value>管線 直線</Value>
+      <Value>管線(直線)</Value>
     </Record>
     <Record>
       <Key>ItemPipeTJunction</Key>
-      <Value>管線 T型管道</Value>
+      <Value>管線(T型)</Value>
     </Record>
     <Record>
       <Key>ItemPipeValve</Key>
-      <Value>管線 閥門</Value>
+      <Value>閥門(Valve)</Value>
     </Record>
     <Record>
       <Key>ItemPipeVolumePump</Key>
-      <Value>幫浦</Value>
+      <Value>幫浦(Pipe Volume Pump)</Value>
     </Record>
     <Record>
       <Key>ItemPowerConnector</Key>
-      <Value>電力連接器</Value>
+      <Value>電原連接器(Power Connector)</Value>
     </Record>
     <Record>
       <Key>ItemReagentMix</Key>
@@ -1238,11 +1238,11 @@
     </Record>
     <Record>
       <Key>ItemTablet</Key>
-      <Value>平板</Value>
+      <Value>平板(Tablet)</Value>
     </Record>
     <Record>
       <Key>ItemTankConnector</Key>
-      <Value>氣槽連接器</Value>
+      <Value>儲氣槽連接器(TankConnector)</Value>
     </Record>
     <Record>
       <Key>ItemToolBelt</Key>
@@ -1714,15 +1714,15 @@
     </Record>
     <Record>
       <Key>StructureWallCooler</Key>
-      <Value>Wall Cooler</Value>
+      <Value>壁掛式冷卻器(Wall Cooler)</Value>
     </Record>
     <Record>
       <Key>StructureWallHeater</Key>
-      <Value>Wall Heater</Value>
+      <Value>壁掛式加熱器(Wall Heater)</Value>
     </Record>
     <Record>
       <Key>StructureWallLight</Key>
-      <Value>Wall Light</Value>
+      <Value>設備(燈)(Wall Light)</Value>
     </Record>
     <Record>
       <Key>UniformCommander</Key>
@@ -1734,91 +1734,91 @@
     </Record>
     <Record>
       <Key>WeaponEnergy</Key>
-      <Value>Weapon Energy</Value>
+      <Value>武器能量(Weapon Energy)</Value>
     </Record>
     <Record>
       <Key>WeaponTorpedo</Key>
-      <Value>Torpedo</Value>
+      <Value>魚雷(Torpedo)</Value>
     </Record>
     <Record>
       <Key>ItemWasteIngot</Key>
-      <Value>Ingot (Waste)</Value>
+      <Value>垃圾錠</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightBurnt</Key>
-      <Value>Burnt Cable (Straight)</Value>
+      <Value>燒毀的電纜 (直線)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner3Burnt</Key>
-      <Value>Burnt Cable (3-Way Corner)</Value>
+      <Value>燒毀的電纜 (三向)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerBurnt</Key>
-      <Value>Burnt Cable (Corner)</Value>
+      <Value>燒毀的電纜 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4Burnt</Key>
-      <Value>Burnt Cable (4-Way Junction)</Value>
+      <Value>燒毀的電纜 (四向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6Burnt</Key>
-      <Value>Burnt Cable (6-Way Junction)</Value>
+      <Value>燒毀的電纜 (六向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionBurnt</Key>
-      <Value>Burnt Cable (Junction)</Value>
+      <Value>燒毀的電纜 (T字)</Value>
     </Record>
     <Record>
       <Key>StructureSolidFuelGenerator</Key>
-      <Value>Generator (Solid Fuel)</Value>
+      <Value>發電機(固體燃料)</Value>
     </Record>
     <Record>
       <Key>ItemKitGenerator</Key>
-      <Value>Construction Kit (Generator)</Value>
+      <Value>工具包(發電機)</Value>
     </Record>
     <Record>
       <Key>ItemCableFuse</Key>
-      <Value>Construction Kit (Cable Fuses)</Value>
+      <Value>工具包(保險絲)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightH</Key>
-      <Value>Heavy Cable (Straight)</Value>
+      <Value>高壓電線 (直線)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH6</Key>
-      <Value>Heavy Cable (6-Way Junction)</Value>
+      <Value>高壓電線 (六向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH4</Key>
-      <Value>Heavy Cable (4-Way Junction)</Value>
+      <Value>高壓電線 (四向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH</Key>
-      <Value>Heavy Cable (3-Way Junction)</Value>
+      <Value>高壓電線 (三向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>Burnt Cable (6-Way Junction)</Value>
+      <Value>燒毀的電纜 (六向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>Burnt Cable (4-Way Junction)</Value>
+      <Value>燒毀的電纜 (四向)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightHBurnt</Key>
-      <Value>Burnt Cable (Straight)</Value>
+      <Value>燒毀的電纜 (直線)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>Burnt Cable (Junction)</Value>
+      <Value>燒毀的電纜 (T字)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>Burnt Cable (Corner) </Value>
+      <Value>燒毀的電纜 (轉角) </Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH</Key>
-      <Value>Heavy Cable (Corner)</Value>
+      <Value>高壓電線 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse1k</Key>
@@ -1826,39 +1826,39 @@
     </Record>
     <Record>
       <Key>StructureCableFuse5k</Key>
-      <Value>Fuse (5kW)</Value>
+      <Value>保險絲(5kW)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse50k</Key>
-      <Value>Fuse (50kW)</Value>
+      <Value>保險絲(50kW)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse100k</Key>
-      <Value>Fuse (100kW)</Value>
+      <Value>保險絲(100kW)</Value>
     </Record>
     <Record>
       <Key>StructureTransformer</Key>
-      <Value>Transformer</Value>
+      <Value>變壓器(Transformer)</Value>
     </Record>
     <Record>
       <Key>ItemKitTransformer</Key>
-      <Value>Kit (Transformer)</Value>
+      <Value>設備(變壓器)(Kit Transformer)</Value>
     </Record>
     <Record>
       <Key>StructureTransformerSmall</Key>
-      <Value>Transformer (Small)</Value>
+      <Value>變壓器(小型)(Transformer Small)</Value>
     </Record>
     <Record>
       <Key>WeaponPistolEnergy</Key>
-      <Value>Energy Pistol</Value>
+      <Value>能量手槍(Energy Pistol)</Value>
     </Record>
     <Record>
       <Key>StructureChuteWindow</Key>
-      <Value>Chute (Window)</Value>
+      <Value>導槽(玻璃)(Chute Window)</Value>
     </Record>
     <Record>
       <Key>StructureArcFurnace</Key>
-      <Value>Arc Furnace</Value>
+      <Value>電弧爐(Arc Furnace)</Value>
     </Record>
     <Record>
       <Key>StructureAutolathe</Key>
