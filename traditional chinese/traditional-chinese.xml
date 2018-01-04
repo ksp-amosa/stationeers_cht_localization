@@ -610,7 +610,7 @@
     </Record>
     <Record>
       <Key>DynamicCratePipeSupplies</Key>
-      <Value>儲物箱(管線用品)</Value>
+      <Value>儲物箱(管道用品)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterAir</Key>
@@ -1498,219 +1498,219 @@
     </Record>
     <Record>
       <Key>StructureDaylightSensor</Key>
-      <Value>Daylight Sensor</Value>
+      <Value>日光感測器(DaylightSensor)</Value>
     </Record>
     <Record>
       <Key>StructureDigitalValve</Key>
-      <Value>Digital Valve</Value>
+      <Value>數位閥門(DigitalValve)</Value>
     </Record>
     <Record>
       <Key>StructureFabricator</Key>
-      <Value>Fabricator</Value>
+      <Value>車床(Fabricator)</Value>
     </Record>
     <Record>
       <Key>StructureFiltration</Key>
-      <Value>Filtration</Value>
+      <Value>過濾(Filtration)</Value>
     </Record>
     <Record>
       <Key>StructureFlashingLight</Key>
-      <Value>Flashing Light</Value>
+      <Value>旋轉燈告示(Flashing Light)</Value>
     </Record>
     <Record>
       <Key>StructureFrame</Key>
-      <Value>Frame</Value>
+      <Value>框架(Frame)</Value>
     </Record>
     <Record>
       <Key>StructureFrameCorner</Key>
-      <Value>Frame (Corner)</Value>
+      <Value>斜角框架(Corner)</Value>
     </Record>
     <Record>
       <Key>StructureFrameSide</Key>
-      <Value>Frame (Side)</Value>
+      <Value>側框架(Side)</Value>
     </Record>
     <Record>
       <Key>StructureFurnace</Key>
-      <Value>Furnace</Value>
+      <Value>熔爐(Furnace)</Value>
     </Record>
     <Record>
       <Key>StructureGasMixer</Key>
-      <Value>Gas Mixer</Value>
+      <Value>氣體混和器(Gas Mixer)</Value>
     </Record>
     <Record>
       <Key>StructureGasSensor</Key>
-      <Value>Gas Sensor</Value>
+      <Value>氣體感測器(Gas Sensor)</Value>
     </Record>
     <Record>
       <Key>StructureGasTankStorage</Key>
-      <Value>Gas Tank Storage</Value>
+      <Value>氣體裝罐器(Gas Tank Storage)</Value>
     </Record>
     <Record>
       <Key>StructureGlassDoor</Key>
-      <Value>Glass Door</Value>
+      <Value>玻璃門(Glass Door)</Value>
     </Record>
     <Record>
       <Key>StructureGunTurret</Key>
-      <Value>Gun Emplacement</Value>
+      <Value>炮位(Gun Emplacement)</Value>
     </Record>
     <Record>
       <Key>StructureGyroscope</Key>
-      <Value>Gyroscope</Value>
+      <Value>陀螺儀(Gyroscope)</Value>
     </Record>
     <Record>
       <Key>StructureHydroponicsTray</Key>
-      <Value>Hydroponics Tray</Value>
+      <Value>水培盆栽(Hydroponics Tray)</Value>
     </Record>
     <Record>
       <Key>StructureIgniter</Key>
-      <Value>Igniter</Value>
+      <Value>點火器(Igniter)</Value>
     </Record>
     <Record>
       <Key>StructureLocker</Key>
-      <Value>Locker</Value>
+      <Value>儲物櫃(Locker)</Value>
     </Record>
     <Record>
       <Key>StructureMotionSensor</Key>
-      <Value>Motion Sensor</Value>
+      <Value>運動感測器(Motion Sensor)</Value>
     </Record>
     <Record>
       <Key>StructurePassiveVent</Key>
-      <Value>Passive Vent</Value>
+      <Value>被動通風口(Passive Vent)</Value>
     </Record>
     <Record>
       <Key>StructurePipeAnalysizer</Key>
-      <Value>Pipe Analysizer</Value>
+      <Value>管道分析儀(Pipe Analysizer)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCorner</Key>
-      <Value>Pipe (Corner)</Value>
+      <Value>管道(轉角)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction</Key>
-      <Value>Pipe (Junction)</Value>
+      <Value>管道(四向)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction3</Key>
-      <Value>Pipe (3-Way Junction)</Value>
+      <Value>管道(三向)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction5</Key>
-      <Value>Pipe (5-Way Junction)</Value>
+      <Value>管道(五向)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction6</Key>
-      <Value>Pipe (6-Way Junction)</Value>
+      <Value>管道(六向)</Value>
     </Record>
     <Record>
       <Key>StructurePipeLabel</Key>
-      <Value>Pipe Label</Value>
+      <Value>管道標籤(Pipe Label)</Value>
     </Record>
     <Record>
       <Key>StructurePipeMeter</Key>
-      <Value>Pipe Meter</Value>
+      <Value>管道壓力計(Pipe Meter)</Value>
     </Record>
     <Record>
       <Key>StructurePipeRadiator</Key>
-      <Value>Pipe Radiator</Value>
+      <Value>管道散熱器(Pipe Radiator)</Value>
     </Record>
     <Record>
       <Key>StructurePipeStraight</Key>
-      <Value>Pipe (Straight)</Value>
+      <Value>管道(直線)</Value>
     </Record>
     <Record>
       <Key>StructurePipeTJunction</Key>
-      <Value>Pipe (T Junction)</Value>
+      <Value>管道(T字)</Value>
     </Record>
     <Record>
       <Key>StructurePowerConnector</Key>
-      <Value>Power Connector</Value>
+      <Value>電源連接器(Power Connector)</Value>
     </Record>
     <Record>
       <Key>StructurePressureRegulator</Key>
-      <Value>Pressure Regulator</Value>
+      <Value>壓力調節器(Pressure Regulator)</Value>
     </Record>
     <Record>
       <Key>StructureRailing</Key>
-      <Value>Railing</Value>
+      <Value>欄杆(Railing)</Value>
     </Record>
     <Record>
       <Key>StructureRocketEngine</Key>
-      <Value>Rocket Engine</Value>
+      <Value>火箭引擎(Rocket Engine)</Value>
     </Record>
     <Record>
       <Key>StructureRocketEngineSmall</Key>
-      <Value>Rocket Engine (Small)</Value>
+      <Value>小型火箭引擎(Small Rocket Engine)</Value>
     </Record>
     <Record>
       <Key>StructureRocketEngineTiny</Key>
-      <Value>Rocket Engine (Tiny)</Value>
+      <Value>微型火箭引擎(Tiny Rocket Engine)</Value>
     </Record>
     <Record>
       <Key>StructureRTG</Key>
-      <Value>RTG</Value>
+      <Value>放射性同位素發電機(RTG)</Value>
     </Record>
     <Record>
       <Key>StructureSleeper</Key>
-      <Value>Sleeper</Value>
+      <Value>睡眠倉(Sleeper)</Value>
     </Record>
     <Record>
       <Key>StructureSolarPanel</Key>
-      <Value>Solar Panel</Value>
+      <Value>太陽能板(Solar Panel)</Value>
     </Record>
     <Record>
       <Key>StructureSorter</Key>
-      <Value>Sorter</Value>
+      <Value>分揀機(Sorter)</Value>
     </Record>
     <Record>
       <Key>StructureStacker</Key>
-      <Value>Stacker</Value>
+      <Value>堆疊機(Stacker)</Value>
     </Record>
     <Record>
       <Key>StructureStackerReverse</Key>
-      <Value>Stacker</Value>
+      <Value>堆疊機(Stacker)</Value>
     </Record>
     <Record>
       <Key>StructureStairs4x2</Key>
-      <Value>Stairs</Value>
+      <Value>樓梯(Stairs)</Value>
     </Record>
     <Record>
       <Key>StructureStellarAnchor</Key>
-      <Value>Stellar Anchor</Value>
+      <Value>恆星錨(Stellar Anchor)</Value>
     </Record>
     <Record>
       <Key>StructureSuitStorage</Key>
-      <Value>Suit Storage</Value>
+      <Value>裝備架(Suit Storage)</Value>
     </Record>
     <Record>
       <Key>StructureTankConnector</Key>
-      <Value>Tank Connector</Value>
+      <Value>儲氣罐底座(Tank Connector)</Value>
     </Record>
     <Record>
       <Key>StructureTankSmall</Key>
-      <Value>Small Tank</Value>
+      <Value>小型儲氣罐(Small Tank)</Value>
     </Record>
     <Record>
       <Key>StructureTankSmallAir</Key>
-      <Value>Small Tank (Air)</Value>
+      <Value>小型儲氣罐(空氣)</Value>
     </Record>
     <Record>
       <Key>StructureTankSmallFuel</Key>
-      <Value>Small Tank (Fuel)</Value>
+      <Value>小型儲氣罐(燃料)</Value>
     </Record>
     <Record>
       <Key>StructureTorpedoRack</Key>
-      <Value>Torpedo Rack</Value>
+      <Value>魚雷架(Torpedo Rack)</Value>
     </Record>
     <Record>
       <Key>StructureTorpedoTube</Key>
-      <Value>Torpedo Launcher</Value>
+      <Value>魚雷發射器(Torpedo Launcher)</Value>
     </Record>
     <Record>
       <Key>StructureValve</Key>
-      <Value>Valve</Value>
+      <Value>閥門(Valve)</Value>
     </Record>
     <Record>
       <Key>StructureVolumePump</Key>
-      <Value>Volume Pump</Value>
+      <Value>幫浦(Volume Pump)</Value>
     </Record>
     <Record>
       <Key>StructureWallCooler</Key>
