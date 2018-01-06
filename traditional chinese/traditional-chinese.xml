@@ -586,35 +586,35 @@
     </Record>
     <Record>
       <Key>DynamicGasCanisterAir</Key>
-      <Value>便攜式儲氣罐(空氣)</Value>
+      <Value>便攜式壓力罐(空氣)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
-      <Value>便攜式儲氣罐(二氧化碳)</Value>
+      <Value>便攜式壓力罐(二氧化碳)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterEmpty</Key>
-      <Value>便攜式儲氣罐(Portable Tank)</Value>
+      <Value>便攜式壓力罐(Portable Tank)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterFuel</Key>
-      <Value>便攜式儲氣罐(燃料 fuel)</Value>
+      <Value>便攜式壓力罐(燃料 fuel)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterNitrogen</Key>
-      <Value>便攜式儲氣罐 (氮氣Nitrogen)</Value>
+      <Value>便攜式壓力罐 (氮氣Nitrogen)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterOxygen</Key>
-      <Value>便攜式儲氣罐 (氧氣 Oxygen)</Value>
+      <Value>便攜式壓力罐 (氧氣 Oxygen)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>便攜式儲氣罐 (氧化物 Volatiles)</Value>
+      <Value>便攜式壓力罐 (氧化物 Volatiles)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterWater</Key>
-      <Value>便攜式儲氣罐(水 Water)</Value>
+      <Value>便攜式壓力罐(水 Water)</Value>
     </Record>
     <Record>
       <Key>DynamicGenerator</Key>
@@ -1214,7 +1214,7 @@
     </Record>
     <Record>
       <Key>ItemTankConnector</Key>
-      <Value>儲氣槽連接器(TankConnector)</Value>
+      <Value>壓力槽連接器(TankConnector)</Value>
     </Record>
     <Record>
       <Key>ItemToolBelt</Key>
@@ -1486,7 +1486,7 @@
     </Record>
     <Record>
       <Key>StructureFlashingLight</Key>
-      <Value>旋轉燈告示(Flashing Light)</Value>
+      <Value>旋轉警示燈(Flashing Light)</Value>
     </Record>
     <Record>
       <Key>StructureFrame</Key>
@@ -1542,7 +1542,7 @@
     </Record>
     <Record>
       <Key>StructureMotionSensor</Key>
-      <Value>運動感測器(Motion Sensor)</Value>
+      <Value>動作感測器(Motion Sensor)</Value>
     </Record>
     <Record>
       <Key>StructurePassiveVent</Key>
@@ -1654,19 +1654,19 @@
     </Record>
     <Record>
       <Key>StructureTankConnector</Key>
-      <Value>儲氣罐底座(Tank Connector)</Value>
+      <Value>壓力罐底座(Tank Connector)</Value>
     </Record>
     <Record>
       <Key>StructureTankSmall</Key>
-      <Value>小型儲氣罐(Small Tank)</Value>
+      <Value>小型壓力罐(Small Tank)</Value>
     </Record>
     <Record>
       <Key>StructureTankSmallAir</Key>
-      <Value>小型儲氣罐(空氣)</Value>
+      <Value>小型壓力罐(空氣)</Value>
     </Record>
     <Record>
       <Key>StructureTankSmallFuel</Key>
-      <Value>小型儲氣罐(燃料)</Value>
+      <Value>小型壓力罐(燃料)</Value>
     </Record>
     <Record>
       <Key>StructureTorpedoRack</Key>
@@ -1858,27 +1858,27 @@
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
-      <Value>Iron Frame</Value>
+      <Value>鐵框架</Value>
     </Record>
     <Record>
       <Key>ItemIronFrames</Key>
-      <Value>Iron Frames</Value>
+      <Value>鐵框架</Value>
     </Record>
     <Record>
       <Key>ItemIronSheets</Key>
-      <Value>Iron Sheets</Value>
+      <Value>鐵板</Value>
     </Record>
     <Record>
       <Key>ItemSilverOre</Key>
-      <Value>Ore (Silver)</Value>
+      <Value>礦石 (Silver)</Value>
     </Record>
     <Record>
       <Key>ItemNickelOre</Key>
-      <Value>Ore (Nickel)</Value>
+      <Value>礦石 (Nickel)</Value>
     </Record>
     <Record>
       <Key>ItemLeadOre</Key>
-      <Value>Ore (Lead)</Value>
+      <Value>礦石 (Lead)</Value>
     </Record>
     <Record>
       <Key>WeaponRifleEnergy</Key>
@@ -1886,31 +1886,31 @@
     </Record>
     <Record>
       <Key>ItemElectrumIngot</Key>
-      <Value>Ingot (Electrum)</Value>
+      <Value>錠 (Electrum)</Value>
     </Record>
     <Record>
       <Key>ItemSilverIngot</Key>
-      <Value>Ingot (Silver)</Value>
+      <Value>錠 (Silver)</Value>
     </Record>
     <Record>
       <Key>ItemLeadIngot</Key>
-      <Value>Ingot (Lead)</Value>
+      <Value>錠 (Lead)</Value>
     </Record>
     <Record>
       <Key>ItemNickelIngot</Key>
-      <Value>Ingot (Nickel)</Value>
+      <Value>錠 (Nickel)</Value>
     </Record>
     <Record>
       <Key>ItemInvarIngot</Key>
-      <Value>Ingot (Invar)</Value>
+      <Value>錠 (Invar)</Value>
     </Record>
     <Record>
       <Key>ItemConstantanIngot</Key>
-      <Value>Ingot (Constantan)</Value>
+      <Value>錠 (Constantan)</Value>
     </Record>
     <Record>
       <Key>ItemSolderIngot</Key>
-      <Value>Ingot (Solder)</Value>
+      <Value>錠 (Solder)</Value>
     </Record>
     <Record>
       <Key>ApplianceChemistryStation</Key>
@@ -1930,11 +1930,11 @@
     </Record>
     <Record>
       <Key>ItemSiliconOre</Key>
-      <Value>Ore (Silicon)</Value>
+      <Value>礦石 (Silicon)</Value>
     </Record>
     <Record>
       <Key>ItemSiliconIngot</Key>
-      <Value>Ingot (Silicon)</Value>
+      <Value>錠 (Silicon)</Value>
     </Record>
     <Record>
       <Key>ItemFern</Key>
@@ -1966,7 +1966,7 @@
     </Record>
     <Record>
       <Key>StructureStorageLocker</Key>
-      <Value>Locker</Value>
+      <Value>置物櫃</Value>
     </Record>
     <Record>
       <Key>SpawnPoint</Key>
@@ -1994,7 +1994,7 @@
     </Record>
     <Record>
       <Key>ItemKitLocker</Key>
-      <Value>Kit (Locker)</Value>
+      <Value>Kit (置物櫃)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineSmall</Key>
@@ -2498,7 +2498,7 @@
     </Record>
     <Record>
       <Key>Flush</Key>
-      <Value>Flush</Value>
+      <Value>壓力重置</Value>
     </Record>
     <Record>
       <Key>Battery</Key>
