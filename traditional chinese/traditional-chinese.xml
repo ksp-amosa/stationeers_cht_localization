@@ -534,7 +534,7 @@
     </Record>
     <Record>
       <Key>CircuitboardCameraDisplay</Key>
-      <Value>Circuitboard (CameraDisplay)</Value>
+      <Value>Circuitboard (Camera Display)</Value>
     </Record>
     <Record>
       <Key>CircuitboardDoorControl</Key>
@@ -2140,6 +2140,10 @@
       <Key>StructureSign1x1</Key>
       <Value>Sign 1x1</Value>
     </Record>
+	<Record>
+      <Key>StructureSign2x1</Key>
+      <Value>Sign 2x1</Value>
+    </Record>
     <Record>
       <Key>StructureConsoleLED5Large</Key>
       <Value>LED Display (Medium)</Value>
@@ -3323,6 +3327,122 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     <Record>
       <Key>SettingsChatFadeTimer</Key>
       <Value>Chat Fade Delay</Value>
+    </Record>
+	<Record>
+      <Key>PromptResetSettingsTitle</Key>
+      <Value>Reset Settings</Value>
+    </Record>
+	<Record>
+      <Key>PromptResetSettingsBody</Key>
+      <Value>Are you sure?</Value>
+    </Record>
+	<Record>
+      <Key>PromptResetSettingsConfirm</Key>
+      <Value>Reset</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitTitle</Key>
+      <Value>Quit Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitBody</Key>
+      <Value>Are you sure you want to quit?</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitConfirm</Key>
+      <Value>Quit</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteTitle</Key>
+      <Value>Overwrite</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteBody</Key>
+      <Value>Are you sure you want to overwrite existing saved world?</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteConfirm</Key>
+      <Value>Overwrite</Value>
+    </Record>
+    <Record>
+      <Key>PromptPublishTitle</Key>
+      <Value>Publish to Workshop</Value>
+    </Record>
+    <Record>
+      <Key>PromptPublishBody</Key>
+      <Value>Are you sure you want to publish this world to the workshop?</Value>
+    </Record>
+    <Record>
+      <Key>PromptPublishConfirm</Key>
+      <Value>Publish</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteTitle</Key>
+      <Value>Delete Save</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteBody</Key>
+      <Value>Are you sure?</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteConfirm</Key>
+      <Value>Delete</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadTitle</Key>
+      <Value>Debug Load</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadBody</Key>
+      <Value>Are you sure you want to load this world with only one character?</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadConfirm</Key>
+      <Value>Debug Load</Value>
+    </Record>
+    <Record>
+      <Key>AlertInvalidIP</Key>
+      <Value>Invalid IP Address {0} \nCheck IP address or URL is valid</Value>
+    </Record>
+    <Record>
+      <Key>AlertPlayerCountExceeded</Key>
+      <Value>Server is full.</Value>
+    </Record>
+    <Record>
+      <Key>AlertVersionMismatch</Key>
+      <Value>Game version mismatch with server.</Value>
+    </Record>
+    <Record>
+      <Key>AlertNoResponse</Key>
+      <Value>There is no response from the Game Server.\n\n Please try again.</Value>
+    </Record>
+    <Record>
+      <Key>AlertKicked</Key>
+      <Value>You have been kicked from the server.</Value>
+    </Record>
+    <Record>
+      <Key>AlertWrongPassword</Key>
+      <Value>Server Password Incorrect.</Value>
+    </Record>
+    <Record>
+      <Key>AlertInvalidPort</Key>
+      <Value>Port values must be between 0 and 65535.</Value>
+    </Record>
+    <Record>
+      <Key>AlertCannotUpdatePort</Key>
+      <Value>Cannot modify Update Port while server is running.</Value>
+    </Record>
+    <Record>
+      <Key>AlertBlankSaveName</Key>
+      <Value>You must enter a world name to save.</Value>
+    </Record>
+    <Record>
+      <Key>AlertTitleAttention</Key>
+      <Value>Attention</Value>
+    </Record>
+    <Record>
+      <Key>AlertTitlePleaseWait</Key>
+      <Value>Please Wait...</Value>
     </Record>
     <Record>
       <Key>TooltipNeedMoreKit</Key>
