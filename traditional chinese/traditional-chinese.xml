@@ -598,35 +598,35 @@
     </Record>
     <Record>
       <Key>DynamicGasCanisterFuel</Key>
-      <Value>Portable Tank (Fuel)</Value>
+      <Value>便攜式儲氣罐(燃料 fuel)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterNitrogen</Key>
-      <Value>Portable Tank (Nitrogen)</Value>
+      <Value>便攜式儲氣罐 (氮氣Nitrogen)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterOxygen</Key>
-      <Value>Portable Tank (Oxygen)</Value>
+      <Value>便攜式儲氣罐 (氧氣 Oxygen)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>Portable Tank (Volatiles)</Value>
+      <Value>便攜式儲氣罐 (氧化物 Volatiles)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterWater</Key>
-      <Value>Portable Tank (Water)</Value>
+      <Value>便攜式儲氣罐(水 Water)</Value>
     </Record>
     <Record>
       <Key>DynamicGenerator</Key>
-      <Value>Portable Generator</Value>
+      <Value>攜帶式發電機</Value>
     </Record>
     <Record>
       <Key>DynamicLight</Key>
-      <Value>Portable Light</Value>
+      <Value>攜帶式燈</Value>
     </Record>
     <Record>
       <Key>DynamicScrubber</Key>
-      <Value>Portable Air Scrubber</Value>
+      <Value>攜帶式空氣清淨機(air Scrubber)</Value>
     </Record>
     <Record>
       <Key>EffectSplatEgg</Key>
@@ -666,27 +666,27 @@
     </Record>
     <Record>
       <Key>ItemActiveVent</Key>
-      <Value>Active Vent</Value>
+      <Value>主動式通風口</Value>
     </Record>
     <Record>
       <Key>ItemAreaPowerControl</Key>
-      <Value>Power Controller</Value>
+      <Value>電力控制器</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCell</Key>
-      <Value>Battery Cell (Small)</Value>
+      <Value>電池(小)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCellLarge</Key>
-      <Value>Battery Cell (Large)</Value>
+      <Value>電池(大)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCellNuclear</Key>
-      <Value>Battery Cell (Nuclear)</Value>
+      <Value>電池(核能)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCharger</Key>
-      <Value>Battery Cell Charger</Value>
+      <Value>電池充電器</Value>
     </Record>
     <Record>
       <Key>ItemBook</Key>
@@ -694,43 +694,43 @@
     </Record>
     <Record>
       <Key>ItemCableCoil</Key>
-      <Value>Cable Coil</Value>
+      <Value>電線</Value>
     </Record>
     <Record>
       <Key>ItemChemLightBlue</Key>
-      <Value>Chem Light (Blue)</Value>
+      <Value>化學燈(藍)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightGreen</Key>
-      <Value>Chem Light (Green)</Value>
+      <Value>化學燈(綠)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightRed</Key>
-      <Value>Chem Light (Red)</Value>
+      <Value>化學燈(紅)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightWhite</Key>
-      <Value>Chem Light (White)</Value>
+      <Value>化學燈(白)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightYellow</Key>
-      <Value>Chem Light (Yellow)</Value>
+      <Value>化學燈(黃)</Value>
     </Record>
     <Record>
       <Key>ItemCoalOre</Key>
-      <Value>Ore (Coal)</Value>
+      <Value>煤礦</Value>
     </Record>
     <Record>
       <Key>ItemCompositeFloorGrating</Key>
-      <Value>Floor Grating</Value>
+      <Value>地板格柵</Value>
     </Record>
     <Record>
       <Key>ItemCopperIngot</Key>
-      <Value>Ingot (Copper)</Value>
+      <Value>銅碇(Copper Ingot)</Value>
     </Record>
     <Record>
       <Key>ItemCopperOre</Key>
-      <Value>Ore (Copper)</Value>
+      <Value>銅礦(Copper ore)</Value>
     </Record>
     <Record>
       <Key>ItemCorn</Key>
@@ -738,7 +738,7 @@
     </Record>
     <Record>
       <Key>ItemCrowbar</Key>
-      <Value>Crowbar</Value>
+      <Value>鐵鍬</Value>
     </Record>
     <Record>
       <Key>ItemDataDisk</Key>
@@ -746,15 +746,15 @@
     </Record>
     <Record>
       <Key>ItemDrill</Key>
-      <Value>Hand Drill</Value>
+      <Value>手持鑽頭</Value>
     </Record>
     <Record>
       <Key>ItemDuctTape</Key>
-      <Value>Duct Tape</Value>
+      <Value>氣密膠帶</Value>
     </Record>
     <Record>
       <Key>ItemDynamite</Key>
-      <Value>Dynamite</Value>
+      <Value>炸藥</Value>
     </Record>
     <Record>
       <Key>ItemEgg</Key>
@@ -774,7 +774,7 @@
     </Record>
     <Record>
       <Key>ItemEvaSuit</Key>
-      <Value>Eva Suit</Value>
+      <Value>太空裝</Value>
     </Record>
     <Record>
       <Key>ItemFertilizedEgg</Key>
@@ -782,11 +782,11 @@
     </Record>
     <Record>
       <Key>ItemFireExtinguisher</Key>
-      <Value>Fire Extinguisher</Value>
+      <Value>滅火器</Value>
     </Record>
     <Record>
       <Key>ItemFlashingLight</Key>
-      <Value>Flashing Light</Value>
+      <Value>閃爍燈</Value>
     </Record>
     <Record>
       <Key>ItemFlour</Key>
@@ -794,63 +794,63 @@
     </Record>
     <Record>
       <Key>ItemGasCanisterCarbonDioxide</Key>
-      <Value>Canister (CO2)</Value>
+      <Value>氣瓶 (二氧化碳 CO2)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterPollutants</Key>
-      <Value>Canister (Pollutants)</Value>
+      <Value>氣瓶  (廢氣 Pollutants)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterEmpty</Key>
-      <Value>Canister</Value>
+      <Value>氣瓶(空)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterFuel</Key>
-      <Value>Canister (Fuel)</Value>
+      <Value>氣瓶(燃料 Fuel)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>Canister (Volatiles)</Value>
+      <Value>氣瓶(氧化物 Volatiles)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterNitrogen</Key>
-      <Value>Canister (Nitrogen)</Value>
+      <Value>氣瓶(氮氣 Nitrogen)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterOxygen</Key>
-      <Value>Canister (Oxygen)</Value>
+      <Value>氣瓶 (氧氣Oxygen)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterWater</Key>
-      <Value>Canister (Water)</Value>
+      <Value>氣瓶 (水 Water)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterCarbonDioxide</Key>
-      <Value>Filter (CO2)</Value>
+      <Value>過濾器 二氧化碳 (Filter CO2)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterPollutants</Key>
-      <Value>Filter (Pollutant)</Value>
+      <Value>過濾器 廢氣(Pollutant)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterNitrogen</Key>
-      <Value>Filter (Nitrogen)</Value>
+      <Value>過濾器 氮氣(Nitrogen)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterOxygen</Key>
-      <Value>Filter (Oxygen)</Value>
+      <Value>過濾器 氧氣(Oxygen)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>Filter (Volatiles)</Value>
+      <Value>過濾器 氧化物(Volatiles)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterWater</Key>
-      <Value>Filter (Water)</Value>
+      <Value>過濾器 水(Water)</Value>
     </Record>
     <Record>
       <Key>ItemGasTankStorage</Key>
-      <Value>Gas Tank Storage</Value>
+      <Value> 固定式壓力罐 Gas Tank Storage</Value>
     </Record>
     <Record>
       <Key>ItemGlassSheets</Key>
@@ -858,15 +858,15 @@
     </Record>
     <Record>
       <Key>ItemGoldIngot</Key>
-      <Value>Ingot (Gold)</Value>
+      <Value>金碇(Gold Ingot)</Value>
     </Record>
     <Record>
       <Key>ItemGoldOre</Key>
-      <Value>Ore (Gold)</Value>
+      <Value>金礦(Gold ore)</Value>
     </Record>
     <Record>
       <Key>ItemGrenade</Key>
-      <Value>Hand Grenade</Value>
+      <Value>手榴彈</Value>
     </Record>
     <Record>
       <Key>ItemHat</Key>
@@ -874,7 +874,7 @@
     </Record>
     <Record>
       <Key>ItemHealPill</Key>
-      <Value>Heal Pill</Value>
+      <Value>治療藥</Value>
     </Record>
     <Record>
       <Key>ItemHydroponicTray</Key>
@@ -882,7 +882,7 @@
     </Record>
     <Record>
       <Key>ItemIce</Key>
-      <Value>Ice (Water)</Value>
+      <Value>冰塊 Ice(Water)</Value>
     </Record>
     <Record>
       <Key>ItemIgniter</Key>
@@ -894,27 +894,27 @@
     </Record>
     <Record>
       <Key>ItemIronIngot</Key>
-      <Value>Ingot (Iron)</Value>
+      <Value>鐵碇Ingot (Iron)</Value>
     </Record>
     <Record>
       <Key>ItemIronOre</Key>
-      <Value>Ore (Iron)</Value>
+      <Value>鐵礦Ore (Iron)</Value>
     </Record>
     <Record>
       <Key>ItemKitAirlock</Key>
-      <Value>Kit (Airlock)</Value>
+      <Value>設備 氣閘門</Value>
     </Record>
     <Record>
       <Key>ItemKitAtmospherics</Key>
-      <Value>Kit (Atmospherics)</Value>
+      <Value>設備 大氣產生器(Atmospherics)</Value>
     </Record>
     <Record>
       <Key>ItemKitBattery</Key>
-      <Value>Kit (Battery)</Value>
+      <Value>設備 固定式電池(Battery)</Value>
     </Record>
     <Record>
       <Key>ItemKitCentrifuge</Key>
-      <Value>Kit (Centrifuge)</Value>
+      <Value>設備 離心機(Centrifuge)</Value>
     </Record>
     <Record>
       <Key>ItemKitChute</Key>
@@ -922,51 +922,51 @@
     </Record>
     <Record>
       <Key>ItemKitComputer</Key>
-      <Value>Kit (Computer)</Value>
+      <Value>設備 電腦(Computer)</Value>
     </Record>
     <Record>
       <Key>ItemKitConsole</Key>
-      <Value>Construction Kit (Consoles)</Value>
+      <Value>設備 控制面板(Consoles)</Value>
     </Record>
     <Record>
       <Key>ItemKitConveyor</Key>
-      <Value>Construction Kit (Conveyors)</Value>
+      <Value>設備 輸送帶(Conveyors)</Value>
     </Record>
     <Record>
       <Key>ItemKitCryoTube</Key>
-      <Value>Construction Kit (Cryo Tube)</Value>
+      <Value>設備 冷凍艙(Cryo Tube)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngine</Key>
-      <Value>Construction Kit (Engines)</Value>
+      <Value>設備 引擎(Engines)</Value>
     </Record>
     <Record>
       <Key>ItemKitFabricator</Key>
-      <Value>Kit (Fabricator)</Value>
+      <Value>設備 加工廠(Fabricator)</Value>
     </Record>
     <Record>
       <Key>ItemKitFurnace</Key>
-      <Value>Kit (Furnace)</Value>
+      <Value>設備 熔爐(Furnace)</Value>
     </Record>
     <Record>
       <Key>ItemKitFurniture</Key>
-      <Value>Kit (Furniture)</Value>
+      <Value>設備 傢俱(Furniture)</Value>
     </Record>
     <Record>
       <Key>ItemKitGyroscope</Key>
-      <Value>Kit (Gyroscope)</Value>
+      <Value>設備 陀螺儀(Gyroscope)</Value>
     </Record>
     <Record>
       <Key>ItemKitRegulator</Key>
-      <Value>Construction Kit (Pressure Regulator)</Value>
+      <Value>設備 壓力調節器(Pressure Regulator)</Value>
     </Record>
     <Record>
       <Key>ItemKitSensor</Key>
-      <Value>Construction Kit (Sensors)</Value>
+      <Value>設備 感測器(Sensors)</Value>
     </Record>
     <Record>
       <Key>ItemKitSign</Key>
-      <Value>Construction Kit (Sign)</Value>
+      <Value>設備 標誌(Sign)</Value>
     </Record>
     <Record>
       <Key>ItemKitSleeper</Key>
