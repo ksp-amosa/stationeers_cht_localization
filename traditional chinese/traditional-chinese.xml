@@ -510,33 +510,6 @@
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyser</Key>
-<<<<<<< HEAD
-      <Value>晶片(壓力分析儀)</Value>
-    </Record>
-    <Record>
-      <Key>CartridgeMedicalAnalyser</Key>
-      <Value>晶片(醫療分析儀)</Value>
-    </Record>
-    <Record>
-      <Key>CartridgeNetworkAnalyser</Key>
-      <Value>晶片(電路分析儀)</Value>
-    </Record>
-    <Record>
-      <Key>Character</Key>
-      <Value>人物(Character)</Value>
-    </Record>
-    <Record>
-      <Key>CircuitboardAirControl</Key>
-      <Value>電路板(Air Control)</Value>
-    </Record>
-    <Record>
-      <Key>CircuitboardAirlockControl</Key>
-      <Value>電路板(氣閥控制)</Value>
-    </Record>
-    <Record>
-      <Key>CircuitboardCameraDisplay</Key>
-      <Value>電路板(Camera Display)</Value>
-=======
       <Value>晶片(原子分析)</Value>
     </Record>
     <Record>
@@ -562,7 +535,6 @@
     <Record>
       <Key>CircuitboardCameraDisplay</Key>
       <Value>Circuitboard (CameraDisplay)</Value>
->>>>>>> a053dfe4dbbd01f3d2fb8e3a1b40d8c9809e3bcb
     </Record>
     <Record>
       <Key>CircuitboardDoorControl</Key>
