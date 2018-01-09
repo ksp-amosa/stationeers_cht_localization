@@ -22,27 +22,27 @@
     </Record>
     <Record>
       <Key>TutorialDescPickupHelmet</Key>
-      <Value>找到 {THING:ItemSpaceHelmet} 並且將它裝備到 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位，當物品呈現綠色可互動狀態時，您可以使用 {COLORRED:Left Mouse Button} 點選它</Value>
+      <Value>找到 {THING:ItemSpaceHelmet} 並且使用 {SLOT:LeftHand} 或 {SLOT:RightHand} 拾取物品，當物品呈現綠色可互動狀態時，您可以使用 {COLORRED:Left Mouse Button} 點選它以拾取物品</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearHelmet</Key>
-      <Value>持續按住 {KEY:HelmetSlot} 直到您的 {THING:ItemSpaceHelmet} 移動到您的 {SLOT:Helmet} 欄位</Value>
+      <Value>持續按住 {KEY:HelmetSlot} 直到 {THING:ItemSpaceHelmet} 裝備至您的 {SLOT:Helmet} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialDescPickupSuit</Key>
-      <Value>找到 {THING:ItemEvaSuit} 並且將它裝備到 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位，當物品呈現綠色可互動狀態時，您可以使用 {COLORRED:Left Mouse Button} 點選它</Value>
+      <Value>找到 {THING:ItemEvaSuit} 並且使用 {SLOT:LeftHand} 或 {SLOT:RightHand} 拾取物品，當物品呈現綠色可互動狀態時，您可以使用 {COLORRED:Left Mouse Button} 點選它以拾取物品</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearSuit</Key>
-      <Value>持續按住 {KEY:SuitSlot} 直到您的 {THING:ItemEvaSuit} 裝備至您的 {SLOT:Suit} 欄位</Value>
+      <Value>持續按住 {KEY:SuitSlot} 直到 {THING:ItemEvaSuit} 裝備至您的 {SLOT:Suit} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialDescPickupJetpack</Key>
-      <Value>找到 {THING:ItemSpacepack} 並且將它裝備到 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位，當物品呈現綠色可互動狀態時，您可以使用 {COLORRED:Left Mouse Button} 點選它</Value>
+      <Value>找到 {THING:ItemSpacepack} 並且使用 {SLOT:LeftHand} 或 {SLOT:RightHand} 拾取物品，當物品呈現綠色可互動狀態時，您可以使用 {COLORRED:Left Mouse Button} 點選它以拾取物品</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearJetpack</Key>
-      <Value>持續按住 {KEY:BackSlot} 直到您的 {THING:ItemSpacepack} 裝備至您的 {SLOT:Back} 欄位</Value>
+      <Value>持續按住 {KEY:BackSlot} 直到 {THING:ItemSpacepack} 裝備至您的 {SLOT:Back} 欄位</Value>
     </Record>
     <Record>
       <Key>TutorialTitlePowerSuit</Key>
@@ -50,7 +50,7 @@
     </Record>
     <Record>
       <Key>TutorialDescPowerSuit</Key>
-      <Value>找到 {THING:ItemBatteryCellLarge} 撿起並且將它裝備到 {SLOT:LeftHand} 或 {SLOT:RightHand} 欄位，您可以使用 {COLORRED:Left Mouse Button} 點選它</Value>
+      <Value>找到 {THING:ItemBatteryCellLarge} 並且使用 {SLOT:LeftHand} 或 {SLOT:RightHand} 拾取物品，您可以使用 {COLORRED:Left Mouse Button} 點選它以拾取物品</Value>
     </Record>
     <Record>
       <Key>TutorialTaskLifesupportSuit1</Key>
@@ -70,7 +70,7 @@
     </Record>
     <Record>
       <Key>TutorialDescLifesupport1</Key>
-      <Value>您可以重複使用 {KEY:SuitSlot} 鍵來開啟並切換 {SLOT:Suit} 的互動介面， 這個動作將會在 欄位格 與 功能選項 中切換。現在將您的介面切換至 欄位格.</Value>
+      <Value>您可以多次點擊 {KEY:SuitSlot} 鍵來開啟並切換 {SLOT:Suit} 的互動介面， 這個動作將會在 欄位格 與 功能選項 中切換。現在將您的介面切換至 欄位格.</Value>
     </Record>
     <Record>
       <Key>TutorialDescLifesupport2</Key>
@@ -110,7 +110,7 @@
     </Record>
     <Record>
       <Key>TutorialDescFilter2</Key>
-      <Value>您可以重複使用 {KEY:SuitSlot} 鍵來開啟並切換 {SLOT:Suit} 的互動介面，這個動作將會在 欄位格 與 功能選項 中切換。現在將您的介面切換至 欄位格.</Value>
+      <Value>您可以多次點擊 {KEY:SuitSlot} 鍵來開啟並切換 {SLOT:Suit} 的互動介面，這個動作將會在 欄位格 與 功能選項 中切換。現在將您的介面切換至 欄位格.</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter3</Key>
@@ -230,7 +230,7 @@
     </Record>
     <Record>
       <Key>TutorialDescTablet2</Key>
-      <Value>您現在可以重複使用 {KEY:ActiveHandSlot} 鍵以切換目前手持裝備的 欄位格 與 互動選項的內容, 您可以使用 {KEY:SwapHands} 鍵來切換當前手持物品. 現在請選擇 {THING:ItemTablet} 為您的當前手持物品 並且打開內部欄位格以繼續</Value>
+      <Value>您現在可以多次點擊 {KEY:ActiveHandSlot} 鍵以切換目前手持裝備的 欄位格 與 互動選項的內容, 您可以使用 {KEY:SwapHands} 鍵來切換當前手持物品. 現在請選擇 {THING:ItemTablet} 為您的當前手持物品 並且打開內部欄位格以繼續</Value>
     </Record>
     <Record>
       <Key>TutorialDescTablet3</Key>
@@ -266,7 +266,7 @@
     </Record>
 	<Record>
       <Key>TutorialDescUseReader1</Key>
-      <Value>{THING:ItemTablet} 有各種不同功能的晶片可以安裝. 現在將 {THING:ItemTablet} 打開，使用 {KEY:ToggleHandPower} 鍵可以快速開啟電源, 或者切換至當前手持物品，並重複點擊 {KEY:ActiveHandSlot} 鍵切換至功能介面後 也可以開啟裝置電源</Value>
+      <Value>{THING:ItemTablet} 有各種不同功能的晶片可以安裝. 現在將 {THING:ItemTablet} 打開，使用 {KEY:ToggleHandPower} 鍵可以快速開啟電源, 或者切換至當前手持物品，並點擊兩次 {KEY:ActiveHandSlot} 鍵切換至功能介面後 也可以開啟裝置電源</Value>
     </Record>
 	<Record>
       <Key>TutorialDescUseReader2</Key>
