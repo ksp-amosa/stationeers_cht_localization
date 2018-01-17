@@ -1274,7 +1274,7 @@
     </Record>
     <Record>
       <Key>NpcGrounder</Key>
-      <Value>NPC Insect</Value>
+      <Value>Npc Grounder</Value>
     </Record>
     <Record>
       <Key>OrganBrain</Key>
@@ -2140,7 +2140,7 @@
       <Key>StructureSign1x1</Key>
       <Value>Sign 1x1</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>StructureSign2x1</Key>
       <Value>Sign 2x1</Value>
     </Record>
@@ -2195,6 +2195,18 @@
     <Record>
       <Key>StructureConsoleLED1x3</Key>
       <Value>LED Display (Large)</Value>
+    </Record>
+    <Record>
+      <Key>NpcChick</Key>
+      <Value>Chick</Value>
+    </Record>
+    <Record>
+      <Key>NpcChicken</Key>
+      <Value>Chicken</Value>
+    </Record>
+    <Record>
+      <Key>DynamicSkeleton</Key>
+      <Value>Skeleton</Value>
     </Record>
   </Things>
   <Slots>
@@ -3328,15 +3340,15 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
       <Key>SettingsChatFadeTimer</Key>
       <Value>Chat Fade Delay</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>PromptResetSettingsTitle</Key>
       <Value>Reset Settings</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>PromptResetSettingsBody</Key>
       <Value>Are you sure?</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>PromptResetSettingsConfirm</Key>
       <Value>Reset</Value>
     </Record>
@@ -3401,6 +3413,18 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
       <Value>Debug Load</Value>
     </Record>
     <Record>
+      <Key>PromptRespawnTitle</Key>
+      <Value>Respawn</Value>
+    </Record>
+    <Record>
+      <Key>PromptRespawnBody</Key>
+      <Value>You are dead.</Value>
+    </Record>
+    <Record>
+      <Key>PromptRespawnConfirm</Key>
+      <Value>Respawn</Value>
+    </Record>
+    <Record>
       <Key>AlertInvalidIP</Key>
       <Value>Invalid IP Address {0} \nCheck IP address or URL is valid</Value>
     </Record>
@@ -3414,7 +3438,11 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>
-      <Value>There is no response from the Game Server.\n\n Please try again.</Value>
+      <Value>    
+        There is no response from the Game Server. 
+        
+        Please try again.
+      </Value>
     </Record>
     <Record>
       <Key>AlertKicked</Key>
@@ -3447,6 +3475,74 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     <Record>
       <Key>TooltipNeedMoreKit</Key>
       <Value>&lt;color=red&gt;Need more {0}&lt;/color&gt;.</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuSearchPlaceholder</Key>
+      <Value>Search by Server Name</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuAddressPlaceholder</Key>
+      <Value>Enter IP:Port here...</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailConnectButton</Key>
+      <Value>Join World</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailInfoButton</Key>
+      <Value>View Info</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailUnFavoriteButton</Key>
+      <Value>Remove Favorite</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailFavoriteButton</Key>
+      <Value>Favorite</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuSaveWorldButton</Key>
+      <Value>Save World</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuOverwriteButton</Key>
+      <Value>Overwrite</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuNamePlaceholder</Key>
+      <Value>Enter Save Name...</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldModeCreative</Key>
+      <Value>Creative</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldModeSurvival</Key>
+      <Value>Survival</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerListMap</Key>
+      <Value>Map</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoIPAddress</Key>
+      <Value>IP Address:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoMap</Key>
+      <Value>Map:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoVersion</Key>
+      <Value>Version:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoLatency</Key>
+      <Value>Latency:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoPlayers</Key>
+      <Value>Players:</Value>
     </Record>
   </Interface>
   <Colors>
