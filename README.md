@@ -1,7 +1,7 @@
 # Stationeers 中文語系協同翻譯文檔
 
 檔案中包含繁體文檔與簡體文檔的翻譯內容<br />
-Current Version: v0.1.1095.5529:<br />
+Current Version: v0.1.1111.5605:<br />
 Progress:<br />
 
 > * traditional-chinese.xml 65%
