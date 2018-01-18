@@ -723,7 +723,7 @@
     </Record>
     <Record>
       <Key>ItemCompositeFloorGrating</Key>
-      <Value>栅板</Value>
+      <Value>柵板</Value>
     </Record>
     <Record>
       <Key>ItemCopperIngot</Key>
@@ -1395,7 +1395,7 @@
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating</Key>
-      <Value>栅板</Value>
+      <Value>柵板</Value>
     </Record>
     <Record>
       <Key>StructureCompositeWall</Key>
