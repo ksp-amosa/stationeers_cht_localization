@@ -10,7 +10,6 @@
 	<String>按下 {KEY:Drop} 鍵將會立即放下您手上的物品. 如果是長按 {KEY:Drop} 鍵, 角色將會蓄力丟出手上的物品.</String>
 	<String>按下 {KEY:SwapHands} 來切換目前的主手欄位. 重複按下 {KEY:ActiveHandSlot} 將會切換目前主手物品的功能選項與欄位格(如果物品有的話).</String>
 	<String>按下 {KEY:Internals} 可以快速開關您的 {THING:ItemSpaceHelmet}.</String>
-	<String>按下 {KEY:Chatting} 來與您的朋友交談. 對話輸入視窗鳩會在畫面的右下角.</String>
 	<String>按下 {KEY:Chatting} 來與您的朋友交談. 對話輸入視窗就會在畫面的右下角.</String>
 	<String>要改變建築物品時的方向, 可以按下 {KEY:RotateLeft} 左轉, {KEY:RotateRight} 右轉, {KEY:RotateUp} 上翻, {KEY:RotateDown} 下翻, {KEY:RotateRollLeft} 左側翻, 與 {KEY:RotateRollRight} 右側翻.</String>
 	<String>想要知道某些東西的製作配方嗎? 插入 {THING:CartridgeElectronicReader} 到 {THING:ItemTablet} 然後按下 {KEY:ToggleHandPower} 鍵啟動.</String>
