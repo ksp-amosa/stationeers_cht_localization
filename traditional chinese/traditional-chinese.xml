@@ -2333,7 +2333,7 @@
     </Record>
     <Record>
       <Key>Entity</Key>
-      <Value>Entity</Value>
+      <Value>實體</Value>
     </Record>
     <Record>
       <Key>Occupant</Key>
@@ -2627,7 +2627,7 @@
     </Record>
     <Record>
       <Key>Launch</Key>
-      <Value>Launch</Value>
+      <Value>發射</Value>
     </Record>
     <Record>
       <Key>PreviousPlan</Key>
@@ -2905,7 +2905,7 @@
     </Record>
     <Record>
       <Key>WorkshopUploadProgress</Key>
-      <Value>Processing configuration data</Value>
+      <Value>處理設置數據</Value>
     </Record>
     <Record>
       <Key>ButtonConfirmWarning</Key>
@@ -3367,11 +3367,11 @@
     </Record>
     <Record>
       <Key>PromptPublishTitle</Key>
-      <Value>發布至工作仿</Value>
+      <Value>發布至工作坊</Value>
     </Record>
     <Record>
       <Key>PromptPublishBody</Key>
-      <Value>您確定要發布這個世界至工作仿嗎?</Value>
+      <Value>您確定要發布這個世界至工作坊嗎?</Value>
     </Record>
     <Record>
       <Key>PromptPublishConfirm</Key>
@@ -3391,11 +3391,11 @@
     </Record>
     <Record>
       <Key>PromptDebugLoadTitle</Key>
-      <Value>Debug Load</Value>
+      <Value>除錯載入</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadBody</Key>
-      <Value>Are you sure you want to load this world with only one character?</Value>
+      <Value>你確定只用一個角色載入世界嗎?</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadConfirm</Key>
