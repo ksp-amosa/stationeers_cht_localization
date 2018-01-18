@@ -2688,23 +2688,23 @@
   <Interface>
     <Record>
       <Key>MainMenuContinue</Key>
-      <Value>繼續(Continue)</Value>
+      <Value>繼續</Value>
     </Record>
     <Record>
       <Key>MainMenuNewWorld</Key>
-      <Value>全新世界(New World)</Value>
+      <Value>全新世界</Value>
     </Record>
     <Record>
       <Key>MainMenuLoadWorld</Key>
-      <Value>讀取世界(Load World)</Value>
+      <Value>讀取世界</Value>
     </Record>
     <Record>
       <Key>MainMenuJoinWorld</Key>
-      <Value>加入世界(Join World)</Value>
+      <Value>加入世界</Value>
     </Record>
     <Record>
       <Key>MainMenuWorkshop</Key>
-      <Value>工作坊(Workshop)</Value>
+      <Value>工作坊</Value>
     </Record>
     <Record>
       <Key>MainMenuSettings</Key>
@@ -2712,195 +2712,195 @@
     </Record>
     <Record>
       <Key>MainMenuTutorial</Key>
-      <Value>新手教學(Tutorial)</Value>
+      <Value>新手教學</Value>
     </Record>
     <Record>
       <Key>MainMenuCredits</Key>
-      <Value>積分(Credits)</Value>
+      <Value>製作組</Value>
     </Record>
     <Record>
       <Key>MainMenuExit</Key>
-      <Value>離開至桌面(Exit To Desktop)</Value>
+      <Value>離開至桌面</Value>
     </Record>
     <Record>
       <Key>LoadMenuTitle</Key>
-      <Value>讀取世界(Load World)</Value>
+      <Value>讀取世界</Value>
     </Record>
     <Record>
       <Key>LoadMenuFileListTitle</Key>
-      <Value>儲存世界(Saved Worlds)</Value>
+      <Value>儲存世界</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextDate</Key>
-      <Value>儲存(Saved):</Value>
+      <Value>儲存:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextPlaytime</Key>
-      <Value>遊戲時間:(Playtime:)</Value>
+      <Value>遊戲時間:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextPlayers</Key>
-      <Value>玩家:(Players:)</Value>
+      <Value>玩家:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextAsteroids</Key>
-      <Value>小行星:(Asteroids:)</Value>
+      <Value>小行星:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextVersion</Key>
-      <Value>版本:(Version:)</Value>
+      <Value>版本:</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonDelete</Key>
-      <Value>刪除(Delete)</Value>
+      <Value>刪除</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonPublish</Key>
-      <Value>發佈(Publish)</Value>
+      <Value>發佈</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonDebugLoad</Key>
-      <Value>除錯讀取(Debug Load)</Value>
+      <Value>除錯讀取</Value>
     </Record>
     <Record>
       <Key>LoadWorldButtonLoad</Key>
-      <Value>讀取世界(Load World)</Value>
+      <Value>讀取世界</Value>
     </Record>
     <Record>
       <Key>JoinMenuTitle</Key>
-      <Value>加入世界(Join World)</Value>
+      <Value>加入世界</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonRefresh</Key>
-      <Value>刷新列表(Refresh List)</Value>
+      <Value>刷新列表</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonJoin</Key>
-      <Value>加入世界(Join World)</Value>
+      <Value>加入世界</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListName</Key>
-      <Value>伺服器名稱(Server Name)</Value>
+      <Value>伺服器名稱</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListVersion</Key>
-      <Value>版本(Version)</Value>
+      <Value>版本</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListRefreshing</Key>
-      <Value>刷新伺服器列表(Refreshing Server List)</Value>
+      <Value>刷新伺服器列表</Value>
     </Record>
     <Record>
       <Key>JoinMenuInputAddressTitle</Key>
-      <Value>位置(Address)</Value>
+      <Value>位置</Value>
     </Record>
     <Record>
       <Key>NewWorldTitle</Key>
-      <Value>全新世界(New World)</Value>
+      <Value>全新世界</Value>
     </Record>
     <Record>
       <Key>NewWorldButtonBack</Key>
-      <Value>返回(Back)</Value>
+      <Value>返回</Value>
     </Record>
     <Record>
       <Key>NewWorldButtonCreate</Key>
-      <Value>創建世界(Create World)</Value>
+      <Value>創建世界</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaTitle</Key>
-      <Value>起始區域(Starting Area)</Value>
+      <Value>起始區域</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaSpace</Key>
-      <Value>太空(Space)</Value>
+      <Value>太空</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaMars</Key>
-      <Value>火星(Mars)</Value>
+      <Value>火星</Value>
     </Record>
     <Record>
       <Key>NewWorldEnableAwayMissions</Key>
-      <Value>啟用任務(Enable Away Missions)</Value>
+      <Value>啟用任務</Value>
     </Record>
     <Record>
       <Key>InventorySlotBelt</Key>
-      <Value>腰帶(Belt)</Value>
+      <Value>腰帶</Value>
     </Record>
     <Record>
       <Key>InventorySlotUniform</Key>
-      <Value>制服(Uniform)</Value>
+      <Value>制服</Value>
     </Record>
     <Record>
       <Key>InventorySlotBackpack</Key>
-      <Value>背包(Back)</Value>
+      <Value>背包</Value>
     </Record>
     <Record>
       <Key>InventorySlotSuit</Key>
-      <Value>太空衣(Suit)</Value>
+      <Value>太空衣</Value>
     </Record>
     <Record>
       <Key>InventorySlotHelmet</Key>
-      <Value>頭盔(Helmet)</Value>
+      <Value>頭盔</Value>
     </Record>
     <Record>
       <Key>InventorySlotHandLeft</Key>
-      <Value>左手(Left Hand)</Value>
+      <Value>左手</Value>
     </Record>
     <Record>
       <Key>InventorySlotHandRight</Key>
-      <Value>右手(Right Hand)</Value>
+      <Value>右手</Value>
     </Record>
     <Record>
       <Key>StatusWindowExternal</Key>
-      <Value>外部(External)</Value>
+      <Value>外部</Value>
     </Record>
     <Record>
       <Key>StatusWindowDamage</Key>
-      <Value>損傷(Damage)</Value>
+      <Value>損傷</Value>
     </Record>
     <Record>
       <Key>StatusWindowInternal</Key>
-      <Value>內部(Internal)</Value>
+      <Value>內部</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonReturn</Key>
-      <Value>返回遊戲(Return To Game)</Value>
+      <Value>返回遊戲</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSave</Key>
-      <Value>儲存世界(Save World)</Value>
+      <Value>儲存世界</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonChangeCharacter</Key>
-      <Value>更改外觀(Change Appearance)</Value>
+      <Value>更改角色外觀</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSettings</Key>
-      <Value>設置(Settings)</Value>
+      <Value>設置</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonLeave</Key>
-      <Value>離開連線(Leave Session)</Value>
+      <Value>離開連線</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonExitDesktop</Key>
-      <Value>離開至桌面(Exit To Desktop)</Value>
+      <Value>離開至桌面</Value>
     </Record>
     <Record>
       <Key>SaveMenuTitle</Key>
-      <Value>儲存世界(Save World)</Value>
+      <Value>儲存世界</Value>
     </Record>
     <Record>
       <Key>SaveMenuListTitle</Key>
-      <Value>儲存世界(Saved Worlds)</Value>
+      <Value>儲存世界</Value>
     </Record>
     <Record>
       <Key>ButtonBack</Key>
-      <Value>返回(Back)</Value>
+      <Value>返回</Value>
     </Record>
     <Record>
       <Key>ButtonDelete</Key>
-      <Value>刪除(Delete)</Value>
+      <Value>刪除</Value>
     </Record>
     <Record>
       <Key>WorkshopUploadProgress</Key>
@@ -2912,55 +2912,55 @@
     </Record>
     <Record>
       <Key>GameMenuButtonExit</Key>
-      <Value>Exit Game</Value>
+      <Value>離開遊戲</Value>
     </Record>
     <Record>
       <Key>SettingsMenuTitle</Key>
-      <Value>Settings</Value>
+      <Value>設定</Value>
     </Record>
     <Record>
       <Key>SettingsMenuGameplay</Key>
-      <Value>Gameplay</Value>
+      <Value>遊戲設置</Value>
     </Record>
     <Record>
       <Key>SettingsMenuVideo</Key>
-      <Value>Video</Value>
+      <Value>影像</Value>
     </Record>
     <Record>
       <Key>SettingsMenuAudio</Key>
-      <Value>Audio</Value>
+      <Value>聲音</Value>
     </Record>
     <Record>
       <Key>SettingsMenuControls</Key>
-      <Value>Controls</Value>
+      <Value>控制</Value>
     </Record>
     <Record>
       <Key>SettingsMenuMisc</Key>
-      <Value>Misc</Value>
+      <Value>其它</Value>
     </Record>
     <Record>
       <Key>SettingsGameplayAutosave</Key>
-      <Value>Enable Autosave</Value>
+      <Value>啟用自動存檔</Value>
     </Record>
     <Record>
       <Key>SettingsAutosaveInterval</Key>
-      <Value>Interval Time (Seconds)</Value>
+      <Value>間隔時間 (秒數)</Value>
     </Record>
     <Record>
       <Key>SettingsHUDScale</Key>
-      <Value>HUD Scale</Value>
+      <Value>介面縮放</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayLatency</Key>
-      <Value>Display Latency</Value>
+      <Value>顯示延遲資訊</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayFPS</Key>
-      <Value>Display FPS</Value>
+      <Value>顯示楨數資訊</Value>
     </Record>
     <Record>
       <Key>ButtonResetDefaults</Key>
-      <Value>Defaults</Value>
+      <Value>預設</Value>
     </Record>
     <Record>
       <Key>SettingsTitleDisplayTools</Key>
@@ -2984,75 +2984,75 @@
     </Record>
     <Record>
       <Key>SettingsResolution</Key>
-      <Value>Resolution</Value>
+      <Value>解析度</Value>
     </Record>
     <Record>
       <Key>SettingsScreenMode</Key>
-      <Value>Screen Mode</Value>
+      <Value>螢幕模式</Value>
     </Record>
     <Record>
       <Key>SettingsVsync</Key>
-      <Value>V-Sync</Value>
+      <Value>垂直同步 V-Sync</Value>
     </Record>
     <Record>
       <Key>SettingsButtonApply</Key>
-      <Value>Apply</Value>
+      <Value>應用</Value>
     </Record>
     <Record>
       <Key>SettingsBrightness</Key>
-      <Value>Brightness</Value>
+      <Value>亮度</Value>
     </Record>
     <Record>
       <Key>SettingsFOV</Key>
-      <Value>Field Of View</Value>
+      <Value>視野寬度(FOV)</Value>
     </Record>
     <Record>
       <Key>SettingsOverallQuality</Key>
-      <Value>Overall Quality</Value>
+      <Value>畫質設定</Value>
     </Record>
     <Record>
       <Key>SettingsTextureQuality</Key>
-      <Value>Texture Quality</Value>
+      <Value>貼圖品質</Value>
     </Record>
     <Record>
       <Key>SettingsParticleQuality</Key>
-      <Value>Particle Quality</Value>
+      <Value>分子效果品質</Value>
     </Record>
     <Record>
       <Key>SettingsSoftParticles</Key>
-      <Value>Soft Particles</Value>
+      <Value>柔化品質</Value>
     </Record>
     <Record>
       <Key>SettingsVolumetricLighting</Key>
-      <Value>Volumetric Lighting</Value>
+      <Value>光線照明品質</Value>
     </Record>
     <Record>
       <Key>SettingsPixelLightCount</Key>
-      <Value>Pixel Light Count</Value>
+      <Value>光點數量</Value>
     </Record>
     <Record>
       <Key>SettingsShadows</Key>
-      <Value>Shadows</Value>
+      <Value>陰影</Value>
     </Record>
     <Record>
       <Key>SettingsShadowResolution</Key>
-      <Value>Shadow Resolution</Value>
+      <Value>陰影品質</Value>
     </Record>
     <Record>
       <Key>SettingsShadowDistamce</Key>
-      <Value>Shadow Distance</Value>
+      <Value>陰影繪製距離</Value>
     </Record>
     <Record>
       <Key>SettingsEnvElements</Key>
-      <Value>Environmental Elements</Value>
+      <Value>環境元素</Value>
     </Record>
     <Record>
       <Key>SettingsReflections</Key>
-      <Value>Reflections</Value>
+      <Value>環境反射</Value>
     </Record>
     <Record>
       <Key>SettingsMasterVolume</Key>
-      <Value>Master Volume</Value>
+      <Value>主音量</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMixer</Key>
@@ -3060,11 +3060,11 @@
     </Record>
     <Record>
       <Key>SettingsSound</Key>
-      <Value>Sound</Value>
+      <Value>音效</Value>
     </Record>
     <Record>
       <Key>SettingsVoiceNotifications</Key>
-      <Value>Voice Notifications</Value>
+      <Value>語音提醒</Value>
     </Record>
     <Record>
       <Key>SettingsTitleKeybinds</Key>
@@ -3076,43 +3076,43 @@
     </Record>
     <Record>
       <Key>SettingsLanguage</Key>
-      <Value>Language</Value>
+      <Value>語言</Value>
     </Record>
     <Record>
       <Key>SettingsVoiceControl</Key>
-      <Value>Voice Control</Value>
+      <Value>語音控制</Value>
     </Record>
     <Record>
       <Key>SettingsCameraSensitivity</Key>
-      <Value>Camera Sensitivity</Value>
+      <Value>滑鼠敏感度</Value>
     </Record>
     <Record>
       <Key>NotificationTitle</Key>
-      <Value>Save Successful</Value>
+      <Value>儲存成功</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
-      <Value>Close</Value>
+      <Value>關閉</Value>
     </Record>
     <Record>
       <Key>AlertButtonTitle</Key>
-      <Value>Attention</Value>
+      <Value>注意</Value>
     </Record>
     <Record>
       <Key>ServerSettingsButtonReset</Key>
-      <Value>Reset Settings</Value>
+      <Value>重置設定</Value>
     </Record>
     <Record>
       <Key>ButtonConfirm</Key>
-      <Value>Confirm</Value>
+      <Value>確認</Value>
     </Record>
     <Record>
       <Key>ButtonCancel</Key>
-      <Value>Cancel</Value>
+      <Value>取消</Value>
     </Record>
     <Record>
       <Key>InputTextRename</Key>
-      <Value>Rename</Value>
+      <Value>重新命名</Value>
     </Record>
     <Record>
       <Key>ButtonOk</Key>
@@ -3120,75 +3120,75 @@
     </Record>
     <Record>
       <Key>InputPassword</Key>
-      <Value>Password</Value>
+      <Value>密碼</Value>
     </Record>
     <Record>
       <Key>ButtonKick</Key>
-      <Value>Kick</Value>
+      <Value>踢除</Value>
     </Record>
     <Record>
       <Key>ButtonBan</Key>
-      <Value>Ban</Value>
+      <Value>封鎖</Value>
     </Record>
     <Record>
       <Key>ButtoConfirmExitAsServer</Key>
-      <Value>Are you sure you want to exit the game without saving? Any unsaved progress will be lost.</Value>
+      <Value>您確定要離開遊戲嗎? 這將會失去任何未儲存的進度</Value>
     </Record>
     <Record>
       <Key>DialogConfirmNoticeUnsaved</Key>
-      <Value>Are you sure you want to leave the session without saving? Any unsaved progress will be lost.</Value>
+      <Value>您確定要離開遊戲嗎? 這將會失去任何未儲存的進度</Value>
     </Record>
     <Record>
       <Key>ButtonExit</Key>
-      <Value>Exit</Value>
+      <Value>離開</Value>
     </Record>
     <Record>
       <Key>ButtonSave</Key>
-      <Value>Save</Value>
+      <Value>儲存</Value>
     </Record>
     <Record>
       <Key>DialogConfirmNoticeClientLeaving</Key>
-      <Value>Are you sure you want to leave the session?</Value>
+      <Value>您確定要離開目前的連線?</Value>
     </Record>
     <Record>
       <Key>SettingsPopupChat</Key>
-      <Value>Popup Chat</Value>
+      <Value>對話泡泡</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayPortrait</Key>
-      <Value>Display Portrait</Value>
+      <Value>顯示頭像</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaMoon</Key>
-      <Value>Moon</Value>
+      <Value>月球(Moon)</Value>
     </Record>
     <Record>
       <Key>SettingsAntialiasing</Key>
-      <Value>Antialiasing Method</Value>
+      <Value>反鋸齒模式</Value>
     </Record>
     <Record>
       <Key>SettingsMenuMultiplayer</Key>
-      <Value>Multiplayer</Value>
+      <Value>多人遊戲</Value>
     </Record>
     <Record>
       <Key>SettingsAdvertiseServer</Key>
-      <Value>Advertise Server</Value>
+      <Value>公開伺服器</Value>
     </Record>
     <Record>
       <Key>SettingsServerName</Key>
-      <Value>Server Name</Value>
+      <Value>伺服器名稱</Value>
     </Record>
     <Record>
       <Key>SettingsServerPassword</Key>
-      <Value>Password</Value>
+      <Value>密碼</Value>
     </Record>
     <Record>
       <Key>SettingsServerMaxPlayers</Key>
-      <Value>Max Players</Value>
+      <Value>最多人數</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayer</Key>
-      <Value>Multiplayer Settings</Value>
+      <Value>多人遊戲設定</Value>
     </Record>
     <Record>
       <Key>SettingsUpdatePort</Key>
@@ -3200,7 +3200,7 @@
     </Record>
     <Record>
       <Key>SettingsMusic</Key>
-      <Value>Music</Value>
+      <Value>音樂</Value>
     </Record>
     <Record>
       <Key>TutorialFirstTimePlaying</Key>
@@ -3237,11 +3237,11 @@
     </Record>
     <Record>
       <Key>SettingsMiscInvertMouse</Key>
-      <Value>Invert Mouse</Value>
+      <Value>反轉滑鼠</Value>
     </Record>
     <Record>
       <Key>SettingsInvertMouse</Key>
-      <Value>Invert Mouse</Value>
+      <Value>反轉滑鼠</Value>
     </Record>
     <Record>
       <Key>MothershipConstruction</Key>
@@ -3270,7 +3270,7 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>SettingsExtendedTooltips</Key>
-      <Value>Extended Tooltips</Value>
+      <Value>進階工具提示</Value>
     </Record>
     <Record>
       <Key>TooltipUpgrade2</Key>
@@ -3302,7 +3302,7 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>SettingsInvertMouseWheelInventory</Key>
-      <Value>Invert Inventory Scroll</Value>
+      <Value>反轉欄位滾輪方向</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayerAdvanced</Key>
@@ -3314,7 +3314,7 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
-      <Value>Tooltip Opacity</Value>
+      <Value>工具提示透明度</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverButton</Key>
@@ -3326,7 +3326,7 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>SettingsChatFadeTimer</Key>
-      <Value>Chat Fade Delay</Value>
+      <Value>聊天視窗自動隱藏</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsTitle</Key>
@@ -3342,51 +3342,51 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>PromptQuitTitle</Key>
-      <Value>Quit Stationeers</Value>
+      <Value>離開 Stationeers</Value>
     </Record>
     <Record>
       <Key>PromptQuitBody</Key>
-      <Value>Are you sure you want to quit?</Value>
+      <Value>您確定要關閉遊戲嗎?</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
-      <Value>Quit</Value>
+      <Value>關閉</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteTitle</Key>
-      <Value>Overwrite</Value>
+      <Value>覆蓋</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteBody</Key>
-      <Value>Are you sure you want to overwrite existing saved world?</Value>
+      <Value>您確定要覆蓋現有的存檔嗎?</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
-      <Value>Overwrite</Value>
+      <Value>覆蓋</Value>
     </Record>
     <Record>
       <Key>PromptPublishTitle</Key>
-      <Value>Publish to Workshop</Value>
+      <Value>發布至工作仿</Value>
     </Record>
     <Record>
       <Key>PromptPublishBody</Key>
-      <Value>Are you sure you want to publish this world to the workshop?</Value>
+      <Value>A您確定要發布這個世界至工作仿嗎?</Value>
     </Record>
     <Record>
       <Key>PromptPublishConfirm</Key>
-      <Value>Publish</Value>
+      <Value>發佈</Value>
     </Record>
     <Record>
       <Key>PromptDeleteTitle</Key>
-      <Value>Delete Save</Value>
+      <Value>刪除存檔</Value>
     </Record>
     <Record>
       <Key>PromptDeleteBody</Key>
-      <Value>Are you sure?</Value>
+      <Value>您確定刪除存檔?</Value>
     </Record>
     <Record>
       <Key>PromptDeleteConfirm</Key>
-      <Value>Delete</Value>
+      <Value>刪除</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadTitle</Key>
@@ -3414,43 +3414,43 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>AlertInvalidIP</Key>
-      <Value>Invalid IP Address {0} \nCheck IP address or URL is valid</Value>
+      <Value>無效的 IP 位置 {0} \n檢查 IP 位置或者 URL 是否有效</Value>
     </Record>
     <Record>
       <Key>AlertPlayerCountExceeded</Key>
-      <Value>Server is full.</Value>
+      <Value>伺服器已滿.</Value>
     </Record>
     <Record>
       <Key>AlertVersionMismatch</Key>
-      <Value>Game version mismatch with server.</Value>
+      <Value>遊戲版本與伺服器不相符.</Value>
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>
       <Value>    
-        There is no response from the Game Server. 
+        伺服器無回應 
         
-        Please try again.
+        請再次嘗試連線.
       </Value>
     </Record>
     <Record>
       <Key>AlertKicked</Key>
-      <Value>You have been kicked from the server.</Value>
+      <Value>您已經被伺服器踢除.</Value>
     </Record>
     <Record>
       <Key>AlertWrongPassword</Key>
-      <Value>Server Password Incorrect.</Value>
+      <Value>伺服器密碼不正確</Value>
     </Record>
     <Record>
       <Key>AlertInvalidPort</Key>
-      <Value>Port values must be between 0 and 65535.</Value>
+      <Value>Port 數值必須在 0 到 65535 之間.</Value>
     </Record>
     <Record>
       <Key>AlertCannotUpdatePort</Key>
-      <Value>Cannot modify Update Port while server is running.</Value>
+      <Value>當伺服器運行時無法修改 Update Port.</Value>
     </Record>
     <Record>
       <Key>AlertBlankSaveName</Key>
-      <Value>You must enter a world name to save.</Value>
+      <Value>您必須輸入世界名稱才能存檔.</Value>
     </Record>
     <Record>
       <Key>AlertTitleAttention</Key>
@@ -3458,7 +3458,7 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>AlertTitlePleaseWait</Key>
-      <Value>Please Wait...</Value>
+      <Value>請稍後...</Value>
     </Record>
     <Record>
       <Key>TooltipNeedMoreKit</Key>
@@ -3466,71 +3466,71 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>JoinMenuSearchPlaceholder</Key>
-      <Value>Search by Server Name</Value>
+      <Value>搜尋伺服器名稱</Value>
     </Record>
     <Record>
       <Key>JoinMenuAddressPlaceholder</Key>
-      <Value>Enter IP:Port here...</Value>
+      <Value>輸入 IP:Port ...</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailConnectButton</Key>
-      <Value>Join World</Value>
+      <Value>加入世界</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailInfoButton</Key>
-      <Value>View Info</Value>
+      <Value>瀏覽資訊</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailUnFavoriteButton</Key>
-      <Value>Remove Favorite</Value>
+      <Value>移除最愛</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailFavoriteButton</Key>
-      <Value>Favorite</Value>
+      <Value>加入最愛</Value>
     </Record>
     <Record>
       <Key>SaveMenuSaveWorldButton</Key>
-      <Value>Save World</Value>
+      <Value>儲存世界</Value>
     </Record>
     <Record>
       <Key>SaveMenuOverwriteButton</Key>
-      <Value>Overwrite</Value>
+      <Value>覆蓋</Value>
     </Record>
     <Record>
       <Key>SaveMenuNamePlaceholder</Key>
-      <Value>Enter Save Name...</Value>
+      <Value>輸入存檔名稱...</Value>
     </Record>
     <Record>
       <Key>NewWorldModeCreative</Key>
-      <Value>Creative</Value>
+      <Value>創造模式</Value>
     </Record>
     <Record>
       <Key>NewWorldModeSurvival</Key>
-      <Value>Survival</Value>
+      <Value>生存模式</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListMap</Key>
-      <Value>Map</Value>
+      <Value>地圖</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoIPAddress</Key>
-      <Value>IP Address:</Value>
+      <Value>IP 位置:</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoMap</Key>
-      <Value>Map:</Value>
+      <Value>地圖:</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoVersion</Key>
-      <Value>Version:</Value>
+      <Value>版本:</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoLatency</Key>
-      <Value>Latency:</Value>
+      <Value>延遲:</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoPlayers</Key>
-      <Value>Players:</Value>
+      <Value>玩家數:</Value>
     </Record>
   </Interface>
   <Colors>
