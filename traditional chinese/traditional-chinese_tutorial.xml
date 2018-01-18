@@ -6,7 +6,7 @@
   <Interface>
     <Record>
       <Key>TutorialTitleWearSpacesuit</Key>
-      <Value>穿上太空衣</Value>
+      <Value>穿上太空裝</Value>
     </Record>
     <Record>
       <Key>TutorialTaskWearHelmet</Key>
@@ -46,7 +46,7 @@
     </Record>
     <Record>
       <Key>TutorialTitlePowerSuit</Key>
-      <Value>啟動太空衣</Value>
+      <Value>啟動太空裝</Value>
     </Record>
     <Record>
       <Key>TutorialDescPowerSuit</Key>

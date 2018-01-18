@@ -2221,11 +2221,11 @@
     </Record>
     <Record>
       <Key>Suit</Key>
-      <Value>太空衣</Value>
+      <Value>太空裝</Value>
     </Record>
     <Record>
       <Key>Back</Key>
-      <Value>返回</Value>
+      <Value>背包</Value>
     </Record>
     <Record>
       <Key>Brain</Key>
@@ -2837,7 +2837,7 @@
     </Record>
     <Record>
       <Key>InventorySlotSuit</Key>
-      <Value>太空衣</Value>
+      <Value>太空裝</Value>
     </Record>
     <Record>
       <Key>InventorySlotHelmet</Key>
