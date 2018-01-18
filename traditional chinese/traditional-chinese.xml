@@ -583,7 +583,7 @@
     </Record>
     <Record>
       <Key>DynamicCratePipeSupplies</Key>
-      <Value>攜帶箱 (管道用品)</Value>
+      <Value>攜帶箱 (管線用品)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterAir</Key>
@@ -671,15 +671,15 @@
     </Record>
     <Record>
       <Key>ItemAreaPowerControl</Key>
-      <Value>電力控制器</Value>
+      <Value>區域電源控制器</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCell</Key>
-      <Value>隨身電池 (低容量)</Value>
+      <Value>隨身電池 (小型)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCellLarge</Key>
-      <Value>隨身電池 (高容量)</Value>
+      <Value>隨身電池 (大型)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCellNuclear</Key>
@@ -687,7 +687,7 @@
     </Record>
     <Record>
       <Key>ItemBatteryCharger</Key>
-      <Value>隨身電池充電器</Value>
+      <Value>隨身電池充電座</Value>
     </Record>
     <Record>
       <Key>ItemBook</Key>
@@ -747,7 +747,7 @@
     </Record>
     <Record>
       <Key>ItemDrill</Key>
-      <Value>手持式鑽頭</Value>
+      <Value>手持式電鑽</Value>
     </Record>
     <Record>
       <Key>ItemDuctTape</Key>
@@ -851,7 +851,7 @@
     </Record>
     <Record>
       <Key>ItemGasTankStorage</Key>
-      <Value>氣體裝罐器</Value>
+      <Value>氣體裝瓶器</Value>
     </Record>
     <Record>
       <Key>ItemGlassSheets</Key>
@@ -911,7 +911,7 @@
     </Record>
     <Record>
       <Key>ItemKitBattery</Key>
-      <Value>套件 電池站</Value>
+      <Value>套件 蓄電器</Value>
     </Record>
     <Record>
       <Key>ItemKitCentrifuge</Key>
@@ -1023,7 +1023,7 @@
     </Record>
     <Record>
       <Key>ItemMiningDrill</Key>
-      <Value>小鑽機</Value>
+      <Value>手持式採礦機</Value>
     </Record>
     <Record>
       <Key>ItemMuffin</Key>
@@ -1075,7 +1075,7 @@
     </Record>
     <Record>
       <Key>ItemPipeGasMixer</Key>
-      <Value>氣體調和器</Value>
+      <Value>管線氣體調和器</Value>
     </Record>
     <Record>
       <Key>ItemPipeLabel</Key>
@@ -1083,11 +1083,11 @@
     </Record>
     <Record>
       <Key>ItemPipeMeter</Key>
-      <Value>管道壓力計</Value>
+      <Value>管線壓力計</Value>
     </Record>
     <Record>
       <Key>ItemPipeRadiator</Key>
-      <Value>管道散熱器</Value>
+      <Value>管線散熱器</Value>
     </Record>
     <Record>
       <Key>ItemPipeStraight</Key>
@@ -1099,11 +1099,11 @@
     </Record>
     <Record>
       <Key>ItemPipeValve</Key>
-      <Value>管道閥門</Value>
+      <Value>管線閥門</Value>
     </Record>
     <Record>
       <Key>ItemPipeVolumePump</Key>
-      <Value>管道幫浦</Value>
+      <Value>管線幫浦</Value>
     </Record>
     <Record>
       <Key>ItemPowerConnector</Key>
@@ -1475,7 +1475,7 @@
     </Record>
     <Record>
       <Key>StructureDigitalValve</Key>
-      <Value>管道數位閥門</Value>
+      <Value>管線數位閥門</Value>
     </Record>
     <Record>
       <Key>StructureFabricator</Key>
@@ -1507,7 +1507,7 @@
     </Record>
     <Record>
       <Key>StructureGasMixer</Key>
-      <Value>氣體調和器</Value>
+      <Value>管線氣體調和器</Value>
     </Record>
     <Record>
       <Key>StructureGasSensor</Key>
@@ -1515,7 +1515,7 @@
     </Record>
     <Record>
       <Key>StructureGasTankStorage</Key>
-      <Value>氣體裝罐器</Value>
+      <Value>氣體裝瓶器</Value>
     </Record>
     <Record>
       <Key>StructureGlassDoor</Key>
@@ -1551,47 +1551,47 @@
     </Record>
     <Record>
       <Key>StructurePipeAnalysizer</Key>
-      <Value>管道分析儀</Value>
+      <Value>管線分析儀</Value>
     </Record>
     <Record>
       <Key>StructurePipeCorner</Key>
-      <Value>管道 (轉角)</Value>
+      <Value>管線 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction</Key>
-      <Value>管道 (十字)</Value>
+      <Value>管線 (十字)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction3</Key>
-      <Value>管道 (三向轉角)</Value>
+      <Value>管線 (三向轉角)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction5</Key>
-      <Value>管道 (五向)</Value>
+      <Value>管線 (五向)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction6</Key>
-      <Value>管道 (六向)</Value>
+      <Value>管線 (六向)</Value>
     </Record>
     <Record>
       <Key>StructurePipeLabel</Key>
-      <Value>管道標籤</Value>
+      <Value>管線標籤</Value>
     </Record>
     <Record>
       <Key>StructurePipeMeter</Key>
-      <Value>管道壓力計</Value>
+      <Value>管線壓力計</Value>
     </Record>
     <Record>
       <Key>StructurePipeRadiator</Key>
-      <Value>管道散熱器</Value>
+      <Value>管線散熱器</Value>
     </Record>
     <Record>
       <Key>StructurePipeStraight</Key>
-      <Value>管道 (直線)</Value>
+      <Value>管線 (直線)</Value>
     </Record>
     <Record>
       <Key>StructurePipeTJunction</Key>
-      <Value>管道 (T字)</Value>
+      <Value>管線 (T字)</Value>
     </Record>
     <Record>
       <Key>StructurePowerConnector</Key>
@@ -1679,11 +1679,11 @@
     </Record>
     <Record>
       <Key>StructureValve</Key>
-      <Value>管道閥門</Value>
+      <Value>管線閥門</Value>
     </Record>
     <Record>
       <Key>StructureVolumePump</Key>
-      <Value>管道幫浦</Value>
+      <Value>管線幫浦</Value>
     </Record>
     <Record>
       <Key>StructureWallCooler</Key>
@@ -1751,7 +1751,7 @@
     </Record>
     <Record>
       <Key>ItemCableFuse</Key>
-      <Value>工具包 (保險絲)</Value>
+      <Value>保險絲</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightH</Key>
@@ -3283,7 +3283,7 @@
     </Record>
     <Record>
       <Key>TooltipAllowsMounting</Key>
-      <Value>建造框鍵可以允許裝置安裝在上面,升級框架可以得到較好的安裝區域</Value>
+      <Value>建造框架可以允許裝置安裝在上面,升級框架可以得到較好的安裝區域</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapGrid</Key>
@@ -3295,7 +3295,7 @@
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>只允許安裝在 {THING:StructureFrameIron} 和 {THING:StructureFrame} 上. 升級過後的框架,可以得到較好的安裝區域.</Value>
+      <Value>只允許安裝在 {THING:StructureFrame} 上. 升級過後的框架,可以得到較好的安裝區域.</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
