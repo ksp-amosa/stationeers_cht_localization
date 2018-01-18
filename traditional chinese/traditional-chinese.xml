@@ -3275,15 +3275,15 @@
     </Record>
     <Record>
       <Key>TooltipUpgrade2</Key>
-      <Value>安裝後請使用 {0} 和 {1} 進行升級.</Value>
+      <Value>安裝後可以使用 {0} 和 {1} 進行升級.</Value>
     </Record>
     <Record>
       <Key>TooltipUpgrade</Key>
-      <Value>安裝後請使用 {0} 進行升級.</Value>
+      <Value>安裝後可以使用 {0} 進行升級.</Value>
     </Record>
     <Record>
       <Key>TooltipAllowsMounting</Key>
-      <Value>只允許安裝在牆上的設備,請升級已提供安裝位置.</Value>
+      <Value>建造框鍵可以允許裝置安裝在上面,升級框架可以得到較好的安裝區域</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapGrid</Key>
@@ -3295,7 +3295,7 @@
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>只允許安裝在 {THING:StructureFrameIron} 和 {THING:StructureFrame} 上. 升級過後將有更多的安裝位置.</Value>
+      <Value>只允許安裝在 {THING:StructureFrameIron} 和 {THING:StructureFrame} 上. 升級過後的框架,可以得到較好的安裝區域.</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
