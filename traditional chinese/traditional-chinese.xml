@@ -2248,7 +2248,7 @@
     </Record>
     <Record>
       <Key>GasCanister</Key>
-      <Value>氣體空壓瓶(GasCanister)</Value>
+      <Value>氣體空壓瓶</Value>
     </Record>
     <Record>
       <Key>GasFilter</Key>
@@ -2256,11 +2256,11 @@
     </Record>
     <Record>
       <Key>AirTank</Key>
-      <Value>空氣罐(AirTank)</Value>
+      <Value>空氣罐</Value>
     </Record>
     <Record>
       <Key>WasteTank</Key>
-      <Value>廢棄罐(WasteTank)</Value>
+      <Value>廢棄罐</Value>
     </Record>
     <Record>
       <Key>LifeSupport</Key>
@@ -2280,7 +2280,7 @@
     </Record>
     <Record>
       <Key>Propellent</Key>
-      <Value>噴射背包燃料(Propellent)</Value>
+      <Value>噴射背包燃料</Value>
     </Record>
     <Record>
       <Key>Cartridge</Key>
@@ -2320,15 +2320,15 @@
     </Record>
     <Record>
       <Key>Seat</Key>
-      <Value>座位(Seat)</Value>
+      <Value>座位</Value>
     </Record>
     <Record>
       <Key>TransportSlot</Key>
-      <Value>傳輸插槽(Transport Slot)</Value>
+      <Value>傳輸插槽</Value>
     </Record>
     <Record>
       <Key>Motherboard</Key>
-      <Value>主機板(Motherboard)</Value>
+      <Value>主機板</Value>
     </Record>
     <Record>
       <Key>Entity</Key>
@@ -2336,11 +2336,11 @@
     </Record>
     <Record>
       <Key>Occupant</Key>
-      <Value>佔領者(Occupant)</Value>
+      <Value>佔領者</Value>
     </Record>
     <Record>
       <Key>PortableSlot</Key>
-      <Value>平板電腦插槽(Portable Slot)</Value>
+      <Value>平板電腦插槽</Value>
     </Record>
     <Record>
       <Key>Bed</Key>
@@ -2362,11 +2362,11 @@
   <Interactables>
     <Record>
       <Key>Activate</Key>
-      <Value>啟用(Activate)</Value>
+      <Value>啟用</Value>
     </Record>
     <Record>
       <Key>Open</Key>
-      <Value>開啟(Open)</Value>
+      <Value>開啟</Value>
     </Record>
     <Record>
       <Key>OnOff</Key>
@@ -2378,7 +2378,7 @@
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>供電(Powered)</Value>
+      <Value>已供電</Value>
     </Record>
     <Record>
       <Key>Error</Key>
@@ -2410,7 +2410,7 @@
     </Record>
     <Record>
       <Key>Drag</Key>
-      <Value>拖曳(Drag)</Value>
+      <Value>拖曳</Value>
     </Record>
     <Record>
       <Key>Mode</Key>
@@ -2458,11 +2458,11 @@
     </Record>
     <Record>
       <Key>SplitOne</Key>
-      <Value>拆成一個(Split One)</Value>
+      <Value>拆成一個</Value>
     </Record>
     <Record>
       <Key>SplitHalf</Key>
-      <Value>拆成一半(Split Half)</Value>
+      <Value>拆成一半</Value>
     </Record>
     <Record>
       <Key>NextPage</Key>
@@ -2478,19 +2478,19 @@
     </Record>
     <Record>
       <Key>Export</Key>
-      <Value>出口Export</Value>
+      <Value>出口</Value>
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>入口Import</Value>
+      <Value>入口</Value>
     </Record>
     <Record>
       <Key>PressureUp</Key>
-      <Value>壓力上升(Pressure Up)</Value>
+      <Value>壓力上升</Value>
     </Record>
     <Record>
       <Key>PressureDown</Key>
-      <Value>壓力下降(Pressure Down)</Value>
+      <Value>壓力下降</Value>
     </Record>
     <Record>
       <Key />
@@ -2908,7 +2908,7 @@
     </Record>
     <Record>
       <Key>ButtonConfirmWarning</Key>
-      <Value>Warning</Value>
+      <Value>警告</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonExit</Key>
@@ -2968,19 +2968,19 @@
     </Record>
     <Record>
       <Key>SettingsTitleAutosave</Key>
-      <Value>AutoSave Settings</Value>
+      <Value>自動存檔設定</Value>
     </Record>
     <Record>
       <Key>SettingsTitleScreen</Key>
-      <Value>Window Settings</Value>
+      <Value>視窗設定</Value>
     </Record>
     <Record>
       <Key>SettingsTitleBasicScreen</Key>
-      <Value>Basic Settings</Value>
+      <Value>基本設定</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAdvScreen</Key>
-      <Value>Advanced Settings</Value>
+      <Value>進階設定</Value>
     </Record>
     <Record>
       <Key>SettingsResolution</Key>
@@ -3068,11 +3068,11 @@
     </Record>
     <Record>
       <Key>SettingsTitleKeybinds</Key>
-      <Value>Keybinds</Value>
+      <Value>按鍵設定</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMisc</Key>
-      <Value>Misc Settings</Value>
+      <Value>其他設定</Value>
     </Record>
     <Record>
       <Key>SettingsLanguage</Key>
@@ -3116,7 +3116,7 @@
     </Record>
     <Record>
       <Key>ButtonOk</Key>
-      <Value>OK</Value>
+      <Value>確認</Value>
     </Record>
     <Record>
       <Key>InputPassword</Key>
@@ -3160,7 +3160,7 @@
     </Record>
     <Record>
       <Key>NewWorldAreaMoon</Key>
-      <Value>月球(Moon)</Value>
+      <Value>月球</Value>
     </Record>
     <Record>
       <Key>SettingsAntialiasing</Key>
@@ -3192,11 +3192,11 @@
     </Record>
     <Record>
       <Key>SettingsUpdatePort</Key>
-      <Value>Update Port</Value>
+      <Value>更新連接埠</Value>
     </Record>
     <Record>
       <Key>SettingsGamePort</Key>
-      <Value>Game Port</Value>
+      <Value>遊戲連接埠</Value>
     </Record>
     <Record>
       <Key>SettingsMusic</Key>
@@ -3306,7 +3306,7 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayerAdvanced</Key>
-      <Value>Advanced Settings</Value>
+      <Value>進階設定</Value>
     </Record>
     <Record>
       <Key>SettingsUPNPNote</Key>
@@ -3330,15 +3330,15 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsTitle</Key>
-      <Value>Reset Settings</Value>
+      <Value>重設設定</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsBody</Key>
-      <Value>Are you sure?</Value>
+      <Value>你確定嗎?</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsConfirm</Key>
-      <Value>Reset</Value>
+      <Value>重製</Value>
     </Record>
     <Record>
       <Key>PromptQuitTitle</Key>
@@ -3370,7 +3370,7 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>PromptPublishBody</Key>
-      <Value>A您確定要發布這個世界至工作仿嗎?</Value>
+      <Value>您確定要發布這個世界至工作仿嗎?</Value>
     </Record>
     <Record>
       <Key>PromptPublishConfirm</Key>
@@ -3402,15 +3402,15 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>PromptRespawnTitle</Key>
-      <Value>Respawn</Value>
+      <Value>重生</Value>
     </Record>
     <Record>
       <Key>PromptRespawnBody</Key>
-      <Value>You are dead.</Value>
+      <Value>你死了</Value>
     </Record>
     <Record>
       <Key>PromptRespawnConfirm</Key>
-      <Value>Respawn</Value>
+      <Value>重生</Value>
     </Record>
     <Record>
       <Key>AlertInvalidIP</Key>
@@ -3454,7 +3454,7 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>AlertTitleAttention</Key>
-      <Value>Attention</Value>
+      <Value>注意</Value>
     </Record>
     <Record>
       <Key>AlertTitlePleaseWait</Key>
