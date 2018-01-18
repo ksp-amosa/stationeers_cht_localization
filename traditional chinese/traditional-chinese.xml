@@ -723,7 +723,7 @@
     </Record>
     <Record>
       <Key>ItemCompositeFloorGrating</Key>
-      <Value>複合隔板</Value>
+      <Value>栅板</Value>
     </Record>
     <Record>
       <Key>ItemCopperIngot</Key>
@@ -1003,7 +1003,7 @@
     </Record>
     <Record>
       <Key>ItemKitWall</Key>
-      <Value>套件 牆壁</Value>
+      <Value>套件 複合牆</Value>
     </Record>
     <Record>
       <Key>ItemLabeller</Key>
@@ -1115,7 +1115,7 @@
     </Record>
     <Record>
       <Key>ItemRoadFlare</Key>
-      <Value>信號彈</Value>
+      <Value>發焰桶</Value>
     </Record>
     <Record>
       <Key>ItemRTG</Key>
@@ -1395,7 +1395,7 @@
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating</Key>
-      <Value>複合隔板</Value>
+      <Value>栅板</Value>
     </Record>
     <Record>
       <Key>StructureCompositeWall</Key>
@@ -1963,7 +1963,7 @@
     </Record>
     <Record>
       <Key>ItemKitWallIron</Key>
-      <Value>套件 鐵牆</Value>
+      <Value>鐵牆</Value>
     </Record>
     <Record>
       <Key>StructureStorageLocker</Key>
