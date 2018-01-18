@@ -2196,18 +2196,6 @@
       <Key>StructureConsoleLED1x3</Key>
       <Value>LED Display (Large)</Value>
     </Record>
-    <Record>
-      <Key>NpcChick</Key>
-      <Value>Chick</Value>
-    </Record>
-    <Record>
-      <Key>NpcChicken</Key>
-      <Value>Chicken</Value>
-    </Record>
-    <Record>
-      <Key>DynamicSkeleton</Key>
-      <Value>Skeleton</Value>
-    </Record>
   </Things>
   <Slots>
     <Record>
