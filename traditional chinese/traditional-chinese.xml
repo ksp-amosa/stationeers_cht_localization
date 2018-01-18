@@ -286,239 +286,239 @@
   <Things>
     <Record>
       <Key>ApplianceMicrowave</Key>
-      <Value>微波爐(Microwave)</Value>
+      <Value>微波爐</Value>
     </Record>
     <Record>
       <Key>ApplianceReagentProcessor</Key>
-      <Value>試劑處理器(ReagentProcessor)</Value>
+      <Value>試劑處理器</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleArmL</Key>
-      <Value>女性太空人左手</Value>
+      <Value>女太空人左手</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleArmR</Key>
-      <Value>女性太空人右手</Value>
+      <Value>女太空人右手</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleHead</Key>
-      <Value>女性太空人頭部</Value>
+      <Value>女太空人頭部</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleLegL</Key>
-      <Value>女性太空人左腿</Value>
+      <Value>女太空人左腿</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleLegR</Key>
-      <Value>女性太空人右腿</Value>
+      <Value>女太空人右腿</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleTorso</Key>
-      <Value>女性太空人身體</Value>
+      <Value>女太空人身體</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleArmL</Key>
-      <Value>男性太空人左手</Value>
+      <Value>男太空人左手</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleArmR</Key>
-      <Value>男性太空人右手</Value>
+      <Value>男太空人右手</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleHead</Key>
-      <Value>男性太空人頭部</Value>
+      <Value>男太空人頭部</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleLegL</Key>
-      <Value>男性太空人左腿</Value>
+      <Value>男太空人左腿</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleLegR</Key>
-      <Value>男性太空人右腿</Value>
+      <Value>男太空人右腿</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautTorso</Key>
-      <Value>男性太空人身體</Value>
+      <Value>男太空人身體</Value>
     </Record>
     <Record>
       <Key>BodyPartChickBody</Key>
-      <Value>Body Part Chick Body</Value>
+      <Value>小雞身體</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownBody</Key>
-      <Value>Body Part Chicken Brown Body</Value>
+      <Value>褐雞身體</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownHead</Key>
-      <Value>Body Part Chicken Brown Head</Value>
+      <Value>褐雞頭部</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownLegL</Key>
-      <Value>Body Part Chicken Brown Leg L</Value>
+      <Value>褐雞左腿</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownLegR</Key>
-      <Value>Body Part Chicken Brown Leg R</Value>
+      <Value>褐雞右腿</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownTail</Key>
-      <Value>Body Part Chicken Brown Tail</Value>
+      <Value>褐雞尾巴</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownWingL</Key>
-      <Value>Body Part Chicken Brown Wing L</Value>
+      <Value>褐雞左翅</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownWingR</Key>
-      <Value>Body Part Chicken Brown Wing R</Value>
+      <Value>褐雞右翅</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteBody</Key>
-      <Value>Body Part Chicken White Body</Value>
+      <Value>白雞身體</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteHead</Key>
-      <Value>Body Part Chicken White Head</Value>
+      <Value>白雞頭部</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteLegL</Key>
-      <Value>Body Part Chicken White Leg L</Value>
+      <Value>白雞左腿</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteLegR</Key>
-      <Value>Body Part Chicken White Leg R</Value>
+      <Value>白雞右腿</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteTail</Key>
-      <Value>Body Part Chicken White Tail</Value>
+      <Value>白雞尾巴</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteWingL</Key>
-      <Value>Body Part Chicken White Wing L</Value>
+      <Value>白雞左翅</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteWingR</Key>
-      <Value>Body Part Chicken White Wing R</Value>
+      <Value>白雞右翅</Value>
     </Record>
     <Record>
       <Key>BodyPartChickHead</Key>
-      <Value>Body Part Chick Head</Value>
+      <Value>小雞頭部</Value>
     </Record>
     <Record>
       <Key>BodyPartChickLegL</Key>
-      <Value>Body Part Chick Leg L</Value>
+      <Value>小雞左腿</Value>
     </Record>
     <Record>
       <Key>BodyPartChickLegR</Key>
-      <Value>Body Part Chick Leg R</Value>
+      <Value>小雞右腿</Value>
     </Record>
     <Record>
       <Key>BodyPartChickTail</Key>
-      <Value>Body Part Chick Tail</Value>
+      <Value>小雞尾巴</Value>
     </Record>
     <Record>
       <Key>BodyPartChickWingL</Key>
-      <Value>Body Part Chick Wing L</Value>
+      <Value>小雞左翅</Value>
     </Record>
     <Record>
       <Key>BodyPartChickWingR</Key>
-      <Value>Body Part Chick Wing R</Value>
+      <Value>小雞右翅</Value>
     </Record>
     <Record>
       <Key>BodyPartGraylienArmL </Key>
-      <Value>Body Part Graylien Arm L </Value>
+      <Value>Graylien左臂</Value>
     </Record>
     <Record>
       <Key>BodyPartGraylienArmR </Key>
-      <Value>Body Part Graylien Arm R </Value>
+      <Value>Graylien右臂</Value>
     </Record>
     <Record>
       <Key>BodyPartGraylienBody </Key>
-      <Value>Body Part Graylien Body </Value>
+      <Value>Graylien身體</Value>
     </Record>
     <Record>
       <Key>BodyPartGraylienHead </Key>
-      <Value>Body Part Graylien Head </Value>
+      <Value>Graylien頭部 </Value>
     </Record>
     <Record>
       <Key>BodyPartGraylienLegL </Key>
-      <Value>Body Part Graylien Leg L </Value>
+      <Value>Graylien左腳</Value>
     </Record>
     <Record>
       <Key>BodyPartGraylienLegR </Key>
-      <Value>Body Part Graylien Leg R </Value>
+      <Value>Graylien左腿</Value>
     </Record>
     <Record>
       <Key>BodyPartGraylienPelvis </Key>
-      <Value>Body Part Graylien Pelvis </Value>
+      <Value>Graylien骨盆/Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackBody</Key>
-      <Value>Body Part Rooster Black Body</Value>
+      <Value>公黑雞身體</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackHead</Key>
-      <Value>Body Part Rooster Black Head</Value>
+      <Value>公黑雞頭部</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackLegL</Key>
-      <Value>Body Part Rooster Black Leg L</Value>
+      <Value>公黑雞左腿</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackLegR</Key>
-      <Value>Body Part Rooster Black Leg R</Value>
+      <Value>公黑雞右腿</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackTail</Key>
-      <Value>Body Part Rooster Black Tail</Value>
+      <Value>公黑雞尾巴</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackWingL</Key>
-      <Value>Body Part Rooster Black Wing L</Value>
+      <Value>公黑雞左翅</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackWingR</Key>
-      <Value>Body Part Rooster Black Wing R</Value>
+      <Value>公黑雞右翅</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownBody</Key>
-      <Value>Body Part Rooster Brown Body</Value>
+      <Value>公褐雞身體</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownHead</Key>
-      <Value>Body Part Rooster Brown Head</Value>
+      <Value>公褐雞頭部</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownLegL</Key>
-      <Value>Body Part Rooster Brown Leg L</Value>
+      <Value>公褐雞左腿</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownLegR</Key>
-      <Value>Body Part Rooster Brown Leg R</Value>
+      <Value>公褐雞右腿</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownTail</Key>
-      <Value>Body Part Rooster Brown Tail</Value>
+      <Value>公褐雞尾巴</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownWingL</Key>
-      <Value>Body Part Rooster Brown Wing L</Value>
+      <Value>公褐雞左翅/Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownWingR</Key>
-      <Value>Body Part Rooster Brown Wing R</Value>
+      <Value>公褐雞右翅</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyser</Key>
-      <Value>晶片(原子分析)</Value>
+      <Value>晶片 (氣體分析)</Value>
     </Record>
     <Record>
       <Key>CartridgeMedicalAnalyser</Key>
-      <Value>晶片(身體分析)</Value>
+      <Value>晶片 (醫療分析)</Value>
     </Record>
     <Record>
       <Key>CartridgeNetworkAnalyser</Key>
-      <Value>晶片(電路分析)</Value>
+      <Value>晶片 (網絡分析)</Value>
     </Record>
     <Record>
       <Key>Character</Key>
@@ -526,95 +526,95 @@
     </Record>
     <Record>
       <Key>CircuitboardAirControl</Key>
-      <Value>電路板(空氣控制)</Value>
+      <Value>電路板 (空氣控制)</Value>
     </Record>
     <Record>
       <Key>CircuitboardAirlockControl</Key>
-      <Value>電路板(氣閘門控制)</Value>
+      <Value>電路板 (氣閘門控制)</Value>
     </Record>
     <Record>
       <Key>CircuitboardCameraDisplay</Key>
-      <Value>Circuitboard (Camera Display)</Value>
+      <Value>電路板 (相機顯示)</Value>
     </Record>
     <Record>
       <Key>CircuitboardDoorControl</Key>
-      <Value>電路板(門禁控制)</Value>
+      <Value>電路板 (門禁控制)</Value>
     </Record>
     <Record>
       <Key>CircuitboardGasDisplay</Key>
-      <Value>電路板(氣體顯示)</Value>
+      <Value>電路板 (氣體顯示)</Value>
     </Record>
     <Record>
       <Key>CircuitboardModeControl</Key>
-      <Value>電路板(模式控制)</Value>
+      <Value>電路板 (模組控制)</Value>
     </Record>
     <Record>
       <Key>CircuitboardPowerControl</Key>
-      <Value>電路板(電力控制)</Value>
+      <Value>電路板 (電力控制)</Value>
     </Record>
     <Record>
       <Key>CircuitboardShipDisplay</Key>
-      <Value>Circuitboard (Ship Display)</Value>
+      <Value>電路板 (船隻顯示)</Value>
     </Record>
     <Record>
       <Key>CircuitboardSolarControl</Key>
-      <Value>電路板(太陽能控制)</Value>
+      <Value>電路板 (太陽能控制)</Value>
     </Record>
     <Record>
       <Key>DynamicAirConditioner</Key>
-      <Value>便攜式空調</Value>
+      <Value>攜帶式空調</Value>
     </Record>
     <Record>
       <Key>DynamicCrate</Key>
-      <Value>DynamicCrate</Value>
+      <Value>攜帶箱</Value>
     </Record>
     <Record>
       <Key>DynamicCrateBuildingSupplies</Key>
-      <Value>儲物箱(建築用品)</Value>
+      <Value>攜帶箱 (建築用品)</Value>
     </Record>
     <Record>
       <Key>DynamicCrateCableSupplies</Key>
-      <Value>儲物箱(佈線用品)</Value>
+      <Value>攜帶箱 (電纜用品)</Value>
     </Record>
     <Record>
       <Key>DynamicCrateConveyorSupplies</Key>
-      <Value>儲物箱(Conveyor Supplies)</Value>
+      <Value>攜帶箱 (輸送帶用品)</Value>
     </Record>
     <Record>
       <Key>DynamicCratePipeSupplies</Key>
-      <Value>儲物箱(管道用品)</Value>
+      <Value>攜帶箱 (管道用品)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterAir</Key>
-      <Value>便攜式壓力罐(空氣)</Value>
+      <Value>攜帶式壓力罐 (空氣)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
-      <Value>便攜式壓力罐(二氧化碳)</Value>
+      <Value>攜帶式壓力罐 (二氧化碳)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterEmpty</Key>
-      <Value>便攜式壓力罐(Portable Tank)</Value>
+      <Value>攜帶式壓力罐</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterFuel</Key>
-      <Value>便攜式壓力罐(燃料 fuel)</Value>
+      <Value>攜帶式壓力罐(燃料)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterNitrogen</Key>
-      <Value>便攜式壓力罐 (氮氣Nitrogen)</Value>
+      <Value>攜帶式壓力罐 (氮氣)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterOxygen</Key>
-      <Value>便攜式壓力罐 (氧氣 Oxygen)</Value>
+      <Value>攜帶式壓力罐 (氧氣)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>便攜式壓力罐 (氧化物 Volatiles)</Value>
+      <Value>攜帶式壓力罐 (氧化物)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterWater</Key>
-      <Value>便攜式壓力罐(水 Water)</Value>
+      <Value>攜帶式壓力罐 (水)</Value>
     </Record>
     <Record>
       <Key>DynamicGenerator</Key>
@@ -626,43 +626,43 @@
     </Record>
     <Record>
       <Key>DynamicScrubber</Key>
-      <Value>攜帶式空氣清淨機(air Scrubber)</Value>
+      <Value>攜帶式空氣清淨機</Value>
     </Record>
     <Record>
       <Key>EffectSplatEgg</Key>
-      <Value>Effect Splat Egg</Value>
+      <Value>使蛋撞上</Value>
     </Record>
     <Record>
       <Key>EntityAlien</Key>
-      <Value>Entity Alien</Value>
+      <Value>外星人實體</Value>
     </Record>
     <Record>
       <Key>EntityChick</Key>
-      <Value>Entity Chick</Value>
+      <Value>小雞實體</Value>
     </Record>
     <Record>
       <Key>EntityChickenBrown</Key>
-      <Value>Entity Chicken Brown</Value>
+      <Value>褐雞實體</Value>
     </Record>
     <Record>
       <Key>EntityChickenWhite</Key>
-      <Value>Entity Chicken White</Value>
+      <Value>白雞實體</Value>
     </Record>
     <Record>
       <Key>EntityGraylien</Key>
-      <Value>Entity Graylien</Value>
+      <Value>Graylien實體</Value>
     </Record>
     <Record>
       <Key>EntityRoosterBlack</Key>
-      <Value>Entity Rooster Black</Value>
+      <Value>公黑雞實體</Value>
     </Record>
     <Record>
       <Key>EntityRoosterBrown</Key>
-      <Value>Entity Rooster Brown</Value>
+      <Value>公褐雞實體</Value>
     </Record>
     <Record>
       <Key>GasTankAir</Key>
-      <Value>Gas Tank (Air)</Value>
+      <Value>儲氣罐 (空氣)</Value>
     </Record>
     <Record>
       <Key>ItemActiveVent</Key>
@@ -690,7 +690,7 @@
     </Record>
     <Record>
       <Key>ItemBook</Key>
-      <Value>Book</Value>
+      <Value>書</Value>
     </Record>
     <Record>
       <Key>ItemCableCoil</Key>
@@ -698,23 +698,23 @@
     </Record>
     <Record>
       <Key>ItemChemLightBlue</Key>
-      <Value>化學燈(藍)</Value>
+      <Value>化學燈 (藍)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightGreen</Key>
-      <Value>化學燈(綠)</Value>
+      <Value>化學燈 (綠)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightRed</Key>
-      <Value>化學燈(紅)</Value>
+      <Value>化學燈 (紅)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightWhite</Key>
-      <Value>化學燈(白)</Value>
+      <Value>化學燈 (白)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightYellow</Key>
-      <Value>化學燈(黃)</Value>
+      <Value>化學燈 (黃)</Value>
     </Record>
     <Record>
       <Key>ItemCoalOre</Key>
@@ -722,31 +722,31 @@
     </Record>
     <Record>
       <Key>ItemCompositeFloorGrating</Key>
-      <Value>地板格柵</Value>
+      <Value>地板格板</Value>
     </Record>
     <Record>
       <Key>ItemCopperIngot</Key>
-      <Value>銅碇(Copper Ingot)</Value>
+      <Value>銅碇 (Copper)</Value>
     </Record>
     <Record>
       <Key>ItemCopperOre</Key>
-      <Value>銅礦(Copper ore)</Value>
+      <Value>銅礦 (Copper)</Value>
     </Record>
     <Record>
       <Key>ItemCorn</Key>
-      <Value>Corn</Value>
+      <Value>穀物</Value>
     </Record>
     <Record>
       <Key>ItemCrowbar</Key>
-      <Value>鐵鍬</Value>
+      <Value>撬棒</Value>
     </Record>
     <Record>
       <Key>ItemDataDisk</Key>
-      <Value>Data Disk</Value>
+      <Value>磁碟片</Value>
     </Record>
     <Record>
       <Key>ItemDrill</Key>
-      <Value>手持鑽頭</Value>
+      <Value>手持式鑽頭</Value>
     </Record>
     <Record>
       <Key>ItemDuctTape</Key>
@@ -758,19 +758,19 @@
     </Record>
     <Record>
       <Key>ItemEgg</Key>
-      <Value>Egg</Value>
+      <Value>蛋</Value>
     </Record>
     <Record>
       <Key>ItemEggBottom</Key>
-      <Value>Egg Bottom</Value>
+      <Value>蛋底部</Value>
     </Record>
     <Record>
       <Key>ItemEggCarton</Key>
-      <Value>Egg Carton</Value>
+      <Value>蛋盒</Value>
     </Record>
     <Record>
       <Key>ItemEggTop</Key>
-      <Value>Egg Top</Value>
+      <Value>蛋頂部</Value>
     </Record>
     <Record>
       <Key>ItemEvaSuit</Key>
@@ -778,7 +778,7 @@
     </Record>
     <Record>
       <Key>ItemFertilizedEgg</Key>
-      <Value>Fertilized Egg</Value>
+      <Value>受精卵</Value>
     </Record>
     <Record>
       <Key>ItemFireExtinguisher</Key>
@@ -786,11 +786,11 @@
     </Record>
     <Record>
       <Key>ItemFlashingLight</Key>
-      <Value>閃爍燈</Value>
+      <Value>閃光燈</Value>
     </Record>
     <Record>
       <Key>ItemFlour</Key>
-      <Value>Flour</Value>
+      <Value>麵粉</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterCarbonDioxide</Key>
@@ -798,23 +798,23 @@
     </Record>
     <Record>
       <Key>ItemGasCanisterPollutants</Key>
-      <Value>氣瓶  (廢氣 Pollutants)</Value>
+      <Value>氣瓶 (廢氣 Pollutants)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterEmpty</Key>
-      <Value>氣瓶(空)</Value>
+      <Value>氣瓶</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterFuel</Key>
-      <Value>氣瓶(燃料 Fuel)</Value>
+      <Value>氣瓶 (燃料 Fuel)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>氣瓶(氧化物 Volatiles)</Value>
+      <Value>氣瓶 (揮發物 Volatiles)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterNitrogen</Key>
-      <Value>氣瓶(氮氣 Nitrogen)</Value>
+      <Value>氣瓶 (氮氣 Nitrogen)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterOxygen</Key>
@@ -842,7 +842,7 @@
     </Record>
     <Record>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>濾心 (氧化物 Volatiles)</Value>
+      <Value>濾心 (揮發物 Volatiles)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterWater</Key>
@@ -850,19 +850,19 @@
     </Record>
     <Record>
       <Key>ItemGasTankStorage</Key>
-      <Value> 固定式壓力罐 Gas Tank Storage</Value>
+      <Value>固定式壓力罐</Value>
     </Record>
     <Record>
       <Key>ItemGlassSheets</Key>
-      <Value>Glass Sheets</Value>
+      <Value>玻璃板</Value>
     </Record>
     <Record>
       <Key>ItemGoldIngot</Key>
-      <Value>金碇(Gold Ingot)</Value>
+      <Value>金碇 (Gold)</Value>
     </Record>
     <Record>
       <Key>ItemGoldOre</Key>
-      <Value>金礦(Gold ore)</Value>
+      <Value>金礦 (Gold)</Value>
     </Record>
     <Record>
       <Key>ItemGrenade</Key>
@@ -2728,7 +2728,7 @@
     </Record>
     <Record>
       <Key>LoadMenuFileListTitle</Key>
-      <Value>目前的存檔</Value>
+      <Value>儲存世界</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextDate</Key>
@@ -2892,7 +2892,7 @@
     </Record>
     <Record>
       <Key>SaveMenuListTitle</Key>
-      <Value>目前的存檔</Value>
+      <Value>儲存世界</Value>
     </Record>
     <Record>
       <Key>ButtonBack</Key>
@@ -3298,7 +3298,7 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
-      <Value>清除離線玩家</Value>
+      <Value>Clear Disconnected Players</Value>
     </Record>
     <Record>
       <Key>SettingsInvertMouseWheelInventory</Key>
@@ -3310,7 +3310,7 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>SettingsUPNPNote</Key>
-      <Value>如果您的路由器支援並已啟動 Universal Plug and Play (UPNP) 的話,當啟動遊戲的時候將會自動開啟這些ports.</Value>
+      <Value>If Universal Plug and Play (UPNP) is enabled on your router, these ports will be automatically forwarded when you host a game.</Value>
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
@@ -3346,11 +3346,11 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>PromptQuitBody</Key>
-      <Value>您確定要離開遊戲嗎?</Value>
+      <Value>您確定要關閉遊戲嗎?</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
-      <Value>離開</Value>
+      <Value>關閉</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteTitle</Key>
