@@ -4,8 +4,8 @@
 Current Version: v0.1.1114.5618:<br />
 Progress:<br />
 
-> * traditional-chinese.xml 85%
-> * traditional-chinese_key.xml 0%
+> * traditional-chinese.xml 100%
+> * traditional-chinese_key.xml 0% (no need to translated)
 > * traditional-chinese_tip.xml 100%
 > * traditional-chinese_tutorial.xml 100%
 
