@@ -1099,11 +1099,11 @@
     </Record>
     <Record>
       <Key>ItemPipeValve</Key>
-      <Value>閥門</Value>
+      <Value>管道閥門</Value>
     </Record>
     <Record>
       <Key>ItemPipeVolumePump</Key>
-      <Value>幫浦</Value>
+      <Value>管道幫浦</Value>
     </Record>
     <Record>
       <Key>ItemPowerConnector</Key>
@@ -1475,7 +1475,7 @@
     </Record>
     <Record>
       <Key>StructureDigitalValve</Key>
-      <Value>數位閥門</Value>
+      <Value>管道數位閥門</Value>
     </Record>
     <Record>
       <Key>StructureFabricator</Key>
@@ -1679,11 +1679,11 @@
     </Record>
     <Record>
       <Key>StructureValve</Key>
-      <Value>閥門</Value>
+      <Value>管道閥門</Value>
     </Record>
     <Record>
       <Key>StructureVolumePump</Key>
-      <Value>幫浦</Value>
+      <Value>管道幫浦</Value>
     </Record>
     <Record>
       <Key>StructureWallCooler</Key>
