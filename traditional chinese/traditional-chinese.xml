@@ -180,7 +180,7 @@
     </Record>
     <Record>
       <Key>Take</Key>
-      <Value>拿(Take)</Value>
+      <Value>拾取(Take)</Value>
     </Record>
     <Record>
       <Key>Build</Key>
@@ -674,19 +674,19 @@
     </Record>
     <Record>
       <Key>ItemBatteryCell</Key>
-      <Value>電池(小)</Value>
+      <Value>隨身電池 (小型)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCellLarge</Key>
-      <Value>電池(大)</Value>
+      <Value>隨身電池 (大型)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCellNuclear</Key>
-      <Value>電池(核能)</Value>
+      <Value>隨身電池 (核能)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCharger</Key>
-      <Value>電池充電器</Value>
+      <Value>隨身電池充電器</Value>
     </Record>
     <Record>
       <Key>ItemBook</Key>
@@ -826,27 +826,27 @@
     </Record>
     <Record>
       <Key>ItemGasFilterCarbonDioxide</Key>
-      <Value>過濾器 二氧化碳 (Filter CO2)</Value>
+      <Value>濾心 (二氧化碳 CO2)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterPollutants</Key>
-      <Value>過濾器 廢氣(Pollutant)</Value>
+      <Value>濾心 (廢氣 Pollutant)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterNitrogen</Key>
-      <Value>過濾器 氮氣(Nitrogen)</Value>
+      <Value>濾心 (氮氣 Nitrogen)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterOxygen</Key>
-      <Value>過濾器 氧氣(Oxygen)</Value>
+      <Value>濾心 (氧氣 Oxygen)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>過濾器 氧化物(Volatiles)</Value>
+      <Value>濾心 (氧化物 Volatiles)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterWater</Key>
-      <Value>過濾器 水(Water)</Value>
+      <Value>濾心 (水 Water)</Value>
     </Record>
     <Record>
       <Key>ItemGasTankStorage</Key>
@@ -1050,23 +1050,23 @@
     </Record>
     <Record>
       <Key>ItemPipeCorner</Key>
-      <Value>管線(轉角)</Value>
+      <Value>管線 (轉角)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction</Key>
-      <Value>管線(十字)</Value>
+      <Value>管線 (十字)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction3</Key>
-      <Value>管線(三向)</Value>
+      <Value>管線 (三向)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction5</Key>
-      <Value>管線(五向)</Value>
+      <Value>管線 (五向)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction6</Key>
-      <Value>管線(六向)</Value>
+      <Value>管線 (六向)</Value>
     </Record>
     <Record>
       <Key>ItemPipeDigitalValve</Key>
@@ -1090,11 +1090,11 @@
     </Record>
     <Record>
       <Key>ItemPipeStraight</Key>
-      <Value>管線(直線)</Value>
+      <Value>管線 (直線)</Value>
     </Record>
     <Record>
       <Key>ItemPipeTJunction</Key>
-      <Value>管線(T型)</Value>
+      <Value>管線 (T型)</Value>
     </Record>
     <Record>
       <Key>ItemPipeValve</Key>
@@ -1210,7 +1210,7 @@
     </Record>
     <Record>
       <Key>ItemTablet</Key>
-      <Value>平板(Tablet)</Value>
+      <Value>平板電腦 (Tablet)</Value>
     </Record>
     <Record>
       <Key>ItemTankConnector</Key>
@@ -1330,27 +1330,27 @@
     </Record>
     <Record>
       <Key>StructureCableCorner</Key>
-      <Value>電線(轉角)</Value>
+      <Value>電線 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner3</Key>
-      <Value>電線(三向轉角)(3-Way Corner)</Value>
+      <Value>電線 (三向轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction</Key>
-      <Value>電線(交叉)</Value>
+      <Value>電線 (T型)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4</Key>
-      <Value>電線(四向)</Value>
+      <Value>電線 (十字)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6</Key>
-      <Value>電線(六向)</Value>
+      <Value>電線 (六向)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraight</Key>
-      <Value>電線(直線)</Value>
+      <Value>電線 (直線)</Value>
     </Record>
     <Record>
       <Key>StructureCamera</Key>
@@ -2832,7 +2832,7 @@
     </Record>
     <Record>
       <Key>InventorySlotBackpack</Key>
-      <Value>返回(Back)</Value>
+      <Value>背包(Back)</Value>
     </Record>
     <Record>
       <Key>InventorySlotSuit</Key>
@@ -3204,36 +3204,36 @@
     </Record>
     <Record>
       <Key>TutorialFirstTimePlaying</Key>
-      <Value>First time Playing?</Value>
+      <Value>第一次遊玩嗎?</Value>
     </Record>
     <Record>
       <Key>TutorialGetStarted</Key>
-      <Value>Get started with the tutorial</Value>
+      <Value>跟著基礎教學開始吧</Value>
     </Record>
     <Record>
       <Key>TutorialSkipButton</Key>
-      <Value>Skip</Value>
+      <Value>跳過教學</Value>
     </Record>
     <Record>
       <Key>TutorialStartButton</Key>
-      <Value>Begin</Value>
+      <Value>開始教學</Value>
     </Record>
     <Record>
       <Key>TutorialComplete</Key>
-      <Value>Tutorial Complete</Value>
+      <Value>教學完成</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteHeading</Key>
-      <Value>Tutorial Complete</Value>
+      <Value>教學完成</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
-      <Value>There's still much to learn. 
-So get out there, Stationeer!</Value>
+      <Value>還有很多東西得學呢!
+        所以趕快離開這裡吧</Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
-      <Value>Back To Menu</Value>
+      <Value>回到選單</Value>
     </Record>
     <Record>
       <Key>SettingsMiscInvertMouse</Key>
