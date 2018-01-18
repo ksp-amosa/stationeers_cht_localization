@@ -3245,28 +3245,28 @@
     </Record>
     <Record>
       <Key>MothershipConstruction</Key>
-      <Value>&lt;color=yellow&gt;Constructing on Mothership&lt;/color&gt;.</Value>
+      <Value>&lt;color=yellow&gt;安裝在母艦上&lt;/color&gt;.</Value>
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
-      <Value>&lt;color=yellow&gt;Constructing option {0} of {1}&lt;/color&gt;
-Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
+      <Value>&lt;color=yellow&gt;建造選項 {0} 之 {1}&lt;/color&gt;
+滾動 &lt;color=red&gt;滑鼠滾輪&lt;/color&gt; 來選擇.</Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
-      <Value>&lt;color=red&gt;Unable to Construct&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;無法建造&lt;/color&gt;.</Value>
     </Record>
     <Record>
       <Key>TooltipRotateLeftRight</Key>
-      <Value>Use {KEY:RotateLeft} and {KEY:RotateRight} to rotate left and right.</Value>
+      <Value>使用 {KEY:RotateLeft} 和 {KEY:RotateRight} 來左右旋轉.</Value>
     </Record>
     <Record>
       <Key>TooltipRotateUpDown</Key>
-      <Value>Use {KEY:RotateUp} and {KEY:RotateDown} to rotate up and down.</Value>
+      <Value>使用 {KEY:RotateUp} 和 {KEY:RotateDown} 來上下旋轉.</Value>
     </Record>
     <Record>
       <Key>TooltipRollLeftRight</Key>
-      <Value>Use {KEY:RotateRollLeft} and {KEY:RotateRollRight} to roll left and right.</Value>
+      <Value>使用 {KEY:RotateRollLeft} 和 {KEY:RotateRollRight} 來左右滾動.</Value>
     </Record>
     <Record>
       <Key>SettingsExtendedTooltips</Key>
@@ -3274,27 +3274,27 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>TooltipUpgrade2</Key>
-      <Value>Once placed use {0} and {1} for upgrade.</Value>
+      <Value>安裝後請使用 {0} 和 {1} 進行升級.</Value>
     </Record>
     <Record>
       <Key>TooltipUpgrade</Key>
-      <Value>Once placed use {0} for upgrade.</Value>
+      <Value>安裝後請使用 {0} 進行升級.</Value>
     </Record>
     <Record>
       <Key>TooltipAllowsMounting</Key>
-      <Value>Allows the mounting of wall placed devices. Upgrade to allow better placement area.</Value>
+      <Value>只允許安裝在牆上的設備,請升級已提供安裝位置.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapGrid</Key>
-      <Value>Placement is snapped to the grid.</Value>
+      <Value>安裝在網格上.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFace</Key>
-      <Value>Placement is snapped to grid faces.</Value>
+      <Value>安裝在網格面上.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>Placement is only allowed on {THING:StructureFrameIron} and {THING:StructureFrame} structures directly. If these are upgraded, they will offer better placement options.</Value>
+      <Value>只允許安裝在 {THING:StructureFrameIron} 和 {THING:StructureFrame} 上. 升級過後將有更多的安裝位置.</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
@@ -3318,11 +3318,11 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverButton</Key>
-      <Value>Download Drivers</Value>
+      <Value>下載驅動程式</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverWarning</Key>
-      <Value>Many AMD graphics card users have reported issues with the game which have been resolved by updating their drivers.  We &lt;b&gt;STRONGLY&lt;/b&gt; recommend you update before playing.</Value>
+      <Value>許多AMD顯示卡用戶回報的遊戲問題，在更新顯示卡驅動程式後有所改善 我們 &lt;b&gt;強烈建議&lt;/b&gt; 您在遊玩更新.</Value>
     </Record>
     <Record>
       <Key>SettingsChatFadeTimer</Key>
@@ -3390,11 +3390,11 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadTitle</Key>
-      <Value>Debug Load</Value>
+      <Value>除錯載入</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadBody</Key>
-      <Value>Are you sure you want to load this world with only one character?</Value>
+      <Value>你確定只用一個角色載入世界嗎?</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadConfirm</Key>
