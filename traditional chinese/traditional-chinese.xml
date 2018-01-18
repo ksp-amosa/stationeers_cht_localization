@@ -2728,7 +2728,7 @@
     </Record>
     <Record>
       <Key>LoadMenuFileListTitle</Key>
-      <Value>儲存世界</Value>
+      <Value>目前的存檔</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextDate</Key>
@@ -2892,7 +2892,7 @@
     </Record>
     <Record>
       <Key>SaveMenuListTitle</Key>
-      <Value>儲存世界</Value>
+      <Value>目前的存檔</Value>
     </Record>
     <Record>
       <Key>ButtonBack</Key>
@@ -3298,7 +3298,7 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
-      <Value>Clear Disconnected Players</Value>
+      <Value>清除離線玩家</Value>
     </Record>
     <Record>
       <Key>SettingsInvertMouseWheelInventory</Key>
@@ -3310,7 +3310,7 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>SettingsUPNPNote</Key>
-      <Value>If Universal Plug and Play (UPNP) is enabled on your router, these ports will be automatically forwarded when you host a game.</Value>
+      <Value>如果您的路由器支援並已啟動 Universal Plug and Play (UPNP) 的話,當啟動遊戲的時候將會自動開啟這些ports.</Value>
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
@@ -3346,11 +3346,11 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>PromptQuitBody</Key>
-      <Value>您確定要關閉遊戲嗎?</Value>
+      <Value>您確定要離開遊戲嗎?</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
-      <Value>關閉</Value>
+      <Value>離開</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteTitle</Key>
