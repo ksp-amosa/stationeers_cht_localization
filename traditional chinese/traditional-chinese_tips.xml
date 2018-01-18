@@ -21,4 +21,4 @@
 	<String>使用 {THING:StructureRecycler} 將可以回收您不要的物品,並將其變回{THING:ItemReagentMix}. 再將 {THING:ItemReagentMix} 投入 {THING:StructureCentrifuge} 中處理就能變回原本的礦石了.</String>
 	<String>使用 {THING:StructureHydraulicPipeBender} 來製造相關的物品, 像是 {THING:ItemKitAtmospherics} 可以讓您建造像是 {THING:StructureAirConditioner} 或 {THING:StructureFiltration} 這一類的設備.</String>
   </GameTip>
-</Language></Language>
+</Language>
