@@ -236,7 +236,6 @@
     </Record>
     <Record>
       <Key>True</Key>
-      <Value>真</Value>
       <Value>True</Value>
     </Record>
     <Record>
@@ -855,7 +854,7 @@
     </Record>
     <Record>
       <Key>ItemGlassSheets</Key>
-      <Value>玻璃板</Value>
+      <Value>玻璃片</Value>
     </Record>
     <Record>
       <Key>ItemGoldIngot</Key>
@@ -2199,15 +2198,15 @@
     </Record>
     <Record>
       <Key>NpcChick</Key>
-      <Value>Chick</Value>
+      <Value>小雞</Value>
     </Record>
     <Record>
       <Key>NpcChicken</Key>
-      <Value>Chicken</Value>
+      <Value>雞</Value>
     </Record>
     <Record>
       <Key>DynamicSkeleton</Key>
-      <Value>Skeleton</Value>
+      <Value>乾骨架</Value>
     </Record>
   </Things>
   <Slots>
@@ -2977,7 +2976,7 @@
     </Record>
     <Record>
       <Key>SettingsTitleDisplayTools</Key>
-      <Value>Display Tools</Value>
+      <Value>介面設定</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAutosave</Key>
@@ -3543,7 +3542,39 @@
     </Record>
     <Record>
       <Key>JoinMenuInfoPlayers</Key>
-      <Value>玩家數:</Value>
+      <Value>人數:</Value>
+    </Record>
+    <Record>
+      <Key>ChangeAppearanceTitle</Key>
+      <Value>變更角色外觀</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleGender</Key>
+      <Value>性別</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleFace</Key>
+      <Value>臉型</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleHairStyle</Key>
+      <Value>髮型</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleHairColor</Key>
+      <Value>毛髮顏色</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleEyeColor</Key>
+      <Value>眼睛顏色</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleSkinColor</Key>
+      <Value>膚色</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleFacialHairStyle</Key>
+      <Value>鬍子</Value>
     </Record>
   </Interface>
   <Colors>
