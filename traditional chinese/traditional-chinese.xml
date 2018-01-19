@@ -574,7 +574,7 @@
     </Record>
     <Record>
       <Key>DynamicCrateCableSupplies</Key>
-      <Value>攜帶箱 (電纜用品)</Value>
+      <Value>攜帶箱 (電線用品)</Value>
     </Record>
     <Record>
       <Key>DynamicCrateConveyorSupplies</Key>
@@ -666,7 +666,7 @@
     </Record>
     <Record>
       <Key>ItemActiveVent</Key>
-      <Value>主動式通風口</Value>
+      <Value>通風口 (主動式)</Value>
     </Record>
     <Record>
       <Key>ItemAreaPowerControl</Key>
@@ -686,7 +686,7 @@
     </Record>
     <Record>
       <Key>ItemBatteryCharger</Key>
-      <Value>隨身電池充電座</Value>
+      <Value>隨身電池 充電座</Value>
     </Record>
     <Record>
       <Key>ItemBook</Key>
@@ -726,7 +726,7 @@
     </Record>
     <Record>
       <Key>ItemCopperIngot</Key>
-      <Value>銅碇 (Copper)</Value>
+      <Value>鑄錠 (銅 Copper)</Value>
     </Record>
     <Record>
       <Key>ItemCopperOre</Key>
@@ -858,7 +858,7 @@
     </Record>
     <Record>
       <Key>ItemGoldIngot</Key>
-      <Value>金碇 (Gold)</Value>
+      <Value>鑄錠 (金 Gold)</Value>
     </Record>
     <Record>
       <Key>ItemGoldOre</Key>
@@ -894,7 +894,7 @@
     </Record>
     <Record>
       <Key>ItemIronIngot</Key>
-      <Value>鐵碇 (Iron)</Value>
+      <Value>鑄錠 (鐵 Iron)</Value>
     </Record>
     <Record>
       <Key>ItemIronOre</Key>
@@ -1030,7 +1030,7 @@
     </Record>
     <Record>
       <Key>ItemPassiveVent</Key>
-      <Value>被動通風口</Value>
+      <Value>通風口 (被動式)</Value>
     </Record>
     <Record>
       <Key>ItemPickaxe</Key>
@@ -1074,7 +1074,7 @@
     </Record>
     <Record>
       <Key>ItemPipeGasMixer</Key>
-      <Value>管線氣體調和器</Value>
+      <Value>管線氣體調合器</Value>
     </Record>
     <Record>
       <Key>ItemPipeLabel</Key>
@@ -1114,7 +1114,7 @@
     </Record>
     <Record>
       <Key>ItemRoadFlare</Key>
-      <Value>發焰桶</Value>
+      <Value>發焰筒</Value>
     </Record>
     <Record>
       <Key>ItemRTG</Key>
@@ -1198,11 +1198,11 @@
     </Record>
     <Record>
       <Key>ItemSteelIngot</Key>
-      <Value>鋼碇 (Steel)</Value>
+      <Value>鑄錠 (鋼 Steel)</Value>
     </Record>
     <Record>
       <Key>ItemSteelSheets</Key>
-      <Value>鋼片</Value>
+      <Value>鋼板</Value>
     </Record>
     <Record>
       <Key>ItemSuitStorage</Key>
@@ -1506,7 +1506,7 @@
     </Record>
     <Record>
       <Key>StructureGasMixer</Key>
-      <Value>管線氣體調和器</Value>
+      <Value>管線氣體調合器</Value>
     </Record>
     <Record>
       <Key>StructureGasSensor</Key>
@@ -1546,7 +1546,7 @@
     </Record>
     <Record>
       <Key>StructurePassiveVent</Key>
-      <Value>被動通風口</Value>
+      <Value>被動式通風口</Value>
     </Record>
     <Record>
       <Key>StructurePipeAnalysizer</Key>
@@ -1714,7 +1714,7 @@
     </Record>
     <Record>
       <Key>ItemWasteIngot</Key>
-      <Value>垃圾錠</Value>
+      <Value>鑄錠 (垃圾 Waste)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightBurnt</Key>
@@ -1754,43 +1754,43 @@
     </Record>
     <Record>
       <Key>StructureCableStraightH</Key>
-      <Value>高壓電纜 (直線)</Value>
+      <Value>高壓電線 (直線)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH6</Key>
-      <Value>高壓電纜 (六向)</Value>
+      <Value>高壓電線 (六向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH4</Key>
-      <Value>高壓電纜 (十字)</Value>
+      <Value>高壓電線 (十字)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH</Key>
-      <Value>高壓電纜 (T字)</Value>
+      <Value>高壓電線 (T字)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>燒毀的高壓電纜 (六向)</Value>
+      <Value>燒毀的高壓電線 (六向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>燒毀的高壓電纜 (十字)</Value>
+      <Value>燒毀的高壓電線 (十字)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightHBurnt</Key>
-      <Value>燒毀的高壓電纜 (直線)</Value>
+      <Value>燒毀的高壓電線 (直線)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>燒毀的高壓電纜 (T字)</Value>
+      <Value>燒毀的高壓電線 (T字)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>燒毀的高壓電纜 (轉角) </Value>
+      <Value>燒毀的高壓電線 (轉角) </Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH</Key>
-      <Value>高壓電纜 (轉角)</Value>
+      <Value>高壓電線 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse1k</Key>
@@ -1854,7 +1854,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>高壓電纜</Value>
+      <Value>電線 (高壓)</Value>
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
@@ -1886,31 +1886,31 @@
     </Record>
     <Record>
       <Key>ItemElectrumIngot</Key>
-      <Value>琥珀金錠 (Electrum)</Value>
+      <Value>鑄錠 (琥珀金 Electrum)</Value>
     </Record>
     <Record>
       <Key>ItemSilverIngot</Key>
-      <Value>銀錠 (Silver)</Value>
+      <Value>鑄錠 (銀 Silver)</Value>
     </Record>
     <Record>
       <Key>ItemLeadIngot</Key>
-      <Value>鉛錠 (Lead)</Value>
+      <Value>鑄錠 (鉛 Lead)</Value>
     </Record>
     <Record>
       <Key>ItemNickelIngot</Key>
-      <Value>鎳錠 (Nickel)</Value>
+      <Value>鑄錠 (鎳錠 Nickel)</Value>
     </Record>
     <Record>
       <Key>ItemInvarIngot</Key>
-      <Value>殷鋼錠 (Invar)</Value>
+      <Value>鑄錠 (殷鋼 Invar)</Value>
     </Record>
     <Record>
       <Key>ItemConstantanIngot</Key>
-      <Value>康銅錠 (Constantan)</Value>
+      <Value>鑄錠 (康銅 Constantan)</Value>
     </Record>
     <Record>
       <Key>ItemSolderIngot</Key>
-      <Value>銲錫 (Solder)</Value>
+      <Value>鑄錠 (銲錫 Solder)</Value>
     </Record>
     <Record>
       <Key>ApplianceChemistryStation</Key>
@@ -1934,7 +1934,7 @@
     </Record>
     <Record>
       <Key>ItemSiliconIngot</Key>
-      <Value>矽錠 (Silicon)</Value>
+      <Value>鑄錠 (矽 Silicon)</Value>
     </Record>
     <Record>
       <Key>ItemFern</Key>
@@ -1950,11 +1950,11 @@
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
-      <Value>Ice (揮發物)</Value>
+      <Value>Ice (Volatiles 揮發物)</Value>
     </Record>
     <Record>
       <Key>ItemOxite</Key>
-      <Value>Ice (氧化物)</Value>
+      <Value>Ice (Oxite 氧化物)</Value>
     </Record>
     <Record>
       <Key>StructureWallIron</Key>
@@ -2646,7 +2646,7 @@
     </Record>
     <Record>
       <Key>NextPlan</Key>
-      <Value>下一個計劃</Value>
+      <Value>下個計劃</Value>
     </Record>
     <Record>
       <Key>CreatePlan</Key>
@@ -3294,7 +3294,7 @@
     </Record>
     <Record>
       <Key>TooltipAllowsMounting</Key>
-      <Value>建造框架可以允許裝置安裝在上面,升級框架可以得到較好的安裝區域</Value>
+      <Value>建造{THING:StructureFrame}可以允許裝置安裝在上面,升級{THING:StructureFrame}可以得到較好的安裝區域</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapGrid</Key>
@@ -3306,7 +3306,7 @@
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>只允許安裝在 {THING:StructureFrame} 上. 升級過後的框架,可以得到較好的安裝區域.</Value>
+      <Value>只允許安裝在 {THING:StructureFrame} 上. 升級過後的{THING:StructureFrame},可以得到較好的安裝區域.</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
@@ -3342,7 +3342,7 @@
     </Record>
     <Record>
       <Key>PromptResetSettingsTitle</Key>
-      <Value>重設設定</Value>
+      <Value>重置設定</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsBody</Key>
@@ -3350,7 +3350,7 @@
     </Record>
     <Record>
       <Key>PromptResetSettingsConfirm</Key>
-      <Value>重製</Value>
+      <Value>重置</Value>
     </Record>
     <Record>
       <Key>PromptQuitTitle</Key>
@@ -3378,11 +3378,11 @@
     </Record>
     <Record>
       <Key>PromptPublishTitle</Key>
-      <Value>發布至工作坊</Value>
+      <Value>發佈至工作坊</Value>
     </Record>
     <Record>
       <Key>PromptPublishBody</Key>
-      <Value>您確定要發布這個世界至工作坊嗎?</Value>
+      <Value>您確定要發佈這個世界至工作坊嗎?</Value>
     </Record>
     <Record>
       <Key>PromptPublishConfirm</Key>
@@ -3474,7 +3474,7 @@
     </Record>
     <Record>
       <Key>TooltipNeedMoreKit</Key>
-      <Value>&lt;color=red&gt;Need more {0}&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;需要更多 {0}&lt;/color&gt;.</Value>
     </Record>
     <Record>
       <Key>JoinMenuSearchPlaceholder</Key>
