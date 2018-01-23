@@ -2,7 +2,7 @@
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>Traditional Chinese</Name>
   <Code>TW</Code>
-  <Font>font_tc</Font>
+  <Font>font_cjk</Font>
   <Reagents>
     <RecordReagent>
       <Key>Flour</Key>
@@ -2207,6 +2207,14 @@
     <Record>
       <Key>DynamicSkeleton</Key>
       <Value>乾骨架</Value>
+    </Record>
+    <Record>
+      <Key>StructureBeacon</Key>
+      <Value>Beacon</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitBeacon</Key>
+      <Value>Kit (Beacon)</Value>
     </Record>
   </Things>
   <Slots>
