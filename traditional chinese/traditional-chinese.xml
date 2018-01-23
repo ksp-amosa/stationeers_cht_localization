@@ -2210,11 +2210,11 @@
     </Record>
     <Record>
       <Key>StructureBeacon</Key>
-      <Value>Beacon</Value>
+      <Value>追蹤信標</Value>
     </Record>
     <Record>
       <Key>ItemKitBeacon</Key>
-      <Value>Kit (Beacon)</Value>
+      <Value>套件 追蹤信標</Value>
     </Record>
   </Things>
   <Slots>

@@ -128,11 +128,11 @@
       <Key>TutorialDescGetTools1</Key>
       <Value>Now we need to head outside the station to do some repairs. Drop the {THING:ItemTablet} using the {KEY:Drop} key so we can pick other things up.</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialDescGetTools2</Key>
       <Value>Collect the {THING:ItemToolBelt} and assign it to the {SLOT:Belt} slot by holding the {KEY:ToolBeltSlot} key. We will continue once the {THING:ItemToolBelt} is equipped and you have the {THING:ItemSteelSheets} in your hands.</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskGetTools1</Key>
       <Value>Drop the {THING:ItemTablet}</Value>
     </Record>
@@ -208,7 +208,7 @@
       <Key>TutorialDescRepairCable4</Key>
       <Value>With the {THING:ItemCableCoil} in your active hand, press {COLORRED:Right Mouse Button} to bring up the construction cursor.&#10;&#10;Use the {COLORRED:Mouse Wheel} to change placement type, selecting the {THING:StructureCableJunction} variant.&#10;&#10;Press {KEY:RotateLeft} to rotate left, {KEY:RotateRight} to rotate right, {KEY:RotateUp} to rotate up, {KEY:RotateDown} to rotate down, {KEY:RotateRollLeft} to roll left, or {KEY:RotateRollRight} to roll right.</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTitleFinishFrame</Key>
       <Value>Finish Welding Frame</Value>
     </Record>
@@ -220,7 +220,7 @@
       <Key>TutorialTaskFinishFrame1</Key>
       <Value>Weld the {THING:StructureFrame} to complete tutorial</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTitleTablet</Key>
       <Value>Interacting with Items in Hands</Value>
     </Record>
@@ -260,100 +260,100 @@
       <Key>TutorialTaskTablet5</Key>
       <Value>Equip the {THING:ItemTablet} with a {THING:ItemBatteryCellLarge}</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTitleUseReader</Key>
       <Value>Using the {THING:CartridgeElectronicReader}</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialDescUseReader1</Key>
       <Value>The {THING:ItemTablet} can have different cartridges for different functions. Turn the {THING:ItemTablet} on using the {KEY:ToggleHandPower} key, or the interactions in your hands with the {KEY:ActiveHandSlot} key.</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialDescUseReader2</Key>
       <Value>The {THING:ItemTablet} has a {THING:CartridgeElectronicReader} inserted. This tells you the recipes you need to make for all things in the game, and what they can be made in. Find {COLORYELLOW:Recipe #VAR1#} that allows you to make a {THING:ItemMuffin} by using the {COLORRED:Mouse Wheel} to scroll through the options.&#10;&#10;Using different cartridges allows you to access many different functions, such as the {THING:CartridgeNetworkAnalyser} which allows you to debug cable networks, or the {THING:CartridgeAtmosAnalyser} which provides atmospheric information.</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskUseReader1</Key>
       <Value>Turn on the {THING:ItemTablet}</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskUseReader2</Key>
       <Value>Find {COLORYELLOW:Recipe #VAR1#} to make a {THING:ItemMuffin}</Value>
     </Record>
-	
-	<Record>
+  
+  <Record>
       <Key>TutorialTitleBakeMuffin</Key>
       <Value>Bake a {THING:ItemMuffin}</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialDescBakeMuffin1</Key>
       <Value>Some devices in the game are mounted on {THING:StructureBench}s; they are called Appliances. Pickup the {THING:ApplianceMicrowave} and walk in front of the {THING:StructureBench}.</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialDescBakeMuffin2</Key>
       <Value>Press the {KEY:Drop} key to drop the {THING:ApplianceMicrowave} on top of the {THING:StructureBench}. Keep doing this until the {THING:ApplianceMicrowave} is sitting on top of the {THING:StructureBench}.</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialDescBakeMuffin3</Key>
       <Value>Look at the {THING:ApplianceMicrowave}. Look at the side, rather than the door, so that you are targeting the item directly and not trying to open it. When you see a {COLORYELLOW:yellow box} hold down the {COLORRED:Left Mouse Button} to wrench it onto the {THING:StructureBench}.</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialDescBakeMuffin4</Key>
       <Value>Look at the door on the {THING:ApplianceMicrowave}. Press the {COLORRED:Left Mouse Button} to open the door and allow you to put reagents inside.</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialDescBakeMuffin5</Key>
       <Value>Pickup the required ingredients in your task list and look inside the {THING:ApplianceMicrowave} with it in your active hand. Hold {COLORRED:Left Mouse Button} to add more of the reagent until you have added enough. Do not add more than is needed for the recipe. You will need to do this twice for some recipes.</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialDescBakeMuffin6</Key>
       <Value>Now turn the {THING:ApplianceMicrowave} on by pressing the button on the right of the device. The device will now bake your recipe. If you have the recipe right, then you will have made a {THING:ItemMuffin}. If not, you will have nothing.</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialDescBakeMuffin7</Key>
       <Value>Open your {THING:ItemSpacepack} by pressing the {KEY:BackSlot} key. Cycle to the slot with the {THING:ItemWrench} using the {COLORRED:Mouse Wheel} and press the {KEY:InventorySelect} key to swap it into your hand.</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskBakeMuffin1</Key>
       <Value>Pickup the {THING:ApplianceMicrowave}</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskBakeMuffin2</Key>
       <Value>Drop on the {THING:StructureBench}</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskBakeMuffin3</Key>
       <Value>Wrench {THING:ApplianceMicrowave} into place</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskBakeMuffin11</Key>
       <Value>Get {THING:ItemWrench} from {THING:ItemSpacepack}</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskBakeMuffin4</Key>
       <Value>Put {COLORYELLOW:50g} of {THING:ItemFlour} into the {THING:ApplianceMicrowave}</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskBakeMuffin5</Key>
       <Value>Put {COLORYELLOW:one} {THING:ItemEgg} into the {THING:ApplianceMicrowave}</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskBakeMuffin6</Key>
       <Value>Put {COLORYELLOW:10ml} of {THING:ItemMilk} into the {THING:ApplianceMicrowave}</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskBakeMuffin7</Key>
       <Value>Open the {THING:ApplianceMicrowave}</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskBakeMuffin8</Key>
       <Value>Make a {THING:ItemMuffin}</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskBakeMuffin9</Key>
       <Value>Close {THING:ApplianceMicrowave} door</Value>
     </Record>
-	<Record>
+  <Record>
       <Key>TutorialTaskBakeMuffin10</Key>
       <Value>Turn {THING:ApplianceMicrowave} on</Value>
     </Record>
