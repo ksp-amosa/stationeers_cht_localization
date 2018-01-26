@@ -295,7 +295,7 @@
     </Record>
   <Record>
       <Key>TutorialDescBakeMuffin3</Key>
-      <Value>接著面向 {THING:ApplianceMicrowave}. 調整視線位置,直到出現 {COLORYELLOW:黃色框線} 的時候,按住 &lt;color=red&gt;滑鼠左鍵&lt;/color&gt;  將設備正確安裝到 {THING:StructureBench}.</Value>
+      <Value>接著面向 {THING:ApplianceMicrowave}. 調整視線位置,直到出現 &lt;color=yellow&gt;黃色框線&lt;/color&gt; 的時候,按住 &lt;color=red&gt;滑鼠左鍵&lt;/color&gt;  將設備正確安裝到 {THING:StructureBench}.</Value>
     </Record>
   <Record>
       <Key>TutorialDescBakeMuffin4</Key>
