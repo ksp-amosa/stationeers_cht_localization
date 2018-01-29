@@ -610,7 +610,7 @@
     </Record>
     <Record>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>攜帶式壓力罐 (氧化物 Volatiles)</Value>
+      <Value>攜帶式壓力罐 (揮發物 Volatiles)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterWater</Key>
@@ -882,7 +882,7 @@
     </Record>
     <Record>
       <Key>ItemIce</Key>
-      <Value>冰塊 (水)</Value>
+      <Value>冰塊 (水 Ice)</Value>
     </Record>
     <Record>
       <Key>ItemIgniter</Key>
@@ -1950,11 +1950,11 @@
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
-      <Value>Ice (Volatiles 揮發物)</Value>
+      <Value>冰塊 (Volatiles 揮發物)</Value>
     </Record>
     <Record>
       <Key>ItemOxite</Key>
-      <Value>Ice (Oxite 氧化物)</Value>
+      <Value>冰塊 (Oxite 氧氣石)</Value>
     </Record>
     <Record>
       <Key>StructureWallIron</Key>
@@ -3635,6 +3635,56 @@
       <Value>紫色</Value>
     </Record>
   </Colors>
+  <Mineables>
+    <Record>
+      <Key>Iron</Key>
+      <Value>礦石 (鐵 Iron)</Value>
+    </Record>
+      <Record>
+      <Key>Ice</Key>
+      <Value>冰塊 (水 Ice)</Value>
+    </Record>
+      <Record>
+      <Key>Oxite</Key>
+      <Value>冰塊 (氧氣石 Oxite)</Value>
+    </Record>
+      <Record>
+      <Key>Volatiles</Key>
+      <Value>冰塊 (揮發物 Volatiles)</Value>
+    </Record>
+      <Record>
+      <Key>Gold</Key>
+      <Value>礦石 (金 Gold)</Value>
+    </Record>
+      <Record>
+      <Key>Coal</Key>
+      <Value>礦石 (煤 Coal)</Value>
+    </Record>
+      <Record>
+      <Key>Copper</Key>
+      <Value>礦石 (銅 Copper)Copper</Value>
+    </Record>
+      <Record>
+      <Key>Uranium</Key>
+      <Value>礦石 (鈾 Uranium)</Value>
+    </Record>
+      <Record>
+      <Key>Silver</Key>
+      <Value>礦石 (銀 Silver)</Value>
+    </Record>
+      <Record>
+      <Key>Nickel</Key>
+      <Value>礦石 (鎳 Nickel)</Value>
+    </Record>
+      <Record>
+      <Key>Lead</Key>
+      <Value>礦石 (鉛 Lead)</Value>
+    </Record>
+      <Record>
+      <Key>Silicon</Key>
+      <Value>礦石 (矽 Silicon)</Value>
+    </Record>
+  </Mineables>
   <Keys />
   <GameTip />
 </Language>
