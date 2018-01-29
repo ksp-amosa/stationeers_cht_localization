@@ -1306,7 +1306,7 @@
     </Record>
     <Record>
       <Key>StructureAreaPowerControlReversed</Key>
-      <Value>區域電源控制器備用</Value>
+      <Value>區域電源控制器</Value>
     </Record>
     <Record>
       <Key>StructureBackPressureRegulator</Key>
