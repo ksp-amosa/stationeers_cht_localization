@@ -6,7 +6,7 @@
     <String>按下 {KEY:ToggleUI} 可以關閉使用者介面,讓您可以擷取更乾淨漂亮的截圖或影片.</String>
 	<String>如果您的 {THING:ItemSpacepack} 已經是啟動狀態, 按下 {KEY:Ascend} 可以讓您往上飛行, 否則角色將會使用一般跳躍. 您可以使用 {KEY:Jetpack} 鍵來開關 {THING:ItemSpacepack}.</String>
 	<String>如果您的 {THING:ItemSpacepack} 已經是啟動狀態, 按下 {KEY:Descend} 可以讓您往下飛行, 您可以使用 {KEY:Jetpack} 鍵來開關 {THING:ItemSpacepack}.</String>
-	<String>如果您想切換當前手上的物品 與 物品欄位格 的物品, 選定物品後, 按下 {KEY:InventorySelect} 鍵.</String>
+	<String>如果您想切換當前手持物 與 欄位物品, 選定後, 按下 {KEY:InventorySelect} 鍵.</String>
 	<String>按下 {KEY:Drop} 鍵將會立即放下您手上的物品. 如果是長按 {KEY:Drop} 鍵, 角色將會蓄力丟出手上的物品.</String>
 	<String>按下 {KEY:SwapHands} 來切換目前的主手欄位. 重複按下 {KEY:ActiveHandSlot} 將會切換目前主手物品的功能選項與欄位格(如果物品有的話).</String>
 	<String>按下 {KEY:Internals} 可以快速開關您的 {THING:ItemSpaceHelmet}.</String>

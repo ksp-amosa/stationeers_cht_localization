@@ -2216,6 +2216,10 @@
       <Key>ItemKitBeacon</Key>
       <Value>Kit (Beacon)</Value>
     </Record>
+    <Record>
+      <Key>StructureTankBig</Key>
+      <Value>Large Tank</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -3636,5 +3640,55 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
   </Colors>
   <Keys />
+  <Mineables>
+    <Record>
+      <Key>Iron</Key>
+      <Value>Iron</Value>
+    </Record>
+    <Record>
+      <Key>Ice</Key>
+      <Value>Ice</Value>
+    </Record>
+    <Record>
+      <Key>Oxite</Key>
+      <Value>Oxite</Value>
+    </Record>
+    <Record>
+      <Key>Volatiles</Key>
+      <Value>Volatiles</Value>
+    </Record>
+    <Record>
+      <Key>Gold</Key>
+      <Value>Gold</Value>
+    </Record>
+    <Record>
+      <Key>Coal</Key>
+      <Value>Coal</Value>
+    </Record>
+    <Record>
+      <Key>Copper</Key>
+      <Value>Copper</Value>
+    </Record>
+    <Record>
+      <Key>Uranium</Key>
+      <Value>Uranium</Value>
+    </Record>
+    <Record>
+      <Key>Silver</Key>
+      <Value>Silver</Value>
+    </Record>
+    <Record>
+      <Key>Nickel</Key>
+      <Value>Nickel</Value>
+    </Record>
+    <Record>
+      <Key>Lead</Key>
+      <Value>Lead</Value>
+    </Record>
+    <Record>
+      <Key>Silicon</Key>
+      <Value>Silicon</Value>
+    </Record>
+  </Mineables>
   <GameTip />
 </Language>

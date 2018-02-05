@@ -130,7 +130,7 @@
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>揮發物 (Volatiles)</Value>
+      <Value>揮發石 (Volatiles)</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
@@ -610,7 +610,7 @@
     </Record>
     <Record>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>攜帶式壓力罐 (揮發物 Volatiles)</Value>
+      <Value>攜帶式壓力罐 (氫氣 Hydrogen)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterWater</Key>
@@ -810,7 +810,7 @@
     </Record>
     <Record>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>氣瓶 (揮發物 Volatiles)</Value>
+      <Value>氣瓶 (氫氣 Hydrogen)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterNitrogen</Key>
@@ -842,7 +842,7 @@
     </Record>
     <Record>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>濾心 (揮發物 Volatiles)</Value>
+      <Value>濾心 (氫氣 Hydrogen)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterWater</Key>
@@ -900,9 +900,10 @@
       <Key>ItemIronOre</Key>
       <Value>礦石 (鐵 Iron)</Value>
     </Record>
+    <!-- ItemKit 定義為安裝時有多重選項的物品 前綴詞須加上"套件 " -->
     <Record>
       <Key>ItemKitAirlock</Key>
-      <Value>套件 氣閘門</Value>
+      <Value>氣閘門</Value>
     </Record>
     <Record>
       <Key>ItemKitAtmospherics</Key>
@@ -910,11 +911,11 @@
     </Record>
     <Record>
       <Key>ItemKitBattery</Key>
-      <Value>套件 蓄電器</Value>
+      <Value>蓄電器</Value>
     </Record>
     <Record>
       <Key>ItemKitCentrifuge</Key>
-      <Value>套件 離心機</Value>
+      <Value>離心機</Value>
     </Record>
     <Record>
       <Key>ItemKitChute</Key>
@@ -922,7 +923,7 @@
     </Record>
     <Record>
       <Key>ItemKitComputer</Key>
-      <Value>套件 電腦</Value>
+      <Value>電腦</Value>
     </Record>
     <Record>
       <Key>ItemKitConsole</Key>
@@ -934,7 +935,7 @@
     </Record>
     <Record>
       <Key>ItemKitCryoTube</Key>
-      <Value>套件 冷凍艙</Value>
+      <Value>冷凍艙</Value>
     </Record>
     <Record>
       <Key>ItemKitEngine</Key>
@@ -942,11 +943,11 @@
     </Record>
     <Record>
       <Key>ItemKitFabricator</Key>
-      <Value>套件 大型加工機</Value>
+      <Value>大型加工機</Value>
     </Record>
     <Record>
       <Key>ItemKitFurnace</Key>
-      <Value>套件 熔爐</Value>
+      <Value>熔爐</Value>
     </Record>
     <Record>
       <Key>ItemKitFurniture</Key>
@@ -954,7 +955,7 @@
     </Record>
     <Record>
       <Key>ItemKitGyroscope</Key>
-      <Value>套件 陀螺儀</Value>
+      <Value>陀螺儀</Value>
     </Record>
     <Record>
       <Key>ItemKitRegulator</Key>
@@ -970,7 +971,7 @@
     </Record>
     <Record>
       <Key>ItemKitSleeper</Key>
-      <Value>套件 睡眠倉</Value>
+      <Value>睡眠倉</Value>
     </Record>
     <Record>
       <Key>ItemKitSolarPanel</Key>
@@ -978,27 +979,27 @@
     </Record>
     <Record>
       <Key>ItemKitStairs</Key>
-      <Value>套件 樓梯</Value>
+      <Value>樓梯</Value>
     </Record>
     <Record>
       <Key>ItemKitStellarAnchor</Key>
-      <Value>套件 太空錨</Value>
+      <Value>太空錨</Value>
     </Record>
     <Record>
       <Key>ItemKitStorage</Key>
-      <Value>套件 儲藏櫃</Value>
+      <Value>儲藏櫃</Value>
     </Record>
     <Record>
       <Key>ItemKitTank</Key>
-      <Value>套件 氣槽</Value>
+      <Value>套件 壓力槽</Value>
     </Record>
     <Record>
       <Key>ItemKitTorpedoTube</Key>
-      <Value>套件 魚雷發射器</Value>
+      <Value>魚雷發射器</Value>
     </Record>
     <Record>
       <Key>ItemKitTurret</Key>
-      <Value>套件 砲台</Value>
+      <Value>砲台</Value>
     </Record>
     <Record>
       <Key>ItemKitWall</Key>
@@ -1658,15 +1659,15 @@
     </Record>
     <Record>
       <Key>StructureTankSmall</Key>
-      <Value>小型壓力罐</Value>
+      <Value>小型壓力槽</Value>
     </Record>
     <Record>
       <Key>StructureTankSmallAir</Key>
-      <Value>小型壓力罐 (空氣)</Value>
+      <Value>小型壓力槽 (空氣)</Value>
     </Record>
     <Record>
       <Key>StructureTankSmallFuel</Key>
-      <Value>小型壓力罐 (燃料)</Value>
+      <Value>小型壓力槽 (燃料)</Value>
     </Record>
     <Record>
       <Key>StructureTorpedoRack</Key>
@@ -1814,7 +1815,7 @@
     </Record>
     <Record>
       <Key>ItemKitTransformer</Key>
-      <Value>套件 變壓器</Value>
+      <Value>變壓器</Value>
     </Record>
     <Record>
       <Key>StructureTransformerSmall</Key>
@@ -1838,7 +1839,7 @@
     </Record>
     <Record>
       <Key>ItemKitFabrication</Key>
-      <Value>套件 大型加工機</Value>
+      <Value>大型加工機</Value>
     </Record>
     <Record>
       <Key>ItemPipeKit</Key>
@@ -1950,7 +1951,7 @@
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
-      <Value>冰塊 (Volatiles 揮發物)</Value>
+      <Value>冰塊 (Volatiles 揮發石)</Value>
     </Record>
     <Record>
       <Key>ItemOxite</Key>
@@ -1982,35 +1983,35 @@
     </Record>
     <Record>
       <Key>ItemKitTransformerSmall</Key>
-      <Value>套件 變壓器 (小型)</Value>
+      <Value>變壓器 (小型)</Value>
     </Record>
     <Record>
       <Key>ItemKitSuitStorage</Key>
-      <Value>套件 裝備架</Value>
+      <Value>裝備架</Value>
     </Record>
     <Record>
       <Key>ItemKitSolidGenerator</Key>
-      <Value>套件 固體燃料發電機</Value>
+      <Value>固體燃料發電機</Value>
     </Record>
     <Record>
       <Key>ItemKitLocker</Key>
-      <Value>套件 置物櫃</Value>
+      <Value>置物櫃</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineSmall</Key>
-      <Value>套件 小型引擎</Value>
+      <Value>引擎 (小型)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineMedium</Key>
-      <Value>套件 中型引擎</Value>
+      <Value>引擎 (中型)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineLarge</Key>
-      <Value>套件 大型引擎</Value>
+      <Value>引擎 (大型)</Value>
     </Record>
     <Record>
       <Key>ItemKitElectronicsPrinter</Key>
-      <Value>套件 電子材料打印機</Value>
+      <Value>電子材料打印機</Value>
     </Record>
     <Record>
       <Key>ItemKitDoor</Key>
@@ -2018,15 +2019,15 @@
     </Record>
     <Record>
       <Key>ItemKitAutolathe</Key>
-      <Value>套件 自動車床</Value>
+      <Value>自動車床</Value>
     </Record>
     <Record>
       <Key>ItemKitBlastDoor</Key>
-      <Value>套件 防爆門</Value>
+      <Value>防爆門</Value>
     </Record>
     <Record>
       <Key>ItemKitArcFurnace</Key>
-      <Value>套件 電弧爐</Value>
+      <Value>電弧爐</Value>
     </Record>
     <Record>
       <Key>StructureHydraulicPipeBender</Key>
@@ -2034,15 +2035,15 @@
     </Record>
     <Record>
       <Key>ItemKitHydraulicPipeBender</Key>
-      <Value>套件 液壓彎管機</Value>
+      <Value>液壓彎管機</Value>
     </Record>
     <Record>
       <Key>ItemKitSorter</Key>
-      <Value>套件 分揀機</Value>
+      <Value>分揀機</Value>
     </Record>
     <Record>
       <Key>ItemKitStacker</Key>
-      <Value>套件 堆疊機</Value>
+      <Value>堆疊機</Value>
     </Record>
     <Record>
       <Key>CartridgeTracker</Key>
@@ -2054,7 +2055,7 @@
     </Record>
     <Record>
       <Key>ItemBeacon</Key>
-      <Value>追蹤信標</Value>
+      <Value>追蹤信標 (移動式)</Value>
     </Record>
     <Record>
       <Key>StructureToolManufactory</Key>
@@ -2062,7 +2063,7 @@
     </Record>
     <Record>
       <Key>ItemKitToolManufactory</Key>
-      <Value>套件 工具製造機</Value>
+      <Value>工具製造機</Value>
     </Record>
     <Record>
       <Key>StructureTransformerSmallReversed</Key>
@@ -2074,7 +2075,7 @@
     </Record>
     <Record>
       <Key>ItemKitLogic</Key>
-      <Value>套件 (邏輯單元)</Value>
+      <Value>套件 邏輯單元</Value>
     </Record>
     <Record>
       <Key>StructureLogicReader</Key>
@@ -2114,7 +2115,7 @@
     </Record>
     <Record>
       <Key>ItemKitLogicSwitch</Key>
-      <Value>套件 邏輯開關裝置</Value>
+      <Value>套件 邏輯互動開關</Value>
     </Record>
     <Record>
       <Key>StructureLogicSwitch</Key>
@@ -2174,11 +2175,11 @@
     </Record>
     <Record>
       <Key>ItemKitRecycler</Key>
-      <Value>套件 回收機</Value>
+      <Value>回收機</Value>
     </Record>
     <Record>
       <Key>ItemCableAnalyser</Key>
-      <Value>套件 電力分析儀</Value>
+      <Value>電力分析儀</Value>
     </Record>
     <Record>
       <Key>StructureCableAnalysizer</Key>
@@ -2210,11 +2211,15 @@
     </Record>
     <Record>
       <Key>StructureBeacon</Key>
-      <Value>追蹤信標</Value>
+      <Value>追蹤信標 (固定式)</Value>
     </Record>
     <Record>
       <Key>ItemKitBeacon</Key>
-      <Value>套件 追蹤信標</Value>
+      <Value>追蹤信標 (固定式)</Value>
+    </Record>
+    <Record>
+      <Key>StructureTankBig</Key>
+      <Value>大型壓力槽</Value>
     </Record>
   </Things>
   <Slots>
@@ -3650,7 +3655,7 @@
     </Record>
       <Record>
       <Key>Volatiles</Key>
-      <Value>冰塊 (揮發物 Volatiles)</Value>
+      <Value>冰塊 (揮發石 Volatiles)</Value>
     </Record>
       <Record>
       <Key>Gold</Key>
