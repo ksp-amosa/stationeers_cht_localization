@@ -3589,6 +3589,14 @@
       <Key>AppearanceTitleFacialHairStyle</Key>
       <Value>鬍子</Value>
     </Record>
+    <Record>
+      <Key>SettingsStartingCondition</Key>
+      <Value>開局狀態</Value>
+    </Record>
+    <Record>
+      <Key>SettingsTitleGameSettings</Key>
+      <Value>遊戲設定</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
@@ -3640,56 +3648,56 @@
       <Value>紫色</Value>
     </Record>
   </Colors>
+  <Keys />
   <Mineables>
     <Record>
       <Key>Iron</Key>
       <Value>礦石 (鐵 Iron)</Value>
     </Record>
-      <Record>
+    <Record>
       <Key>Ice</Key>
       <Value>冰塊 (水 Ice)</Value>
     </Record>
-      <Record>
+    <Record>
       <Key>Oxite</Key>
       <Value>冰塊 (氧氣石 Oxite)</Value>
     </Record>
-      <Record>
+    <Record>
       <Key>Volatiles</Key>
       <Value>冰塊 (揮發石 Volatiles)</Value>
     </Record>
-      <Record>
+    <Record>
       <Key>Gold</Key>
       <Value>礦石 (金 Gold)</Value>
     </Record>
-      <Record>
+    <Record>
       <Key>Coal</Key>
       <Value>礦石 (煤 Coal)</Value>
     </Record>
-      <Record>
+    <Record>
       <Key>Copper</Key>
       <Value>礦石 (銅 Copper)</Value>
     </Record>
-      <Record>
+    <Record>
       <Key>Uranium</Key>
       <Value>礦石 (鈾 Uranium)</Value>
     </Record>
-      <Record>
+    <Record>
       <Key>Silver</Key>
       <Value>礦石 (銀 Silver)</Value>
     </Record>
-      <Record>
+    <Record>
       <Key>Nickel</Key>
       <Value>礦石 (鎳 Nickel)</Value>
     </Record>
-      <Record>
+    <Record>
       <Key>Lead</Key>
       <Value>礦石 (鉛 Lead)</Value>
     </Record>
-      <Record>
+    <Record>
       <Key>Silicon</Key>
       <Value>礦石 (矽 Silicon)</Value>
     </Record>
   </Mineables>
-  <Keys />
   <GameTip />
 </Language>
