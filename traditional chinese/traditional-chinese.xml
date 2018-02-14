@@ -17,7 +17,7 @@
     <RecordReagent>
       <Key>Egg</Key>
       <Value>蛋 (Egg)</Value>
-      <Unit />
+      <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Iron</Key>
@@ -734,7 +734,7 @@
     </Record>
     <Record>
       <Key>ItemCorn</Key>
-      <Value>穀物</Value>
+      <Value>玉米</Value>
     </Record>
     <Record>
       <Key>ItemCrowbar</Key>
@@ -2221,6 +2221,10 @@
       <Key>StructureTankBig</Key>
       <Value>大型壓力槽</Value>
     </Record>
+    <Record>
+      <Key>ItemPotato</Key>
+      <Value>馬鈴薯</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -2518,8 +2522,8 @@
       <Value>壓力下降</Value>
     </Record>
     <Record>
-      <Key />
-      <Value />
+      <Key/>
+      <Value/>
     </Record>
     <Record>
       <Key>Flush</Key>
@@ -3081,7 +3085,7 @@
     </Record>
     <Record>
       <Key>SettingsTitleMixer</Key>
-      <Value>Mixer</Value>
+      <Value>混音設置</Value>
     </Record>
     <Record>
       <Key>SettingsSound</Key>
@@ -3648,7 +3652,7 @@
       <Value>紫色</Value>
     </Record>
   </Colors>
-  <Keys />
+  <Keys/>
   <Mineables>
     <Record>
       <Key>Iron</Key>
@@ -3699,5 +3703,5 @@
       <Value>礦石 (矽 Silicon)</Value>
     </Record>
   </Mineables>
-  <GameTip />
+  <GameTip/>
 </Language>

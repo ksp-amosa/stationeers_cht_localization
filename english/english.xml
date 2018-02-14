@@ -2220,6 +2220,10 @@
       <Key>StructureTankBig</Key>
       <Value>Large Tank</Value>
     </Record>
+    <Record>
+      <Key>ItemPotato</Key>
+      <Value>Potato</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -3587,6 +3591,14 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     <Record>
       <Key>AppearanceTitleFacialHairStyle</Key>
       <Value>Facial Hair</Value>
+    </Record>
+    <Record>
+      <Key>SettingsStartingCondition</Key>
+      <Value>Starting Condition</Value>
+    </Record>
+    <Record>
+      <Key>SettingsTitleGameSettings</Key>
+      <Value>Game Settings</Value>
     </Record>
   </Interface>
   <Colors>
