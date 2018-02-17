@@ -734,7 +734,7 @@
     </Record>
     <Record>
       <Key>ItemCorn</Key>
-      <Value>玉米</Value>
+      <Value>穀物</Value>
     </Record>
     <Record>
       <Key>ItemCrowbar</Key>
@@ -2225,6 +2225,14 @@
       <Key>ItemPotato</Key>
       <Value>馬鈴薯</Value>
     </Record>
+    <Record>
+      <Key>StructureGasGenerator</Key>
+      <Value>氣體燃料發電機</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitGasGenerator</Key>
+      <Value>氣體燃料發電機</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -2522,8 +2530,8 @@
       <Value>壓力下降</Value>
     </Record>
     <Record>
-      <Key/>
-      <Value/>
+      <Key />
+      <Value />
     </Record>
     <Record>
       <Key>Flush</Key>
@@ -3085,7 +3093,7 @@
     </Record>
     <Record>
       <Key>SettingsTitleMixer</Key>
-      <Value>混音設置</Value>
+      <Value>混音設定</Value>
     </Record>
     <Record>
       <Key>SettingsSound</Key>
@@ -3599,7 +3607,11 @@
     </Record>
     <Record>
       <Key>SettingsTitleGameSettings</Key>
-      <Value>遊戲設定</Value>
+      <Value>參數設定</Value>
+    </Record>
+    <Record>
+      <Key>SettingsHungerRate</Key>
+      <Value>飢餓速率</Value>
     </Record>
   </Interface>
   <Colors>
@@ -3703,5 +3715,5 @@
       <Value>礦石 (矽 Silicon)</Value>
     </Record>
   </Mineables>
-  <GameTip/>
+  <GameTip />
 </Language>
