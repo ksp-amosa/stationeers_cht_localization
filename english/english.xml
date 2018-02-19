@@ -2224,6 +2224,14 @@
       <Key>ItemPotato</Key>
       <Value>Potato</Value>
     </Record>
+    <Record>
+      <Key>StructureGasGenerator</Key>
+      <Value>Gas Fuel Generator</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitGasGenerator</Key>
+      <Value>Kit (Gas Fuel Generator)</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -3599,6 +3607,34 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     <Record>
       <Key>SettingsTitleGameSettings</Key>
       <Value>Game Settings</Value>
+    </Record>
+    <Record>
+      <Key>SettingsHungerRate</Key>
+      <Value>Hunger Rate</Value>
+    </Record>
+    <Record>
+      <Key>JoinWorldSortBy</Key>
+      <Value>Sort by</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuFiltersTitle</Key>
+      <Value>Filters</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuButtonStopRefresh</Key>
+      <Value>Stop Refresh</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuIncompatibleVersions</Key>
+      <Value>Hide Incompatible Versions</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuPasswordProtected</Key>
+      <Value>Hide Password Protected</Value>
+    </Record>
+    <Record>
+      <Key>JoinWorldEmptyServers</Key>
+      <Value>Hide Empty Servers</Value>
     </Record>
   </Interface>
   <Colors>

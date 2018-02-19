@@ -3613,6 +3613,30 @@
       <Key>SettingsHungerRate</Key>
       <Value>飢餓速率</Value>
     </Record>
+    <Record>
+      <Key>JoinWorldSortBy</Key>
+      <Value>排序依</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuFiltersTitle</Key>
+      <Value>過濾</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuButtonStopRefresh</Key>
+      <Value>停止重整</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuIncompatibleVersions</Key>
+      <Value>隱藏 不符合的版本</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuPasswordProtected</Key>
+      <Value>隱藏 受密碼保護的</Value>
+    </Record>
+    <Record>
+      <Key>JoinWorldEmptyServers</Key>
+      <Value>隱藏 空的伺服器</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
