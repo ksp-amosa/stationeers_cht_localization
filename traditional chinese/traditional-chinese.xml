@@ -521,6 +521,10 @@
       <Value>晶片 (網絡分析)</Value>
     </Record>
     <Record>
+      <Key>CartridgeOreScanner</Key>
+      <Value>晶片 (礦石掃描)</Value>
+    </Record>
+    <Record>
       <Key>Character</Key>
       <Value>角色</Value>
     </Record>
@@ -2232,6 +2236,10 @@
     <Record>
       <Key>ItemKitGasGenerator</Key>
       <Value>氣體燃料發電機</Value>
+    </Record>
+    <Record>
+      <Key>DynamicGPR</Key>
+      <Value>透地雷達 (GPR)</Value>
     </Record>
   </Things>
   <Slots>
