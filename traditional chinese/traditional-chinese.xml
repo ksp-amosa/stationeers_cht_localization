@@ -438,7 +438,7 @@
     </Record>
     <Record>
       <Key>BodyPartGraylienHead </Key>
-      <Value>Graylien頭部 </Value>
+      <Value>Graylien頭部</Value>
     </Record>
     <Record>
       <Key>BodyPartGraylienLegL </Key>
@@ -519,10 +519,6 @@
     <Record>
       <Key>CartridgeNetworkAnalyser</Key>
       <Value>晶片 (網絡分析)</Value>
-    </Record>
-    <Record>
-      <Key>CartridgeOreScanner</Key>
-      <Value>晶片 (礦石掃描)</Value>
     </Record>
     <Record>
       <Key>Character</Key>
@@ -1239,7 +1235,7 @@
     </Record>
     <Record>
       <Key>ItemWallLight</Key>
-      <Value>套件 燈 </Value>
+      <Value>套件 燈</Value>
     </Record>
     <Record>
       <Key>ItemWeldingTorch</Key>
@@ -1791,7 +1787,7 @@
     </Record>
     <Record>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>燒毀的高壓電線 (轉角) </Value>
+      <Value>燒毀的高壓電線 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH</Key>
@@ -2241,6 +2237,10 @@
       <Key>DynamicGPR</Key>
       <Value>透地雷達 (GPR)</Value>
     </Record>
+    <Record>
+      <Key>CartridgeOreScanner</Key>
+      <Value>晶片 (礦石掃描)</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -2538,8 +2538,8 @@
       <Value>壓力下降</Value>
     </Record>
     <Record>
-      <Key />
-      <Value />
+      <Key/>
+      <Value/>
     </Record>
     <Record>
       <Key>Flush</Key>
@@ -3274,7 +3274,7 @@
     <Record>
       <Key>TutorialCompleteMessage</Key>
       <Value>還有很多東西得學呢!
-        所以趕快離開這裡吧</Value>
+所以趕快離開這裡吧</Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
@@ -3471,11 +3471,8 @@
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>
-      <Value>    
-        伺服器無回應 
-        
-        請再次嘗試連線.
-      </Value>
+      <Value>伺服器無回應 
+請再次嘗試連線.</Value>
     </Record>
     <Record>
       <Key>AlertKicked</Key>
@@ -3747,5 +3744,5 @@
       <Value>礦石 (矽 Silicon)</Value>
     </Record>
   </Mineables>
-  <GameTip />
+  <GameTip/>
 </Language>
