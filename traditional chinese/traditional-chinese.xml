@@ -2241,6 +2241,10 @@
       <Key>CartridgeOreScanner</Key>
       <Value>晶片 (礦石掃描)</Value>
     </Record>
+    <Record>
+      <Key>ItemPotatoBaked</Key>
+      <Value>烤馬鈴薯</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -2538,8 +2542,8 @@
       <Value>壓力下降</Value>
     </Record>
     <Record>
-      <Key/>
-      <Value/>
+      <Key />
+      <Value />
     </Record>
     <Record>
       <Key>Flush</Key>
