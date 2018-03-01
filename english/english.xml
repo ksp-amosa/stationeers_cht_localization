@@ -2232,6 +2232,18 @@
       <Key>ItemKitGasGenerator</Key>
       <Value>Kit (Gas Fuel Generator)</Value>
     </Record>
+    <Record>
+      <Key>DynamicGPR</Key>
+      <Value>Ground Penetrating Radar (GPR)</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeOreScanner</Key>
+      <Value>Cartridge (Ore Scanner)</Value>
+    </Record>
+    <Record>
+      <Key>ItemPotatoBaked</Key>
+      <Value>Baked Potato</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -3462,11 +3474,8 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>
-      <Value>    
-        There is no response from the Game Server. 
-        
-        Please try again.
-      </Value>
+      <Value>There is no response from the Game Server.
+Please try again.</Value>
     </Record>
     <Record>
       <Key>AlertKicked</Key>
@@ -3635,6 +3644,22 @@ Scroll &lt;color=red&gt;Mouse Wheel&lt;/color&gt; for more options.</Value>
     <Record>
       <Key>JoinWorldEmptyServers</Key>
       <Value>Hide Empty Servers</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopSubscribedModsTitle</Key>
+      <Value>Subscribed Mods</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopPageButton</Key>
+      <Value>Workshop Page</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopUnsubscribeButton</Key>
+      <Value>Unsubscribe</Value>
+    </Record>
+    <Record>
+      <Key>OpenWorkshopButton</Key>
+      <Value>Open Workshop</Value>
     </Record>
   </Interface>
   <Colors>

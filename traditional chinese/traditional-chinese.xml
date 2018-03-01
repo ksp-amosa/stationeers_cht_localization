@@ -3646,6 +3646,22 @@
       <Key>JoinWorldEmptyServers</Key>
       <Value>隱藏 空的伺服器</Value>
     </Record>
+    <Record>
+      <Key>WorkshopSubscribedModsTitle</Key>
+      <Value>已訂閱的工作坊物品</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopPageButton</Key>
+      <Value>工作坊頁面</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopUnsubscribeButton</Key>
+      <Value>取消訂閱</Value>
+    </Record>
+    <Record>
+      <Key>OpenWorkshopButton</Key>
+      <Value>開啟工作坊</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
