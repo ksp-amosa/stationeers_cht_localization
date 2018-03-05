@@ -3662,6 +3662,97 @@
       <Key>OpenWorkshopButton</Key>
       <Value>開啟工作坊</Value>
     </Record>
+    <Record>
+      <Key>WorldPresetTitle</Key>
+      <Value>世界設置</Value>
+    </Record>
+    <Record>
+      <Key>WorldPresetLabel</Key>
+      <Value>設置</Value>
+    </Record>
+    <Record>
+      <Key>WorldNameLabel</Key>
+      <Value>世界名稱</Value>
+    </Record>
+    <Record>
+      <Key>WorldDescriptionLabel</Key>
+      <Value>敘述</Value>
+    </Record>
+    <Record>
+      <Key>WorldAtmosphere</Key>
+      <Value>大氣層</Value>
+    </Record>
+    <Record>
+      <Key>GameSettingsTitle</Key>
+      <Value>遊戲設定</Value>
+    </Record>
+    <Record>
+      <Key>WorldCreativeMode</Key>
+      <Value>創造模式</Value>
+    </Record>
+    <Record>
+      <Key>WorldTerrain</Key>
+      <Value>地形</Value>
+    </Record>
+    <Record>
+      <Key>WorldSeedLabel</Key>
+      <Value>世界種子碼</Value>
+    </Record>
+    <Record>
+      <Key>WorldCratersLabel</Key>
+      <Value>隕石坑</Value>
+    </Record>
+    <Record>
+      <Key>WorldTerrainPresetLabel</Key>
+      <Value>地形</Value>
+    </Record>
+    <Record>
+      <Key>WorldAtmospherePresetLabel</Key>
+      <Value>大氣層</Value>
+    </Record>
+    <Record>
+      <Key>WorldSettingsTitle</Key>
+      <Value>世界設定</Value>
+    </Record>
+    <Record>
+      <Key>WorldResetButton</Key>
+      <Value>重置</Value>
+    </Record>
+    <Record>
+      <Key>WorldSaveButton</Key>
+      <Value>儲存</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldAreaCustom</Key>
+      <Value>自訂</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldMoonDesc</Key>
+      <Value>雖然被困在月球,但目前看起來還不算很糟.
+是的沒錯, 這冰冷冷的地表令人感到孤獨...不過太陽看起來倒是挺耀眼的,
+在這使用太陽能的效率應該不錯,接上個電源控制器後,再塞進一顆電池(看來手邊只剩敲棍可以打開它了),咱們的基本電力應該足夠撐一陣子.
+幸好還有我還有帶著挖礦工具,我就知道這遲早派得上用場, 電弧爐也帶了呢, 燒製礦石應該不成問題.
+但是食物補給看來不多, 看來我得趕快想辦法, 不然這樣絕對撐不了幾天的...</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldSpaceDesc</Key>
+      <Value> 這是Stationeers的創造模式!
+您可以在這邊任意呼叫出遊戲中的物品, 建造並且測試您任何有趣的想法.
+&lt;color=red&gt;要特別注意,這個模式充滿了實驗性&lt;/color&gt;
+可能會發生很多意想不到的BUG,像是一不小心地漂流迷失在太空,或者被成群的野雞虐待等...</Value>
+    </Record>
+    <Record>
+      <Key>TextboxEnterName</Key>
+      <Value>輸入名稱...</Value>
+    </Record>
+    <Record>
+      <Key>TextboxEnterDescription</Key>
+      <Value>輸入敘述..</Value>
+    </Record>
+    <Record>
+      <Key>TextboxEnterSeed</Key>
+      <Value>輸入種子碼...</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
@@ -3713,7 +3804,7 @@
       <Value>紫色</Value>
     </Record>
   </Colors>
-  <Keys/>
+  <Keys />
   <Mineables>
     <Record>
       <Key>Iron</Key>
@@ -3764,5 +3855,5 @@
       <Value>礦石 (矽 Silicon)</Value>
     </Record>
   </Mineables>
-  <GameTip/>
+  <GameTip />
 </Language>
