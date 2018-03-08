@@ -114,6 +114,11 @@
       <Value>油 (Oil)</Value>
       <Unit>毫升</Unit>
     </RecordReagent>
+    <RecordReagent>
+      <Key>Potato</Key>
+      <Value>馬鈴薯</Value>
+      <Unit/>
+    </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
@@ -2244,6 +2249,14 @@
     <Record>
       <Key>ItemPotatoBaked</Key>
       <Value>烤馬鈴薯</Value>
+    </Record>
+    <Record>
+      <Key>ItemSoyOil</Key>
+      <Value>大豆沙拉油</Value>
+    </Record>
+    <Record>
+      <Key>ItemFries</Key>
+      <Value>炸薯條</Value>
     </Record>
   </Things>
   <Slots>
