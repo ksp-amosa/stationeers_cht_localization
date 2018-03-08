@@ -3757,6 +3757,10 @@
       <Key>TextboxEnterSeed</Key>
       <Value>輸入種子碼...</Value>
     </Record>
+    <Record>
+      <Key>SettingsDisableParticlesOnMenu</Key>
+      <Value>關閉主選單動態效果</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
