@@ -2271,12 +2271,32 @@
       <Value>燒毀的高壓電線 (四向轉角)</Value>
     </Record>
     <Record>
+      <Key>PortableSolarPanel</Key>
+      <Value>攜帶式太陽能板</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableJunction5</Key>
+      <Value>電線 (五向轉角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableCorner4</Key>
+      <Value>電線 (四向轉角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableCorner4Burnt</Key>
+      <Value>燒毀的電線 (四向轉角)</Value>
+    </Record>
+    <Record>
       <Key>StructureCableCorner3HBurnt</Key>
       <Value>燒毀的高壓電線 (三向轉角)</Value>
     </Record>
     <Record>
-      <Key>PortableSolarPanel</Key>
-      <Value>攜帶式太陽能板</Value>
+      <Key>StructureCableJunction5Burnt</Key>
+      <Value>燒毀的電線 (五向轉角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableHeavyJunction5</Key>
+      <Value>高壓電線 (五向轉角)</Value>
     </Record>
   </Things>
   <Slots>
