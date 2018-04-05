@@ -2298,6 +2298,10 @@
       <Key>StructureCableHeavyJunction5</Key>
       <Value>高壓電線 (五向轉角)</Value>
     </Record>
+    <Record>
+      <Key>WallFrameCornerCut</Key>
+      <Value>轉角框架</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
