@@ -2302,6 +2302,70 @@
       <Key>WallFrameCornerCut</Key>
       <Value>轉角框架</Value>
     </Record>
+    <Record>
+      <Key>StructureFlagSmall</Key>
+      <Value>旗幟 (小型)</Value>
+    </Record>
+    <Record>
+      <Key>ItemFlagSmall</Key>
+      <Value>旗幟 (小型)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingAngled</Key>
+      <Value>複合層罩 (斜角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingAngledCorner</Key>
+      <Value>複合層罩 (斜度轉角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingAngledCornerLong</Key>
+      <Value>複合層罩 (斜度長轉角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingAngledLong</Key>
+      <Value>複合層罩 (長斜角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingCylindrical</Key>
+      <Value>複合層罩 (弧型角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingCylindricalPanel</Key>
+      <Value>複合層罩 (弧型板)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingSphericalCorner</Key>
+      <Value>複合層罩 (球型轉角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingSphericalCap</Key>
+      <Value>複合層罩 (圓型板)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingSpherical</Key>
+      <Value>複合層罩 (球型角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingRoundedCorner</Key>
+      <Value>複合層罩 (圓型型轉角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingRounded</Key>
+      <Value>複合層罩 (圓型角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingPanel</Key>
+      <Value>複合層罩 (方板)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitCompositeCladding</Key>
+      <Value>套件 複合層罩</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingAngledCornerLongR</Key>
+      <Value>複合層罩 (斜度長反向轉角)</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
