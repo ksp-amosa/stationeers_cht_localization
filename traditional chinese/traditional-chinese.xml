@@ -2366,6 +2366,18 @@
       <Key>StructureCompositeCladdingAngledCornerLongR</Key>
       <Value>複合層罩 (斜度長反向轉角)</Value>
     </Record>
+    <Record>
+      <Key>StructureDockPortSide</Key>
+      <Value>對接口 入口端</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitDockingPort</Key>
+      <Value>套件 對接口</Value>
+    </Record>
+    <Record>
+      <Key>StructureDockShipSide</Key>
+      <Value>對接口 船隻端</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
