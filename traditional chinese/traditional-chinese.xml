@@ -2378,6 +2378,18 @@
       <Key>StructureDockShipSide</Key>
       <Value>對接口 船隻端</Value>
     </Record>
+    <Record>
+      <Key>StructureLightLong</Key>
+      <Value>燈 (長型)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLightLongAngled</Key>
+      <Value>燈 (長型偏角)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLightLongWide</Key>
+      <Value>燈 (長型加寬)</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
