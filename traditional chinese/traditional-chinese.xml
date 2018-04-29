@@ -2390,6 +2390,50 @@
       <Key>StructureLightLongWide</Key>
       <Value>燈 (長型加寬)</Value>
     </Record>
+    <Record>
+      <Key>CircuitboardAdvancedAirlockControl</Key>
+      <Value>電路板 (進階氣閘門控制)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitOrganicsPrinter</Key>
+      <Value>套件 (有機物質列印機)</Value>
+    </Record>
+    <Record>
+      <Key>StructureOrganicsPrinter</Key>
+      <Value>有機物質列印機</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeWindowIron</Key>
+      <Value>複合鐵窗</Value>
+    </Record>
+    <Record>
+      <Key>CompositeFloorGrating1</Key>
+      <Value>柵板一</Value>
+    </Record>
+    <Record>
+      <Key>CompositeFloorGrating2</Key>
+      <Value>柵板二</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeFloorGrating2</Key>
+      <Value>柵板二</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeFloorGrating3</Key>
+      <Value>柵板三</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeFloorGrating4</Key>
+      <Value>柵板四</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitWallPanels</Key>
+      <Value>套件 (鐵牆)/Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeWallPanelling1</Key>
+      <Value>Structure Composite Wall Panelling1</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -3905,6 +3949,10 @@
     <Record>
       <Key>SettingsDisableParticlesOnMenu</Key>
       <Value>關閉主選單動態效果</Value>
+    </Record>
+    <Record>
+      <Key>SettingsMouseWheelZoom</Key>
+      <Value>滑鼠滾輪縮放視角</Value>
     </Record>
   </Interface>
   <Colors>
