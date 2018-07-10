@@ -7,12 +7,12 @@
     <RecordReagent>
       <Key>Flour</Key>
       <Value>麵粉 (Flour)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Milk</Key>
       <Value>牛奶 (Milk)</Value>
-      <Unit>毫升</Unit>
+      <Unit>毫升(mL)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Egg</Key>
@@ -22,97 +22,97 @@
     <RecordReagent>
       <Key>Iron</Key>
       <Value>鐵 (Iron)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Gold</Key>
       <Value>金 (Gold)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Carbon</Key>
       <Value>碳 (Carbon)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Uranium</Key>
       <Value>鈾 (Uranium)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Copper</Key>
       <Value>銅 (Copper)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Steel</Key>
       <Value>鋼 (Steel)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Hydrocarbon</Key>
       <Value>烴 (Hydrocarbon)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Silver</Key>
       <Value>銀 (Silver)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Nickel</Key>
       <Value>鎳 (Nickel)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Lead</Key>
       <Value>鉛 (Lead)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Electrum</Key>
       <Value>琥珀金 (Electrum)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Invar</Key>
       <Value>殷鋼 (Invar)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Constantan</Key>
       <Value>康銅 (Constantan)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Solder</Key>
       <Value>銲錫 (Solder)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Plastic</Key>
       <Value>塑膠 (Plastic)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Silicon</Key>
       <Value>矽 (Silicon)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>SalicylicAcid</Key>
       <Value>水楊酸 (Salicylic Acid)</Value>
-      <Unit>克</Unit>
+      <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Alcohol</Key>
       <Value>酒精 (Alcohol)</Value>
-      <Unit>毫升</Unit>
+      <Unit>毫升(mL)</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Oil</Key>
       <Value>油 (Oil)</Value>
-      <Unit>毫升</Unit>
+      <Unit>毫升(mL)</Unit>
     </RecordReagent>
 	<RecordReagent>
       <Key>Potato</Key>
@@ -123,15 +123,15 @@
   <Gases>
     <Record>
       <Key>Oxygen</Key>
-      <Value>氧氣 (Oxygen)</Value>
+      <Value>氧氣 O2 (Oxygen)</Value>
     </Record>
     <Record>
       <Key>CarbonDioxide</Key>
-      <Value>二氧化碳 (Carbon Dioxide)</Value>
+      <Value>二氧化碳 CO2 (Carbon Dioxide)</Value>
     </Record>
     <Record>
       <Key>Nitrogen</Key>
-      <Value>氮 (Nitrogen)</Value>
+      <Value>氮 N2 (Nitrogen)</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
@@ -143,7 +143,7 @@
     </Record>
     <Record>
       <Key>Water</Key>
-      <Value>水 (Water)</Value>
+      <Value>水 H2O (Water)</Value>
     </Record>
   </Gases>
   <Actions>
