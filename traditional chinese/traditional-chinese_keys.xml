@@ -20,7 +20,7 @@
     </Record>
     <Record>
       <Key>Return</Key>
-      <Value>Return</Value>
+      <Value>Enter</Value>
     </Record>
     <Record>
       <Key>Pause</Key>
@@ -28,11 +28,11 @@
     </Record>
     <Record>
       <Key>Escape</Key>
-      <Value>Escape</Value>
+      <Value>Esc</Value>
     </Record>
     <Record>
       <Key>Space</Key>
-      <Value>Space</Value>
+      <Value>空白鍵</Value>
     </Record>
     <Record>
       <Key>Exclaim</Key>
@@ -52,19 +52,19 @@
     </Record>
     <Record>
       <Key>Ampersand</Key>
-      <Value>Ampersand</Value>
+      <Value>合號</Value>
     </Record>
     <Record>
       <Key>Quote</Key>
-      <Value>Quote</Value>
+      <Value>"</Value>
     </Record>
     <Record>
       <Key>LeftParen</Key>
-      <Value>Left Paren</Value>
+      <Value>(</Value>
     </Record>
     <Record>
       <Key>RightParen</Key>
-      <Value>Right Paren</Value>
+      <Value>)</Value>
     </Record>
     <Record>
       <Key>Asterisk</Key>
