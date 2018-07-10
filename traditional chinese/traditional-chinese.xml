@@ -114,10 +114,10 @@
       <Value>油 (Oil)</Value>
       <Unit>毫升</Unit>
     </RecordReagent>
-    <RecordReagent>
+	<RecordReagent>
       <Key>Potato</Key>
       <Value>馬鈴薯</Value>
-      <Unit/>
+      <Unit />
     </RecordReagent>
   </Reagents>
   <Gases>
@@ -147,6 +147,10 @@
     </Record>
   </Gases>
   <Actions>
+	<Record>
+      <Key>Reload</Key>
+      <Value>重新裝填</Value>
+    </Record>
     <Record>
       <Key>Paint</Key>
       <Value>粉刷</Value>
@@ -286,6 +290,38 @@
     <Record>
       <Key>Rename</Key>
       <Value>重新命名</Value>
+    </Record>
+	<Record>
+      <Key>Up</Key>
+      <Value>上升</Value>
+    </Record>
+    <Record>
+      <Key>Down</Key>
+      <Value>下降</Value>
+    </Record>
+    <Record>
+      <Key>CallElevator</Key>
+      <Value>呼叫電梯</Value>
+    </Record>
+    <Record>
+      <Key>Set</Key>
+      <Value>設置</Value>
+    </Record>
+    <Record>
+      <Key>Cycle</Key>
+      <Value>週期</Value>
+    </Record>
+    <Record>
+      <Key>ForceClose</Key>
+      <Value>強制關閉</Value>
+    </Record>
+    <Record>
+      <Key>ForceOpen</Key>
+      <Value>強制開放</Value>
+    </Record>
+    <Record>
+      <Key>Vend</Key>
+      <Value>Vend</Value>
     </Record>
   </Actions>
   <Things>
@@ -875,7 +911,7 @@
     </Record>
     <Record>
       <Key>ItemHat</Key>
-      <Value>Hat</Value>
+      <Value>帽</Value>
     </Record>
     <Record>
       <Key>ItemHealPill</Key>
@@ -905,14 +941,13 @@
       <Key>ItemIronOre</Key>
       <Value>礦石 (鐵 Iron)</Value>
     </Record>
-    <!-- ItemKit 定義為安裝時有多重選項的物品 前綴詞須加上"套件 " -->
     <Record>
       <Key>ItemKitAirlock</Key>
       <Value>氣閘門</Value>
     </Record>
     <Record>
       <Key>ItemKitAtmospherics</Key>
-      <Value>套件 空調機</Value>
+      <Value>套件 空調機</Value> <!-- ItemKit 定義為安裝時有多重選項的物品 前綴詞須加上"套件 " -->
     </Record>
     <Record>
       <Key>ItemKitBattery</Key>
@@ -1847,10 +1882,6 @@
       <Value>大型加工機</Value>
     </Record>
     <Record>
-      <Key>ItemPipeKit</Key>
-      <Value>套件 管線</Value>
-    </Record>
-    <Record>
       <Key>ItemKitPipe</Key>
       <Value>套件 管線</Value>
     </Record>
@@ -2188,7 +2219,7 @@
     </Record>
     <Record>
       <Key>StructureCableAnalysizer</Key>
-      <Value>電力分析儀</Value>
+      <Value>管線分析儀</Value>
     </Record>
     <Record>
       <Key>StructureLogicDial</Key>
@@ -2246,29 +2277,29 @@
       <Key>CartridgeOreScanner</Key>
       <Value>晶片 (礦石掃描)</Value>
     </Record>
-    <Record>
+	<Record>
       <Key>ItemPotatoBaked</Key>
       <Value>烤馬鈴薯</Value>
     </Record>
     <Record>
       <Key>ItemSoyOil</Key>
-      <Value>大豆沙拉油</Value>
+      <Value>大豆油</Value>
     </Record>
     <Record>
       <Key>ItemFries</Key>
-      <Value>炸薯條</Value>
+      <Value>薯條</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH3</Key>
-      <Value>高壓電線 (三向轉角)</Value>
+      <Value>高壓電纜 (3向轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH4</Key>
-      <Value>高壓電線 (四向轉角)</Value>
+      <Value>高壓電纜 (4向轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4HBurnt</Key>
-      <Value>燒毀的高壓電線 (四向轉角)</Value>
+      <Value>燒毀的高壓電纜 (4向轉角)</Value>
     </Record>
     <Record>
       <Key>PortableSolarPanel</Key>
@@ -2276,163 +2307,595 @@
     </Record>
     <Record>
       <Key>StructureCableJunction5</Key>
-      <Value>電線 (五向轉角)</Value>
+      <Value>電纜 (5向連接)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4</Key>
-      <Value>電線 (四向轉角)</Value>
+      <Value>電纜 (4向轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4Burnt</Key>
-      <Value>燒毀的電線 (四向轉角)</Value>
-    </Record>
-    <Record>
-      <Key>StructureCableCorner3HBurnt</Key>
-      <Value>燒毀的高壓電線 (三向轉角)</Value>
+      <Value>燒毀的電纜 (4向轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction5Burnt</Key>
-      <Value>燒毀的電線 (五向轉角)</Value>
+      <Value>燒毀的電纜 (5向連接)</Value>
     </Record>
     <Record>
-      <Key>StructureCableHeavyJunction5</Key>
-      <Value>高壓電線 (五向轉角)</Value>
+      <Key>StructureCableJunctionH5</Key>
+      <Value>高壓電纜 (5向連接)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableJunctionH5Burnt</Key>
+      <Value>燒毀的高壓電纜 (5向連接)</Value>
     </Record>
     <Record>
       <Key>WallFrameCornerCut</Key>
-      <Value>轉角框架</Value>
+      <Value>框架 (切角)</Value>
     </Record>
     <Record>
       <Key>StructureFlagSmall</Key>
-      <Value>旗幟 (小型)</Value>
+      <Value>小型旗幟</Value>
     </Record>
     <Record>
       <Key>ItemFlagSmall</Key>
-      <Value>旗幟 (小型)</Value>
+      <Value>小型旗幟</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngled</Key>
-      <Value>複合層罩 (斜角)</Value>
+      <Value>複合牆板 (Angled)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngledCorner</Key>
-      <Value>複合層罩 (斜度轉角)</Value>
+      <Value>複合牆板 (Angled Corner)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngledCornerLong</Key>
-      <Value>複合層罩 (斜度長轉角)</Value>
+      <Value>複合牆板 (Long Angled Corner)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngledLong</Key>
-      <Value>複合層罩 (長斜角)</Value>
+      <Value>複合牆板 (Long Angled)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingCylindrical</Key>
-      <Value>複合層罩 (弧型角)</Value>
+      <Value>複合牆板 (Cylindrical)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingCylindricalPanel</Key>
-      <Value>複合層罩 (弧型板)</Value>
+      <Value>複合牆板 (Cylindrical Panel)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingSphericalCorner</Key>
-      <Value>複合層罩 (球型轉角)</Value>
+      <Value>複合牆板 (Spherical Corner)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingSphericalCap</Key>
-      <Value>複合層罩 (圓型板)</Value>
+      <Value>複合牆板 (Spherical Cap)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingSpherical</Key>
-      <Value>複合層罩 (球型角)</Value>
+      <Value>複合牆板 (Spherical)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingRoundedCorner</Key>
-      <Value>複合層罩 (圓型型轉角)</Value>
+      <Value>複合牆板 (Rounded Corner)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingRounded</Key>
-      <Value>複合層罩 (圓型角)</Value>
+      <Value>複合牆板 (Rounded)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingPanel</Key>
-      <Value>複合層罩 (方板)</Value>
+      <Value>複合牆板 (Panel)</Value>
     </Record>
     <Record>
       <Key>ItemKitCompositeCladding</Key>
-      <Value>套件 複合層罩</Value>
+      <Value>Kit (Cladding)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngledCornerLongR</Key>
-      <Value>複合層罩 (斜度長反向轉角)</Value>
+      <Value>Composite Cladding (Long Angled Mirrored Corner)</Value>
     </Record>
     <Record>
       <Key>StructureDockPortSide</Key>
-      <Value>對接口 入口端</Value>
+      <Value>Structure Dock Port Side</Value>
     </Record>
     <Record>
       <Key>ItemKitDockingPort</Key>
-      <Value>套件 對接口</Value>
+      <Value>Kit (Docking Port)</Value>
     </Record>
     <Record>
       <Key>StructureDockShipSide</Key>
-      <Value>對接口 船隻端</Value>
+      <Value>Structure Dock Ship Side</Value>
     </Record>
     <Record>
       <Key>StructureLightLong</Key>
-      <Value>燈 (長型)</Value>
+      <Value>Wall Light (Long)</Value>
     </Record>
     <Record>
       <Key>StructureLightLongAngled</Key>
-      <Value>燈 (長型偏角)</Value>
+      <Value>Wall Light (Long Angled)</Value>
     </Record>
     <Record>
       <Key>StructureLightLongWide</Key>
-      <Value>燈 (長型加寬)</Value>
+      <Value>Wall Light (Long Wide)</Value>
     </Record>
     <Record>
       <Key>CircuitboardAdvancedAirlockControl</Key>
-      <Value>電路板 (進階氣閘門控制)</Value>
+      <Value>電路板 (進階器閘門控制)</Value>
     </Record>
     <Record>
       <Key>ItemKitOrganicsPrinter</Key>
-      <Value>套件 (有機物質列印機)</Value>
+      <Value>Kit (Organics Printer)</Value>
     </Record>
     <Record>
       <Key>StructureOrganicsPrinter</Key>
-      <Value>有機物質列印機</Value>
+      <Value>Organics Printer</Value>
     </Record>
     <Record>
       <Key>StructureCompositeWindowIron</Key>
-      <Value>複合鐵窗</Value>
+      <Value>Structure Composite Window Iron</Value>
     </Record>
     <Record>
       <Key>CompositeFloorGrating1</Key>
-      <Value>柵板一</Value>
+      <Value>Composite Floor Grating1</Value>
     </Record>
     <Record>
       <Key>CompositeFloorGrating2</Key>
-      <Value>柵板二</Value>
+      <Value>Composite Floor Grating2</Value>
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating2</Key>
-      <Value>柵板二</Value>
+      <Value>Structure Composite Floor Grating2</Value>
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating3</Key>
-      <Value>柵板三</Value>
+      <Value>Structure Composite Floor Grating3</Value>
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating4</Key>
-      <Value>柵板四</Value>
+      <Value>Structure Composite Floor Grating4</Value>
     </Record>
     <Record>
       <Key>ItemKitWallPanels</Key>
-      <Value>套件 (鐵牆)/Value>
+      <Value>Kit (Wall Panels)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeWallPanelling1</Key>
       <Value>Structure Composite Wall Panelling1</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitCompositeFloorGrating</Key>
+      <Value>Kit (Floor Grating)</Value>
+    </Record>
+    <Record>
+      <Key>CompositeRollCover</Key>
+      <Value>Composite Roll Cover</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitLadder</Key>
+      <Value>Kit (Ladder)</Value>
+    </Record>
+    <Record>
+      <Key>StructureFrameCornerCut</Key>
+      <Value>Structure Frame Corner Cut</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling1</Key>
+      <Value>Composite Wall Panelling1</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling2</Key>
+      <Value>Composite Wall Panelling2</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling3</Key>
+      <Value>Composite Wall Panelling3</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling4</Key>
+      <Value>Composite Wall Panelling4</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling5</Key>
+      <Value>Composite Wall Panelling5</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling6</Key>
+      <Value>Composite Wall Panelling6</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling7</Key>
+      <Value>Composite Wall Panelling7</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling8</Key>
+      <Value>Composite Wall Panelling8</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling9</Key>
+      <Value>Composite Wall Panelling9</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling10</Key>
+      <Value>Composite Wall Panelling10</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling11</Key>
+      <Value>Composite Wall Panelling11</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling12</Key>
+      <Value>Composite Wall Panelling12</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling13</Key>
+      <Value>Composite Wall Panelling13</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling14</Key>
+      <Value>Composite Wall Panelling14</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling15</Key>
+      <Value>Composite Wall Panelling15</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling16</Key>
+      <Value>Composite Wall Panelling16</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling17</Key>
+      <Value>Composite Wall Panelling17</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling18</Key>
+      <Value>Composite Wall Panelling18</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling19</Key>
+      <Value>Composite Wall Panelling19</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling20</Key>
+      <Value>Composite Wall Panelling20</Value>
+    </Record>
+    <Record>
+      <Key>CompositeWallPanelling21</Key>
+      <Value>Composite Wall Panelling21</Value>
+    </Record>
+    <Record>
+      <Key>Corner1</Key>
+      <Value>Corner1</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallFlat</Key>
+      <Value>Structure Wall Flat</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallArch</Key>
+      <Value>Structure Wall Arch</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallArchArrow</Key>
+      <Value>Structure Wall Arch Arrow</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallArchPlating</Key>
+      <Value>Structure Wall Arch Plating</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallArchTwoTone</Key>
+      <Value>Structure Wall Arch Two Tone</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallGeometryCorner</Key>
+      <Value>Structure Wall Geometry Corner</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallGeometryStreight</Key>
+      <Value>Structure Wall Geometry Streight</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallGeometryT</Key>
+      <Value>Structure Wall Geometry T</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPaddedArch</Key>
+      <Value>Structure Wall Padded Arch</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPaddedArchLightsFittings</Key>
+      <Value>Structure Wall Padded Arch Lights Fittings</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPadding</Key>
+      <Value>Structure Wall Padding</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPaddingArchVent</Key>
+      <Value>Structure Wall Padding Arch Vent</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPaddingLightFitting</Key>
+      <Value>Structure Wall Padding Light Fitting</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPaddingThin</Key>
+      <Value>Structure Wall Padding Thin</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallPlating</Key>
+      <Value>Structure Wall Plating</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallSimple</Key>
+      <Value>Structure Wall Simple</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallSmallPanels</Key>
+      <Value>Structure Wall Small Panels</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallLargePanel</Key>
+      <Value>Structure Wall Large Panel</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallSmallPanelsAndHatch</Key>
+      <Value>Structure Wall Small Panels And Hatch</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallSmallPanelsArrow</Key>
+      <Value>Structure Wall Small Panels Arrow</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallSmallPanelsMonoChrome</Key>
+      <Value>Structure Wall Small Panels Mono Chrome</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallSmallPanelsTwoTone</Key>
+      <Value>Structure Wall Small Panels Two Tone</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallLargePanelArrow</Key>
+      <Value>Structure Wall Large Panel Arrow</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitWallArch</Key>
+      <Value>Kit (Arched Wall)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitWallFlat</Key>
+      <Value>Kit (Flat Wall)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitWallGeometry</Key>
+      <Value>Kit (Geometric Wall)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitWallPadded</Key>
+      <Value>Kit (Padded Wall)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLadder</Key>
+      <Value>Ladder</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeGuide</Key>
+      <Value>晶片 (指南)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePipeCrossJunction4</Key>
+      <Value>Pipe (4-Way Corner)</Value>
+    </Record>
+    <Record>
+      <Key>ItemAuthoringTool</Key>
+      <Value>Item Authoring Tool</Value>
+    </Record>
+    <Record>
+      <Key>StructureRocketEngineDestroyed</Key>
+      <Value>Rocket Engine (Destroyed)</Value>
+    </Record>
+    <Record>
+      <Key>ItemWreckageConstructor</Key>
+      <Value>Debug Wreckage Constructor</Value>
+    </Record>
+    <Record>
+      <Key>ItemWreckage1</Key>
+      <Value>Wreckage</Value>
+    </Record>
+    <Record>
+      <Key>ItemWreckage2</Key>
+      <Value>Wreckage</Value>
+    </Record>
+    <Record>
+      <Key>ItemWreckage3</Key>
+      <Value>Wreckage</Value>
+    </Record>
+    <Record>
+      <Key>ItemWreckage4</Key>
+      <Value>Wreckage</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeAccessController</Key>
+      <Value>晶片 (門禁卡控制)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardBlack</Key>
+      <Value>門禁卡 (Black)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardBlue</Key>
+      <Value>門禁卡 (Blue)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardBrown</Key>
+      <Value>門禁卡 (Brown)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardGray</Key>
+      <Value>門禁卡 (Gray)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardGreen</Key>
+      <Value>門禁卡 (Green)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardKhaki</Key>
+      <Value>門禁卡 (Khaki)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardOrange</Key>
+      <Value>門禁卡 (Orange)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardPink</Key>
+      <Value>門禁卡 (Pink)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardPurple</Key>
+      <Value>門禁卡 (Purple)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardRed</Key>
+      <Value>門禁卡 (Red)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardWhite</Key>
+      <Value>門禁卡 (White)</Value>
+    </Record>
+    <Record>
+      <Key>AccessCardYellow</Key>
+      <Value>門禁卡 (Yellow)</Value>
+    </Record>
+    <Record>
+      <Key>StructureSecurityPrinter</Key>
+      <Value>安全性印表機</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitSecurityPrinter</Key>
+      <Value>安全性印表機</Value>
+    </Record>
+    <Record>
+      <Key>Handgun</Key>
+      <Value>手鎗</Value>
+    </Record>
+    <Record>
+      <Key>ItemAmmoBox</Key>
+      <Value>彈藥盒</Value>
+    </Record>
+    <Record>
+      <Key>HandgunMagazine</Key>
+      <Value>手鎗彈匣</Value>
+    </Record>
+    <Record>
+      <Key>SMGMagazine</Key>
+      <Value>衝鋒鎗彈匣</Value>
+    </Record>
+    <Record>
+      <Key>FireArmSMG</Key>
+      <Value>Fire Arm 衝鋒鎗</Value>
+    </Record>
+    <Record>
+      <Key>StructureElectrolyzer</Key>
+      <Value>電解槽</Value>
+    </Record>
+    <Record>
+      <Key>StructureElevatorShaft</Key>
+      <Value>電梯井</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitElevator</Key>
+      <Value>套件 電梯</Value>
+    </Record>
+    <Record>
+      <Key>ElevatorCarrage</Key>
+      <Value>電梯</Value>
+    </Record>
+    <Record>
+      <Key>StructureElevatorLevelFront</Key>
+      <Value>電梯樓層</Value>
+    </Record>
+    <Record>
+      <Key>StructureCrateMount</Key>
+      <Value>集裝箱架</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitCrateMount</Key>
+      <Value>套件 集裝箱架</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicMirror</Key>
+      <Value>邏輯反向器</Value>
+    </Record>
+    <Record>
+      <Key>CircuitboardHashDisplay</Key>
+      <Value>電路板 (Hash 顯示)</Value>
+    </Record>
+    <Record>
+      <Key>StructureHydroponicsStation</Key>
+      <Value>水培站</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitHydroponicStation</Key>
+      <Value>套件 水培站</Value>
+    </Record>
+    <Record>
+      <Key>StructureDiodeSlide</Key>
+      <Value>Diode Slide</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasCanisterSmart</Key>
+      <Value>Gas Canister (Smart)</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeConfiguration</Key>
+      <Value>Cartridge (Configuration)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitCrate</Key>
+      <Value>Kit (Crate)</Value>
+    </Record>
+    <Record>
+      <Key>CircuitboardGraphDisplay</Key>
+      <Value>電路板 (圖形顯示)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitMotherShipCore</Key>
+      <Value>Kit (Mothership)</Value>
+    </Record>
+    <Record>
+      <Key>ItemDynamicScrubber</Key>
+      <Value>Kit (Portable Scrubber)</Value>
+    </Record>
+    <Record>
+      <Key>ItemDynamicAirCon</Key>
+      <Value>Kit (Portable Air Conditioner)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitPipeValve</Key>
+      <Value>Item Kit Pipe Valve</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitDynamicGenerator</Key>
+      <Value>Kit (Portable Generator)</Value>
+    </Record>
+    <Record>
+      <Key>StructureVendingMachine</Key>
+      <Value>Vending Machine</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitVendingMachine</Key>
+      <Value>Kit (Vending Machine)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicSlotReader</Key>
+      <Value>Slot Reader</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicBatchReader</Key>
+      <Value>Batch Reader</Value>
     </Record>
   </Things>
   <Slots>
@@ -2596,6 +3059,26 @@
       <Key>LoadingRail</Key>
       <Value>Loading Rail</Value>
     </Record>
+	<Record>
+      <Key>AccessCard</Key>
+      <Value>門禁卡</Value>
+    </Record>
+    <Record>
+      <Key>Magazine</Key>
+      <Value>彈匣</Value>
+    </Record>
+    <Record>
+      <Key>ContainerSlot</Key>
+      <Value>Container Slot</Value>
+    </Record>
+    <Record>
+      <Key>Plant</Key>
+      <Value>植物</Value>
+    </Record>
+    <Record>
+      <Key>Storage</Key>
+      <Value>存儲</Value>
+    </Record>
   </Slots>
   <Interactables>
     <Record>
@@ -2729,10 +3212,6 @@
     <Record>
       <Key>PressureDown</Key>
       <Value>壓力下降</Value>
-    </Record>
-    <Record>
-      <Key />
-      <Value />
     </Record>
     <Record>
       <Key>Flush</Key>
@@ -2921,6 +3400,18 @@
     <Record>
       <Key>Color</Key>
       <Value>顏色</Value>
+    </Record>
+	<Record>
+      <Key>Access</Key>
+      <Value>授權</Value>
+    </Record>
+    <Record>
+      <Key>Magazine</Key>
+      <Value>彈匣</Value>
+    </Record>
+    <Record>
+      <Key />
+      <Value />
     </Record>
   </Interactables>
   <Interface>
@@ -3664,8 +4155,20 @@
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>
-      <Value>伺服器無回應 
-請再次嘗試連線.</Value>
+      <Value>伺服器 {0} 無回應 \n 請檢查IP或Url是否可用</Value>
+    </Record>
+	 <Record>
+      <Key>AlertPlayerCountExceeded</Key>
+      <Value>伺服器已滿.</Value>
+    </Record>
+    <Record>
+      <Key>AlertVersionMismatch</Key>
+      <Value>與伺服器端的遊戲版本不相符.</Value>
+    </Record>
+    <Record>
+      <Key>AlertNoResponse</Key>
+      <Value>伺服器沒有回應.
+請稍後再試.</Value>
     </Record>
     <Record>
       <Key>AlertKicked</Key>
@@ -3745,7 +4248,7 @@
     </Record>
     <Record>
       <Key>JoinMenuServerListMap</Key>
-      <Value>地圖</Value>
+      <Value>地圖:</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoIPAddress</Key>
@@ -3835,124 +4338,198 @@
       <Key>JoinWorldEmptyServers</Key>
       <Value>隱藏 空的伺服器</Value>
     </Record>
-    <Record>
+	<Record>
       <Key>WorkshopSubscribedModsTitle</Key>
-      <Value>已訂閱的工作坊物品</Value>
+      <Value>Subscribed Mods</Value>
     </Record>
     <Record>
       <Key>WorkshopPageButton</Key>
-      <Value>工作坊頁面</Value>
+      <Value>Workshop Page</Value>
     </Record>
     <Record>
       <Key>WorkshopUnsubscribeButton</Key>
-      <Value>取消訂閱</Value>
+      <Value>Unsubscribe</Value>
     </Record>
     <Record>
       <Key>OpenWorkshopButton</Key>
-      <Value>開啟工作坊</Value>
+      <Value>Open Workshop</Value>
     </Record>
     <Record>
       <Key>WorldPresetTitle</Key>
-      <Value>世界設置</Value>
+      <Value>World Preset</Value>
     </Record>
     <Record>
       <Key>WorldPresetLabel</Key>
-      <Value>設置</Value>
+      <Value>Preset</Value>
     </Record>
     <Record>
       <Key>WorldNameLabel</Key>
-      <Value>世界名稱</Value>
+      <Value>World Name</Value>
     </Record>
     <Record>
       <Key>WorldDescriptionLabel</Key>
-      <Value>敘述</Value>
+      <Value>Description</Value>
     </Record>
     <Record>
       <Key>WorldAtmosphere</Key>
-      <Value>大氣層</Value>
+      <Value>Atmosphere</Value>
     </Record>
     <Record>
       <Key>GameSettingsTitle</Key>
-      <Value>遊戲設定</Value>
+      <Value>Game Settings</Value>
     </Record>
     <Record>
       <Key>WorldCreativeMode</Key>
-      <Value>創造模式</Value>
+      <Value>Creative Mode</Value>
     </Record>
     <Record>
       <Key>WorldTerrain</Key>
-      <Value>地形</Value>
+      <Value>Terrain</Value>
     </Record>
     <Record>
       <Key>WorldSeedLabel</Key>
-      <Value>世界種子碼</Value>
+      <Value>World Seed</Value>
     </Record>
     <Record>
       <Key>WorldCratersLabel</Key>
-      <Value>隕石坑</Value>
+      <Value>Craters</Value>
     </Record>
     <Record>
       <Key>WorldTerrainPresetLabel</Key>
-      <Value>地形</Value>
+      <Value>Terrain</Value>
     </Record>
     <Record>
       <Key>WorldAtmospherePresetLabel</Key>
-      <Value>大氣層</Value>
+      <Value>Atmosphere</Value>
     </Record>
     <Record>
       <Key>WorldSettingsTitle</Key>
-      <Value>世界設定</Value>
+      <Value>World Settings</Value>
     </Record>
     <Record>
       <Key>WorldResetButton</Key>
-      <Value>重置</Value>
+      <Value>Reset</Value>
     </Record>
     <Record>
       <Key>WorldSaveButton</Key>
-      <Value>儲存</Value>
+      <Value>Save</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaCustom</Key>
-      <Value>自訂</Value>
+      <Value>Custom</Value>
     </Record>
     <Record>
       <Key>NewWorldMoonDesc</Key>
-      <Value>終於順利降落到基地預定處了，
-看來補給箱應該都沒有少，狀況應該還不算很糟。(？)
-
-這月球的表面看起來冰冷冷的地表，也令人不由得感受到一種寂靜且孤獨的感受...
-不過幸好太陽還在，得先盡快把太陽能板跟基礎電力設施安裝起來，好讓設備可以運作。
-
-還好我還有帶著挖礦工具跟電弧爐，我就知道這遲早派得上用場，提煉礦石碇應該不成問題。
-
-但是食物補給看來不多，看來我得趕快想辦法！ 不然這樣絕對撐不了幾天的...</Value>
+      <Value>So you're stuck on the moon, but it's not all bad. 
+Sure, it's cold, harsh and pretty monotonous, but at least the sun's shining. The solar panel is going to be useful, and the power controller... and probably the arc furnace too.
+There's even a little food and oxygen in the other crates, though it's definitely not going to last forever. Neither's your battery. 
+You better start thinking about how you're going to survive. How hard could it be to rig up an airlock? A generator? Maybe even smelt some ore and build yourself a base?
+Looks like you're gonna be here a while.</Value>
     </Record>
     <Record>
       <Key>NewWorldSpaceDesc</Key>
-      <Value> 這是Stationeers的創造模式!
-您可以在這邊任意呼叫出遊戲中的物品，建造並且測試您任何有趣的想法。
-&lt;color=red&gt;要特別注意,這個模式充滿了實驗性&lt;/color&gt;
-可能會發生很多意想不到的BUG，像是一不小心地漂流迷失在太空，或者被成群的野雞塞爆基地等...</Value>
+      <Value>This is Stationeers Creative Mode!
+Spawn in any item, test ideas and build bonkers stuff real fast.
+&lt;color=red&gt;This mode is experimental.&lt;/color&gt; Think of it as a freeform space party where exciting and unexpected things* can and will happen, compared to the more reliable near-death experience of Survival Mode.
+Just don't be sad when you blow yourself into tiny, tiny little pieces or get savaged by chickens or slowly explode while drifting alone into the infinite void.
+*bugs</Value>
     </Record>
     <Record>
       <Key>TextboxEnterName</Key>
-      <Value>輸入名稱...</Value>
+      <Value>Enter Name...</Value>
     </Record>
     <Record>
       <Key>TextboxEnterDescription</Key>
-      <Value>輸入敘述..</Value>
+      <Value>Enter Description...</Value>
     </Record>
     <Record>
       <Key>TextboxEnterSeed</Key>
-      <Value>輸入種子碼...</Value>
+      <Value>Enter Seed...</Value>
     </Record>
     <Record>
       <Key>SettingsDisableParticlesOnMenu</Key>
-      <Value>關閉主選單動態效果</Value>
+      <Value>Disable Particles On Menu</Value>
     </Record>
     <Record>
       <Key>SettingsMouseWheelZoom</Key>
-      <Value>滑鼠滾輪縮放視角</Value>
+      <Value>Mouse Wheel Zoom</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuRespawn</Key>
+      <Value>Respawn</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuScenarios</Key>
+      <Value>Scenarios</Value>
+    </Record>
+    <Record>
+      <Key>ScenariosStartButton</Key>
+      <Value>Start Scenario</Value>
+    </Record>
+    <Record>
+      <Key>SettingsSunOrbitPeriod</Key>
+      <Value>Sun Orbit Period</Value>
+    </Record>
+    <Record>
+      <Key>SettingsExtendedTerrain</Key>
+      <Value>Extended Terrain</Value>
+    </Record>
+    <Record>
+      <Key>RenameThing</Key>
+      <Value>Rename {0}</Value>
+    </Record>
+    <Record>
+      <Key>SetThingValue</Key>
+      <Value>Set {0}</Value>
+    </Record>
+    <Record>
+      <Key>FurnaceChamber</Key>
+      <Value>Chamber</Value>
+    </Record>
+    <Record>
+      <Key>FurnaceChamberText</Key>
+      <Value>Pressure {0}
+Temperature {1}</Value>
+    </Record>
+    <Record>
+      <Key>FurnaceSmelting</Key>
+      <Value>Smelting {0}</Value>
+    </Record>
+    <Record>
+      <Key>LogicState</Key>
+      <Value>State {COLORGREEN:#VAR1#}</Value>
+    </Record>
+    <Record>
+      <Key>LogicNoDevice</Key>
+      <Value>No Device</Value>
+    </Record>
+    <Record>
+      <Key>LogicNoSetting</Key>
+      <Value>No Settings</Value>
+    </Record>
+    <Record>
+      <Key>RequiresScrewdriver</Key>
+      <Value>You need a {THING:ItemScrewdriver} to change settings</Value>
+    </Record>
+    <Record>
+      <Key>LogicNoReadableDevices</Key>
+      <Value>No other readable devices on network</Value>
+    </Record>
+    <Record>
+      <Key>LogicNoReadableTypes</Key>
+      <Value>No other readable types on network</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingTo</Key>
+      <Value>Change to {0}</Value>
+    </Record>
+    <Record>
+      <Key>HoldForPreviousObject</Key>
+      <Value>Hold {KEY:QuantityModifier} for previous object</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingToFor</Key>
+      <Value>Change to &lt;color=yellow&gt;{0}&lt;/color&gt; for {1}</Value>
     </Record>
   </Interface>
   <Colors>
@@ -4005,7 +4582,7 @@
       <Value>紫色</Value>
     </Record>
   </Colors>
-  <Keys />
+  <Keys/>
   <Mineables>
     <Record>
       <Key>Iron</Key>
@@ -4056,5 +4633,5 @@
       <Value>礦石 (矽 Silicon)</Value>
     </Record>
   </Mineables>
-  <GameTip />
+  <GameTip/>
 </Language>
