@@ -2719,63 +2719,63 @@
     </Record>
     <Record>
       <Key>CartridgeAccessController</Key>
-      <Value>晶片 (門禁卡控制)</Value>
+      <Value>晶片 (授權控制)</Value>
     </Record>
     <Record>
       <Key>AccessCardBlack</Key>
-      <Value>門禁卡 (Black)</Value>
+      <Value>門禁卡 (黑色)</Value>
     </Record>
     <Record>
       <Key>AccessCardBlue</Key>
-      <Value>門禁卡 (Blue)</Value>
+      <Value>門禁卡 (藍色)</Value>
     </Record>
     <Record>
       <Key>AccessCardBrown</Key>
-      <Value>門禁卡 (Brown)</Value>
+      <Value>門禁卡 (棕色)</Value>
     </Record>
     <Record>
       <Key>AccessCardGray</Key>
-      <Value>門禁卡 (Gray)</Value>
+      <Value>門禁卡 (灰色)</Value>
     </Record>
     <Record>
       <Key>AccessCardGreen</Key>
-      <Value>門禁卡 (Green)</Value>
+      <Value>門禁卡 (綠色)</Value>
     </Record>
     <Record>
       <Key>AccessCardKhaki</Key>
-      <Value>門禁卡 (Khaki)</Value>
+      <Value>門禁卡 (卡其色)</Value>
     </Record>
     <Record>
       <Key>AccessCardOrange</Key>
-      <Value>門禁卡 (Orange)</Value>
+      <Value>門禁卡 (橘色)</Value>
     </Record>
     <Record>
       <Key>AccessCardPink</Key>
-      <Value>門禁卡 (Pink)</Value>
+      <Value>門禁卡 (粉色)</Value>
     </Record>
     <Record>
       <Key>AccessCardPurple</Key>
-      <Value>門禁卡 (Purple)</Value>
+      <Value>門禁卡 (紫色)</Value>
     </Record>
     <Record>
       <Key>AccessCardRed</Key>
-      <Value>門禁卡 (Red)</Value>
+      <Value>門禁卡 (紅色)</Value>
     </Record>
     <Record>
       <Key>AccessCardWhite</Key>
-      <Value>門禁卡 (White)</Value>
+      <Value>門禁卡 (白色)</Value>
     </Record>
     <Record>
       <Key>AccessCardYellow</Key>
-      <Value>門禁卡 (Yellow)</Value>
+      <Value>門禁卡 (黃色)</Value>
     </Record>
     <Record>
       <Key>StructureSecurityPrinter</Key>
-      <Value>安全性印表機</Value>
+      <Value>安全設備印表機</Value>
     </Record>
     <Record>
       <Key>ItemKitSecurityPrinter</Key>
-      <Value>安全性印表機</Value>
+      <Value>安全設備印表機</Value>
     </Record>
     <Record>
       <Key>Handgun</Key>
@@ -2795,7 +2795,7 @@
     </Record>
     <Record>
       <Key>FireArmSMG</Key>
-      <Value>Fire Arm 衝鋒鎗</Value>
+      <Value>衝鋒鎗</Value>
     </Record>
     <Record>
       <Key>StructureElectrolyzer</Key>
@@ -2831,7 +2831,7 @@
     </Record>
     <Record>
       <Key>CircuitboardHashDisplay</Key>
-      <Value>電路板 (Hash 顯示)</Value>
+      <Value>電路板 (雜湊顯示)</Value>
     </Record>
     <Record>
       <Key>StructureHydroponicsStation</Key>
