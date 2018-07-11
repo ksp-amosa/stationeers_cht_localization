@@ -123,15 +123,15 @@
   <Gases>
     <Record>
       <Key>Oxygen</Key>
-      <Value>氧氣 O2 (Oxygen)</Value>
+      <Value>氧氣 (Oxygen)</Value>
     </Record>
     <Record>
       <Key>CarbonDioxide</Key>
-      <Value>二氧化碳 CO2 (Carbon Dioxide)</Value>
+      <Value>二氧化碳 (Carbon Dioxide)</Value>
     </Record>
     <Record>
       <Key>Nitrogen</Key>
-      <Value>氮 N2 (Nitrogen)</Value>
+      <Value>氮 (Nitrogen)</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
@@ -603,71 +603,71 @@
     </Record>
     <Record>
       <Key>DynamicAirConditioner</Key>
-      <Value>攜帶式空調</Value>
+      <Value>可攜式空調機</Value>
     </Record>
     <Record>
       <Key>DynamicCrate</Key>
-      <Value>攜帶箱</Value>
+      <Value>集裝箱</Value>
     </Record>
     <Record>
       <Key>DynamicCrateBuildingSupplies</Key>
-      <Value>攜帶箱 (建築用品)</Value>
+      <Value>集裝箱 (建築用品)</Value>
     </Record>
     <Record>
       <Key>DynamicCrateCableSupplies</Key>
-      <Value>攜帶箱 (電線用品)</Value>
+      <Value>集裝箱 (電纜用品)</Value>
     </Record>
     <Record>
       <Key>DynamicCrateConveyorSupplies</Key>
-      <Value>攜帶箱 (輸送帶用品)</Value>
+      <Value>集裝箱 (輸送帶用品)</Value>
     </Record>
     <Record>
       <Key>DynamicCratePipeSupplies</Key>
-      <Value>攜帶箱 (管線用品)</Value>
+      <Value>集裝箱 (管線用品)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterAir</Key>
-      <Value>攜帶式壓力罐 (空氣)</Value>
+      <Value>可攜式壓力罐 (空氣)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterCarbonDioxide</Key>
-      <Value>攜帶式壓力罐 (二氧化碳)</Value>
+      <Value>可攜式壓力罐 (二氧化碳)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterEmpty</Key>
-      <Value>攜帶式壓力罐</Value>
+      <Value>可攜式壓力罐</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterFuel</Key>
-      <Value>攜帶式壓力罐 (燃料 Fuel)</Value>
+      <Value>可攜式壓力罐 (燃料 Fuel)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterNitrogen</Key>
-      <Value>攜帶式壓力罐 (氮氣 Nitrogen)</Value>
+      <Value>可攜式壓力罐 (氮氣 Nitrogen)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterOxygen</Key>
-      <Value>攜帶式壓力罐 (氧氣 Oxygen)</Value>
+      <Value>可攜式壓力罐 (氧氣 Oxygen)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>攜帶式壓力罐 (氫氣 Hydrogen)</Value>
+      <Value>可攜式壓力罐 (氫氣 Hydrogen)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterWater</Key>
-      <Value>攜帶式壓力罐 (水 Water)</Value>
+      <Value>可攜式壓力罐 (水 Water)</Value>
     </Record>
     <Record>
       <Key>DynamicGenerator</Key>
-      <Value>攜帶式發電機</Value>
+      <Value>可攜式發電機</Value>
     </Record>
     <Record>
       <Key>DynamicLight</Key>
-      <Value>攜帶式燈</Value>
+      <Value>可攜式燈具</Value>
     </Record>
     <Record>
       <Key>DynamicScrubber</Key>
-      <Value>攜帶式空氣清淨機</Value>
+      <Value>可攜式空濾機</Value>
     </Record>
     <Record>
       <Key>EffectSplatEgg</Key>
@@ -735,7 +735,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoil</Key>
-      <Value>電線</Value>
+      <Value>電纜</Value>
     </Record>
     <Record>
       <Key>ItemChemLightBlue</Key>
@@ -1091,23 +1091,23 @@
     </Record>
     <Record>
       <Key>ItemPipeCorner</Key>
-      <Value>管線 (轉角)</Value>
+      <Value>金屬管 (轉角)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction</Key>
-      <Value>管線 (十字)</Value>
+      <Value>金屬管 (十字)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction3</Key>
-      <Value>管線 (三向)</Value>
+      <Value>金屬管 (三向)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction5</Key>
-      <Value>管線 (五向)</Value>
+      <Value>金屬管 (五向)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCrossJunction6</Key>
-      <Value>管線 (六向)</Value>
+      <Value>金屬管 (六向)</Value>
     </Record>
     <Record>
       <Key>ItemPipeDigitalValve</Key>
@@ -1131,11 +1131,11 @@
     </Record>
     <Record>
       <Key>ItemPipeStraight</Key>
-      <Value>管線 (直線)</Value>
+      <Value>金屬管 (直線)</Value>
     </Record>
     <Record>
       <Key>ItemPipeTJunction</Key>
-      <Value>管線 (T字)</Value>
+      <Value>金屬管 (T字)</Value>
     </Record>
     <Record>
       <Key>ItemPipeValve</Key>
@@ -1275,7 +1275,7 @@
     </Record>
     <Record>
       <Key>ItemWallLight</Key>
-      <Value>套件 燈</Value>
+      <Value>套件 電燈</Value>
     </Record>
     <Record>
       <Key>ItemWeldingTorch</Key>
@@ -1371,27 +1371,27 @@
     </Record>
     <Record>
       <Key>StructureCableCorner</Key>
-      <Value>電線 (轉角)</Value>
+      <Value>電纜 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner3</Key>
-      <Value>電線 (三向轉角)</Value>
+      <Value>電纜 (三向轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction</Key>
-      <Value>電線 (T字)</Value>
+      <Value>電纜 (T字)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4</Key>
-      <Value>電線 (十字)</Value>
+      <Value>電纜 (十字)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6</Key>
-      <Value>電線 (六向)</Value>
+      <Value>電纜 (六向)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraight</Key>
-      <Value>電線 (直線)</Value>
+      <Value>電纜 (直線)</Value>
     </Record>
     <Record>
       <Key>StructureCamera</Key>
@@ -1595,23 +1595,23 @@
     </Record>
     <Record>
       <Key>StructurePipeCorner</Key>
-      <Value>管線 (轉角)</Value>
+      <Value>金屬管 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction</Key>
-      <Value>管線 (十字)</Value>
+      <Value>金屬管 (十字)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction3</Key>
-      <Value>管線 (三向轉角)</Value>
+      <Value>金屬管 (三向轉角)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction5</Key>
-      <Value>管線 (五向)</Value>
+      <Value>金屬管 (五向)</Value>
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction6</Key>
-      <Value>管線 (六向)</Value>
+      <Value>金屬管 (六向)</Value>
     </Record>
     <Record>
       <Key>StructurePipeLabel</Key>
@@ -1627,11 +1627,11 @@
     </Record>
     <Record>
       <Key>StructurePipeStraight</Key>
-      <Value>管線 (直線)</Value>
+      <Value>金屬管 (直線)</Value>
     </Record>
     <Record>
       <Key>StructurePipeTJunction</Key>
-      <Value>管線 (T字)</Value>
+      <Value>金屬管 (T字)</Value>
     </Record>
     <Record>
       <Key>StructurePowerConnector</Key>
@@ -1659,7 +1659,7 @@
     </Record>
     <Record>
       <Key>StructureRTG</Key>
-      <Value>放射性同位素發電機</Value>
+      <Value>放射性同位素發電機 (RTG)</Value>
     </Record>
     <Record>
       <Key>StructureSleeper</Key>
@@ -1735,7 +1735,7 @@
     </Record>
     <Record>
       <Key>StructureWallLight</Key>
-      <Value>燈</Value>
+      <Value>電燈</Value>
     </Record>
     <Record>
       <Key>UniformCommander</Key>
@@ -1759,27 +1759,27 @@
     </Record>
     <Record>
       <Key>StructureCableStraightBurnt</Key>
-      <Value>燒毀的電線 (直線)</Value>
+      <Value>燒毀的電纜 (直線)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner3Burnt</Key>
-      <Value>燒毀的電線 (三向)</Value>
+      <Value>燒毀的電纜 (三向)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerBurnt</Key>
-      <Value>燒毀的電線 (轉角)</Value>
+      <Value>燒毀的電纜 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4Burnt</Key>
-      <Value>燒毀的電線 (十字)</Value>
+      <Value>燒毀的電纜 (十字)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6Burnt</Key>
-      <Value>燒毀的電線 (六向)</Value>
+      <Value>燒毀的電纜 (六向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionBurnt</Key>
-      <Value>燒毀的電線 (T字)</Value>
+      <Value>燒毀的電纜 (T字)</Value>
     </Record>
     <Record>
       <Key>StructureSolidFuelGenerator</Key>
@@ -1795,43 +1795,43 @@
     </Record>
     <Record>
       <Key>StructureCableStraightH</Key>
-      <Value>高壓電線 (直線)</Value>
+      <Value>大功率電纜 (直線)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH6</Key>
-      <Value>高壓電線 (六向)</Value>
+      <Value>大功率電纜 (六向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH4</Key>
-      <Value>高壓電線 (十字)</Value>
+      <Value>大功率電纜 (十字)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH</Key>
-      <Value>高壓電線 (T字)</Value>
+      <Value>大功率電纜 (T字)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>燒毀的高壓電線 (六向)</Value>
+      <Value>燒毀的大功率電纜 (六向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>燒毀的高壓電線 (十字)</Value>
+      <Value>燒毀的大功率電纜 (十字)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightHBurnt</Key>
-      <Value>燒毀的高壓電線 (直線)</Value>
+      <Value>燒毀的大功率電纜 (直線)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>燒毀的高壓電線 (T字)</Value>
+      <Value>燒毀的大功率電纜 (T字)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>燒毀的高壓電線 (轉角)</Value>
+      <Value>燒毀的大功率電纜 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH</Key>
-      <Value>高壓電線 (轉角)</Value>
+      <Value>大功率電纜 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse1k</Key>
@@ -1883,7 +1883,7 @@
     </Record>
     <Record>
       <Key>ItemKitPipe</Key>
-      <Value>套件 管線</Value>
+      <Value>套件 金屬管</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReader</Key>
@@ -1891,7 +1891,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>電線 (高壓)</Value>
+      <Value>大功率電纜</Value>
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
@@ -1983,7 +1983,7 @@
     </Record>
     <Record>
       <Key>StructureElectronicsPrinter</Key>
-      <Value>電子材料打印機</Value>
+      <Value>電子材料列印機</Value>
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
@@ -2047,7 +2047,7 @@
     </Record>
     <Record>
       <Key>ItemKitElectronicsPrinter</Key>
-      <Value>電子材料打印機</Value>
+      <Value>電子材料列印機</Value>
     </Record>
     <Record>
       <Key>ItemKitDoor</Key>
@@ -2219,7 +2219,7 @@
     </Record>
     <Record>
       <Key>StructureCableAnalysizer</Key>
-      <Value>管線分析儀</Value>
+      <Value>電力分析儀</Value>
     </Record>
     <Record>
       <Key>StructureLogicDial</Key>
@@ -2291,19 +2291,19 @@
     </Record>
     <Record>
       <Key>StructureCableCornerH3</Key>
-      <Value>高壓電纜 (3向轉角)</Value>
+      <Value>大功率電纜 (3向轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH4</Key>
-      <Value>高壓電纜 (4向轉角)</Value>
+      <Value>大功率電纜 (4向轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4HBurnt</Key>
-      <Value>燒毀的高壓電纜 (4向轉角)</Value>
+      <Value>燒毀的大功率電纜 (4向轉角)</Value>
     </Record>
     <Record>
       <Key>PortableSolarPanel</Key>
-      <Value>攜帶式太陽能板</Value>
+      <Value>可攜式太陽能板</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction5</Key>
@@ -2323,11 +2323,11 @@
     </Record>
     <Record>
       <Key>StructureCableJunctionH5</Key>
-      <Value>高壓電纜 (5向連接)</Value>
+      <Value>大功率電纜 (5向連接)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH5Burnt</Key>
-      <Value>燒毀的高壓電纜 (5向連接)</Value>
+      <Value>燒毀的大功率電纜 (5向連接)</Value>
     </Record>
     <Record>
       <Key>WallFrameCornerCut</Key>
@@ -2391,11 +2391,11 @@
     </Record>
     <Record>
       <Key>ItemKitCompositeCladding</Key>
-      <Value>Kit (Cladding)</Value>
+      <Value>套件 複合牆板</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngledCornerLongR</Key>
-      <Value>Composite Cladding (Long Angled Mirrored Corner)</Value>
+      <Value>複合牆板 (Long Angled Mirrored Corner)</Value>
     </Record>
     <Record>
       <Key>StructureDockPortSide</Key>
@@ -2427,11 +2427,11 @@
     </Record>
     <Record>
       <Key>ItemKitOrganicsPrinter</Key>
-      <Value>Kit (Organics Printer)</Value>
+      <Value>有機物列印機</Value>
     </Record>
     <Record>
       <Key>StructureOrganicsPrinter</Key>
-      <Value>Organics Printer</Value>
+      <Value>有機物列印機</Value>
     </Record>
     <Record>
       <Key>StructureCompositeWindowIron</Key>
@@ -2467,7 +2467,7 @@
     </Record>
     <Record>
       <Key>ItemKitCompositeFloorGrating</Key>
-      <Value>Kit (Floor Grating)</Value>
+      <Value>套件 柵板</Value>
     </Record>
     <Record>
       <Key>CompositeRollCover</Key>
@@ -2475,7 +2475,7 @@
     </Record>
     <Record>
       <Key>ItemKitLadder</Key>
-      <Value>Kit (Ladder)</Value>
+      <Value>攀梯</Value>
     </Record>
     <Record>
       <Key>StructureFrameCornerCut</Key>
@@ -2663,23 +2663,23 @@
     </Record>
     <Record>
       <Key>ItemKitWallArch</Key>
-      <Value>Kit (Arched Wall)</Value>
+      <Value>套件 拱角牆</Value>
     </Record>
     <Record>
       <Key>ItemKitWallFlat</Key>
-      <Value>Kit (Flat Wall)</Value>
+      <Value>套件 平面牆</Value>
     </Record>
     <Record>
       <Key>ItemKitWallGeometry</Key>
-      <Value>Kit (Geometric Wall)</Value>
+      <Value>套件 幾何牆</Value>
     </Record>
     <Record>
       <Key>ItemKitWallPadded</Key>
-      <Value>Kit (Padded Wall)</Value>
+      <Value>套件 填充牆</Value>
     </Record>
     <Record>
       <Key>StructureLadder</Key>
-      <Value>Ladder</Value>
+      <Value>攀梯</Value>
     </Record>
     <Record>
       <Key>CartridgeGuide</Key>
@@ -2687,7 +2687,7 @@
     </Record>
     <Record>
       <Key>StructurePipeCrossJunction4</Key>
-      <Value>Pipe (4-Way Corner)</Value>
+      <Value>金屬管 (4向轉角)</Value>
     </Record>
     <Record>
       <Key>ItemAuthoringTool</Key>
@@ -2695,7 +2695,7 @@
     </Record>
     <Record>
       <Key>StructureRocketEngineDestroyed</Key>
-      <Value>Rocket Engine (Destroyed)</Value>
+      <Value>損毀的火箭引擎</Value>
     </Record>
     <Record>
       <Key>ItemWreckageConstructor</Key>
@@ -2719,7 +2719,7 @@
     </Record>
     <Record>
       <Key>CartridgeAccessController</Key>
-      <Value>晶片 (授權控制)</Value>
+      <Value>晶片 (門禁卡控制)</Value>
     </Record>
     <Record>
       <Key>AccessCardBlack</Key>
@@ -2771,11 +2771,11 @@
     </Record>
     <Record>
       <Key>StructureSecurityPrinter</Key>
-      <Value>安全設備印表機</Value>
+      <Value>保安設備列印機</Value>
     </Record>
     <Record>
       <Key>ItemKitSecurityPrinter</Key>
-      <Value>安全設備印表機</Value>
+      <Value>保安設備列印機</Value>
     </Record>
     <Record>
       <Key>Handgun</Key>
@@ -2819,11 +2819,11 @@
     </Record>
     <Record>
       <Key>StructureCrateMount</Key>
-      <Value>集裝箱架</Value>
+      <Value>集裝箱底座</Value>
     </Record>
     <Record>
       <Key>ItemKitCrateMount</Key>
-      <Value>套件 集裝箱架</Value>
+      <Value>集裝箱底座</Value>
     </Record>
     <Record>
       <Key>StructureLogicMirror</Key>
@@ -2839,7 +2839,7 @@
     </Record>
     <Record>
       <Key>ItemKitHydroponicStation</Key>
-      <Value>套件 水培站</Value>
+      <Value>水培站</Value>
     </Record>
     <Record>
       <Key>StructureDiodeSlide</Key>
@@ -2847,15 +2847,15 @@
     </Record>
     <Record>
       <Key>ItemGasCanisterSmart</Key>
-      <Value>Gas Canister (Smart)</Value>
+      <Value>智慧型氣瓶</Value>
     </Record>
     <Record>
       <Key>CartridgeConfiguration</Key>
-      <Value>Cartridge (Configuration)</Value>
+      <Value>晶片 (組態)</Value>
     </Record>
     <Record>
       <Key>ItemKitCrate</Key>
-      <Value>Kit (Crate)</Value>
+      <Value>集裝箱</Value>
     </Record>
     <Record>
       <Key>CircuitboardGraphDisplay</Key>
@@ -2867,11 +2867,11 @@
     </Record>
     <Record>
       <Key>ItemDynamicScrubber</Key>
-      <Value>Kit (Portable Scrubber)</Value>
+      <Value>可攜式空濾機</Value>
     </Record>
     <Record>
       <Key>ItemDynamicAirCon</Key>
-      <Value>Kit (Portable Air Conditioner)</Value>
+      <Value>可攜式空調機</Value>
     </Record>
     <Record>
       <Key>ItemKitPipeValve</Key>
@@ -2879,23 +2879,23 @@
     </Record>
     <Record>
       <Key>ItemKitDynamicGenerator</Key>
-      <Value>Kit (Portable Generator)</Value>
+      <Value>可攜式發電機</Value>
     </Record>
     <Record>
       <Key>StructureVendingMachine</Key>
-      <Value>Vending Machine</Value>
+      <Value>自動販賣機</Value>
     </Record>
     <Record>
       <Key>ItemKitVendingMachine</Key>
-      <Value>Kit (Vending Machine)</Value>
+      <Value>自動販賣機</Value>
     </Record>
     <Record>
       <Key>StructureLogicSlotReader</Key>
-      <Value>Slot Reader</Value>
+      <Value>插槽讀取器</Value>
     </Record>
     <Record>
       <Key>StructureLogicBatchReader</Key>
-      <Value>Batch Reader</Value>
+      <Value>批量讀取器</Value>
     </Record>
   </Things>
   <Slots>
@@ -4448,15 +4448,15 @@ Just don't be sad when you blow yourself into tiny, tiny little pieces or get sa
     </Record>
     <Record>
       <Key>SettingsDisableParticlesOnMenu</Key>
-      <Value>Disable Particles On Menu</Value>
+      <Value>禁用選單粒子效果</Value>
     </Record>
     <Record>
       <Key>SettingsMouseWheelZoom</Key>
-      <Value>Mouse Wheel Zoom</Value>
+      <Value>滑鼠滾輪縮放</Value>
     </Record>
     <Record>
       <Key>GameMenuRespawn</Key>
-      <Value>Respawn</Value>
+      <Value>重生</Value>
     </Record>
     <Record>
       <Key>MainMenuScenarios</Key>
@@ -4468,7 +4468,7 @@ Just don't be sad when you blow yourself into tiny, tiny little pieces or get sa
     </Record>
     <Record>
       <Key>SettingsSunOrbitPeriod</Key>
-      <Value>Sun Orbit Period</Value>
+      <Value>太陽軌道周期</Value>
     </Record>
     <Record>
       <Key>SettingsExtendedTerrain</Key>
@@ -4476,11 +4476,11 @@ Just don't be sad when you blow yourself into tiny, tiny little pieces or get sa
     </Record>
     <Record>
       <Key>RenameThing</Key>
-      <Value>Rename {0}</Value>
+      <Value>重新命名 {0}</Value>
     </Record>
     <Record>
       <Key>SetThingValue</Key>
-      <Value>Set {0}</Value>
+      <Value>設為 {0}</Value>
     </Record>
     <Record>
       <Key>FurnaceChamber</Key>
@@ -4501,11 +4501,11 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>LogicNoDevice</Key>
-      <Value>No Device</Value>
+      <Value>未選擇裝置</Value>
     </Record>
     <Record>
       <Key>LogicNoSetting</Key>
-      <Value>No Settings</Value>
+      <Value>未設定</Value>
     </Record>
     <Record>
       <Key>RequiresScrewdriver</Key>
