@@ -309,7 +309,7 @@
     </Record>
     <Record>
       <Key>Cycle</Key>
-      <Value>週期</Value>
+      <Value>循環</Value>
     </Record>
     <Record>
       <Key>ForceClose</Key>
@@ -2903,11 +2903,15 @@
     </Record>
     <Record>
       <Key>ItemHardSuit</Key>
-      <Value>堅固太空服</Value>
+      <Value>堅固太空裝</Value>
     </Record>
     <Record>
-      <Key>ItemHardSuitHelmet</Key>
+      <Key>ItemHardsuitHelmet</Key>
       <Value>堅固太空頭盔</Value>
+    </Record>
+    <Record>
+      <Key>ItemWearLamp</Key>
+      <Value>頭燈</Value>
     </Record>
   </Things>
   <Slots>
